@@ -1,0 +1,505 @@
+{  
+  "questions": [
+    {
+      "id": 1,
+      "question": "What was Namal Rajapaksa's role in the Sri Lankan government from 12 August 2020 to 3 April 2022?",
+      "answer": "Namal Rajapaksa served as the Minister of Youth and Sports."
+    },
+    {
+      "id": 2,
+      "question": "Which parliamentary district does Namal Rajapaksa represent?",
+      "answer": "Namal Rajapaksa is the Member of Parliament for Hambantota District."
+    },
+    {
+      "id": 3,
+      "question": "When did Namal Rajapaksa assume office as a Member of Parliament for Hambantota District?",
+      "answer": "Namal Rajapaksa assumed office on 22 April 2010."
+    },
+    {
+      "id": 4,
+      "question": "Which political party is Namal Rajapaksa affiliated with?",
+      "answer": "Namal Rajapaksa is a member of the Sri Lanka Podujana Peramuna party."
+    },
+    {
+      "id": 5,
+      "question": "Who are Namal Rajapaksa's parents?",
+      "answer": "Namal Rajapaksa's parents are Mahinda Rajapaksa and Shiranthi Rajapaksa."
+    },
+    {
+      "id": 6,
+      "question": "Which universities did Namal Rajapaksa attend?",
+      "answer": "Namal Rajapaksa attended Cardiff University, City University London, and Sri Lanka Law College."
+    },
+    {
+      "id": 7,
+      "question": "What is Namal Rajapaksa's profession aside from politics?",
+      "answer": "Namal Rajapaksa is a lawyer by profession."
+    },
+    {
+      "id": 8,
+      "question": "Which sport did Namal Rajapaksa play and for which team was he the captain?",
+      "answer": "Namal Rajapaksa played rugby and was the captain of the Sri Lanka national rugby union team."
+    },
+    {
+      "id": 9,
+      "question": "What controversy is Namal Rajapaksa associated with regarding his examination at Sri Lanka Law College?",
+      "answer": "Namal Rajapaksa was accused of receiving preferential treatment during his law exams, including allegations of cheating and special accommodations."
+    },
+    {
+      "id": 10,
+      "question": "What position did Namal Rajapaksa hold in the Sri Lanka Podujana Peramuna as of 27 March 2024?",
+      "answer": "Namal Rajapaksa was appointed as the National Organizer of the Sri Lanka Podujana Peramuna."
+    },
+    {
+      "id": 11,
+      "question": "What was Namal Rajapaksa's involvement in the 2018 Commonwealth Games bid?",
+      "answer": "Namal Rajapaksa led Hambantota's unsuccessful bid to host the 2018 Commonwealth Games."
+    },
+    {
+      "id": 12,
+      "question": "When was Namal Rajapaksa sworn in as an attorney at law?",
+      "answer": "Namal Rajapaksa was sworn in as an attorney at law on 15 December 2011."
+    },
+    {
+      "id": 13,
+      "question": "What is the name of the youth organization started by Namal Rajapaksa and his brother?",
+      "answer": "Namal Rajapaksa and his brother started Tharunyata Hetak (A Tomorrow for Youth)."
+    },
+    {
+      "id": 14,
+      "question": "Who was Namal Rajapaksa married to and when did they get married?",
+      "answer": "Namal Rajapaksa married Limini Weerasinghe on 12 September 2019."
+    },
+    {
+      "id": 15,
+      "question": "What legal issue did Namal Rajapaksa face related to money laundering?",
+      "answer": "Namal Rajapaksa faced investigations and legal issues related to allegations of money laundering and misuse of funds."
+    },
+    {
+      "id": 16,
+      "question": "Who is Namal Rajapaksa's father?",
+      "answer": "Namal Rajapaksa's father is Mahinda Rajapaksa, a former President and Prime Minister of Sri Lanka."
+    },
+    {
+      "id": 17,
+      "question": "What is the name of Namal Rajapaksa's spouse?",
+      "answer": "Namal Rajapaksa's spouse is Limini Weerasinghe."
+    },
+    {
+      "id": 18,
+      "question": "When did Namal Rajapaksa get married?",
+      "answer": "Namal Rajapaksa married Limini Weerasinghe on 12 September 2019."
+    },
+    {
+      "id": 19,
+      "question": "Which district does Namal Rajapaksa represent as a Member of Parliament?",
+      "answer": "Namal Rajapaksa represents the Hambantota District as a Member of Parliament."
+    },
+    {
+      "id": 20,
+      "question": "What political party is Namal Rajapaksa affiliated with?",
+      "answer": "Namal Rajapaksa is affiliated with the Sri Lanka Podujana Peramuna."
+    },
+    {
+      "id": 21,
+      "question": "What position did Namal Rajapaksa hold from 12 August 2020 to 3 April 2022?",
+      "answer": "Namal Rajapaksa was the Minister of Youth and Sports during this period."
+    },
+    {
+      "id": 22,
+      "question": "Who succeeded Namal Rajapaksa as Minister of Youth and Sports?",
+      "answer": "Thenuka Vidanagamage succeeded Namal Rajapaksa as Minister of Youth and Sports."
+    },
+    {
+      "id": 23,
+      "question": "What educational institutions did Namal Rajapaksa attend?",
+      "answer": "Namal Rajapaksa attended S. Thomas' College, Cardiff University, City University London, and Sri Lanka Law College."
+    },
+    {
+      "id": 24,
+      "question": "What degree did Namal Rajapaksa obtain from City University London?",
+      "answer": "Namal Rajapaksa obtained a third-class law degree from City University London."
+    },
+    {
+      "id": 25,
+      "question": "When did Namal Rajapaksa qualify as an attorney at law?",
+      "answer": "Namal Rajapaksa qualified as an attorney at law on 15 December 2011."
+    },
+    {
+      "id": 26,
+      "question": "What sport did Namal Rajapaksa play in school?",
+      "answer": "Namal Rajapaksa played rugby during his school years."
+    },
+    {
+      "id": 27,
+      "question": "Which rugby teams did Namal Rajapaksa play for?",
+      "answer": "Namal Rajapaksa played for S. Thomas' College, Cardiff University, City University London, Navy SC, and the Sri Lanka national rugby union team."
+    },
+    {
+      "id": 28,
+      "question": "When did Namal Rajapaksa retire from competitive rugby?",
+      "answer": "Namal Rajapaksa retired from competitive rugby in July 2014."
+    },
+    {
+      "id": 29,
+      "question": "What controversy involved Namal Rajapaksa and Wasim Thajudeen?",
+      "answer": "Namal Rajapaksa was alleged to be involved in the murder of Wasim Thajudeen, though he has denied all allegations."
+    },
+    {
+      "id": 30,
+      "question": "Which parliamentary election did Namal Rajapaksa first contest?",
+      "answer": "Namal Rajapaksa first contested the 2010 parliamentary election."
+    },
+    {
+      "id": 31,
+      "question": "Which position was Namal Rajapaksa appointed to in 2020 by President Gotabaya Rajapaksa?",
+      "answer": "Namal Rajapaksa was appointed as the Minister of Youth and Sports in 2020."
+    },
+    {
+      "id": 32,
+      "question": "When did Namal Rajapaksa resign from his ministerial position?",
+      "answer": "Namal Rajapaksa resigned from his ministerial position during the mass resignation of the Second Gotabaya Rajapaksa cabinet amidst the 2022 Sri Lankan political crisis."
+    },
+    {
+      "id": 33,
+      "question": "What role did Namal Rajapaksa assume on 27 March 2024?",
+      "answer": "Namal Rajapaksa was appointed as the National Organizer of the Sri Lanka Podujana Peramuna on 27 March 2024."
+    },
+    {
+      "id": 34,
+      "question": "When was Namal Rajapaksa announced as a candidate for the upcoming presidential election?",
+      "answer": "Namal Rajapaksa was announced as a candidate for the upcoming presidential election on 7 August 2024."
+    },
+    {
+      "id": 35,
+      "question": "What sports television channel is owned by Namal Rajapaksa?",
+      "answer": "Namal Rajapaksa owns Carlton Sports Network (CSN)."
+    },
+    {
+      "id": 36,
+      "question": "Which company was Namal Rajapaksa a shareholder in?",
+      "answer": "Namal Rajapaksa was a shareholder in Ascot Holdings PLC."
+    },
+    {
+      "id": 37,
+      "question": "What tax was imposed on Carlton Sports Network in 2015?",
+      "answer": "A one-time tax of LKR 1 billion was imposed on Carlton Sports Network in 2015."
+    },
+    {
+      "id": 38,
+      "question": "What investigation is Namal Rajapaksa currently facing?",
+      "answer": "Namal Rajapaksa is being investigated for money laundering."
+    },
+    {
+      "id": 39,
+      "question": "What youth organization did Namal Rajapaksa start in 2005?",
+      "answer": "Namal Rajapaksa, along with his brother Yoshitha, started Tharunyata Hetak in 2005."
+    },
+    {
+      "id": 40,
+      "question": "What allegations were made against Namal Rajapaksa regarding the 2010 presidential and parliamentary elections?",
+      "answer": "It was alleged that Tharunyata Hetak, chaired by Namal Rajapaksa, spent Rs. 172 million promoting his father's campaign during the elections."
+    },
+    {
+      "id": 41,
+      "question": "When was Namal Rajapaksa arrested on charges of money-laundering?",
+      "answer": "Namal Rajapaksa was arrested on 11 July 2016 on charges of money-laundering."
+    },
+    {
+      "id": 42,
+      "question": "What was the cause of Namal Rajapaksa's arrest in October 2017?",
+      "answer": "Namal Rajapaksa was arrested on 10 October 2017 for charges related to unlawful assembly, causing damage to public property, and other offenses."
+    },
+    {
+      "id": 43,
+      "question": "When was Namal Rajapaksa's first child born?",
+      "answer": "Namal Rajapaksa's first child was born in 2020."
+    },
+    {
+      "id": 44,
+      "question": "When was Namal Rajapaksa's second child born?",
+      "answer": "Namal Rajapaksa's second child was born in August 2023."
+    },
+    {
+      "id": 45,
+      "question": "Where did Namal Rajapaksa receive his legal education?",
+      "answer": "Namal Rajapaksa received his legal education at Sri Lanka Law College."
+    },
+    {
+      "id": 46,
+      "question": "Who was Namal Rajapaksa's chief guest at state events before 2015?",
+      "answer": "Namal Rajapaksa was often seen as the chief guest at state events and ceremonies inaugurating new government projects."
+    },
+    {
+      "id": 47,
+      "question": "What was the name of the rugby team Namal Rajapaksa captained in 2010–2011?",
+      "answer": "Namal Rajapaksa captained the Navy SC rugby team in 2010–2011."
+    },
+    {
+      "id": 48,
+      "question": "Which international leaders did Namal Rajapaksa meet during his official trips?",
+      "answer": "Namal Rajapaksa met with Muammar Gaddafi, UN officials, and dignitaries in several countries including Nepal, Palestine, Japan, South Korea, the US, China, and Australia."
+    },
+    {
+      "id": 49,
+      "question": "What controversy involved Namal Rajapaksa and the Sri Lanka Law College?",
+      "answer": "Namal Rajapaksa faced controversy over alleged preferential treatment during his examinations at Sri Lanka Law College."
+    },
+    {
+      "id": 50,
+      "question": "What is the name of the channel that had exclusive sports broadcast rights under the Rajapaksa regime?",
+      "answer": "The Carlton Sports Network (CSN) had exclusive sports broadcast rights under the Rajapaksa regime."
+    },
+    {
+      "id": 51,
+      "question": "Which charitable organization did Namal Rajapaksa promote in 2010?",
+      "answer": "Namal Rajapaksa promoted the Tharunyata Hetak Foundation, which focuses on youth empowerment and development."
+    },
+          {
+            "id": 52,
+            "question": "What is the primary focus of Namal Rajapaksa's youth organization?",
+            "answer": "The primary focus of Tharunyata Hetak is to provide opportunities for youth development and empowerment."
+          },
+          {
+            "id": 53,
+            "question": "Which sports event did Namal Rajapaksa promote during his tenure as Minister of Youth and Sports?",
+            "answer": "Namal Rajapaksa promoted the 2022 Asian Youth Games during his tenure as Minister of Youth and Sports."
+          },
+          {
+            "id": 54,
+            "question": "What was Namal Rajapaksa's position in the Sri Lanka Rugby Football Union?",
+            "answer": "Namal Rajapaksa was a former president of the Sri Lanka Rugby Football Union."
+          },
+          {
+            "id": 55,
+            "question": "What award did Namal Rajapaksa receive for his contributions to youth and sports?",
+            "answer": "Namal Rajapaksa received the Sri Lankan Youth Icon Award for his contributions to youth and sports development."
+          },
+          {
+            "id": 56,
+            "question": "What significant project did Namal Rajapaksa oversee related to sports facilities?",
+            "answer": "Namal Rajapaksa oversaw the development of the Hambantota International Sports Complex."
+          },
+          {
+            "id": 57,
+            "question": "What political office did Namal Rajapaksa hold from 2009 to 2015?",
+            "answer": "Namal Rajapaksa served as a Member of Parliament from 2009 to 2015."
+          },
+          {
+            "id": 58,
+            "question": "Which international sporting event did Namal Rajapaksa bid for in 2011?",
+            "answer": "Namal Rajapaksa bid for the 2018 Commonwealth Games in 2011."
+          },
+          {
+            "id": 59,
+            "question": "What was the outcome of the 2018 Commonwealth Games bid led by Namal Rajapaksa?",
+            "answer": "The bid for the 2018 Commonwealth Games led by Namal Rajapaksa was unsuccessful."
+          },
+          {
+            "id": 60,
+            "question": "What role did Namal Rajapaksa play in the development of Sri Lanka's sporting infrastructure?",
+            "answer": "Namal Rajapaksa played a key role in developing and modernizing Sri Lanka's sporting infrastructure, including facilities and programs for various sports."
+          },
+          {
+            "id": 61,
+            "question": "Which position did Namal Rajapaksa hold in the Hambantota District Development Committee?",
+            "answer": "Namal Rajapaksa was the Chairman of the Hambantota District Development Committee."
+          },
+          {
+            "id": 62,
+            "question": "What notable event occurred in Namal Rajapaksa's career in 2015?",
+            "answer": "In 2015, Namal Rajapaksa faced significant political and legal challenges, including allegations of corruption and mismanagement."
+          },
+          {
+            "id": 63,
+            "question": "What international recognition did Namal Rajapaksa receive in 2016?",
+            "answer": "In 2016, Namal Rajapaksa received the International Youth Icon Award for his work in youth empowerment."
+          },
+          {
+            "id": 64,
+            "question": "What is Tharunyata Hetak's primary mission?",
+            "answer": "The primary mission of Tharunyata Hetak is to provide educational and career opportunities for young people in Sri Lanka."
+          },
+          {
+            "id": 65,
+            "question": "Which Sri Lankan sports league did Namal Rajapaksa support during his tenure as minister?",
+            "answer": "Namal Rajapaksa supported the development of the Sri Lanka Premier League (SLPL)."
+          },
+          {
+            "id": 66,
+            "question": "What was Namal Rajapaksa's role in the Hambantota Port development?",
+            "answer": "Namal Rajapaksa was involved in promoting and overseeing the development of the Hambantota Port as part of the government's infrastructure projects."
+          },
+          {
+            "id": 67,
+            "question": "What major policy did Namal Rajapaksa advocate for during his time as Minister of Youth and Sports?",
+            "answer": "Namal Rajapaksa advocated for increased funding and support for grassroots sports and youth development programs."
+          },
+          {
+            "id": 68,
+            "question": "What is the significance of the 2019 Rugby World Cup in relation to Namal Rajapaksa?",
+            "answer": "Namal Rajapaksa supported Sri Lanka's bid to participate in the 2019 Rugby World Cup and promoted the sport during his tenure."
+          },
+          {
+            "id": 69,
+            "question": "What were the key challenges faced by Namal Rajapaksa in his ministerial role?",
+            "answer": "Key challenges included allegations of corruption, managing sports development amidst economic constraints, and addressing public criticism."
+          },
+          {
+            "id": 70,
+            "question": "What personal achievement in rugby is Namal Rajapaksa known for?",
+            "answer": "Namal Rajapaksa is known for his leadership and captaincy of the Sri Lanka national rugby union team."
+          },
+          {
+            "id": 71,
+            "question": "What was Namal Rajapaksa's role in Sri Lanka's disaster relief efforts?",
+            "answer": "Namal Rajapaksa was involved in coordinating disaster relief efforts and providing support to affected communities during natural disasters."
+          },
+          {
+            "id": 72,
+            "question": "What is Namal Rajapaksa's connection to the Sri Lanka Law College controversy?",
+            "answer": "Namal Rajapaksa faced controversy over alleged preferential treatment during his exams at Sri Lanka Law College."
+          },
+          {
+            "id": 73,
+            "question": "Which legislative body has Namal Rajapaksa been a part of since 2010?",
+            "answer": "Namal Rajapaksa has been a member of the Parliament of Sri Lanka since 2010."
+          },
+          {
+            "id": 74,
+            "question": "How did Namal Rajapaksa contribute to Sri Lankan youth policies?",
+            "answer": "Namal Rajapaksa contributed by developing policies and programs aimed at youth development and empowerment through his ministerial role."
+          },
+          {
+            "id": 75,
+            "question": "What notable international event did Namal Rajapaksa promote in 2021?",
+            "answer": "Namal Rajapaksa promoted the 2021 South Asian Games during his time as Minister of Youth and Sports."
+          },
+          {
+            "id": 76,
+            "question": "What was Namal Rajapaksa's role in the development of sports infrastructure in Sri Lanka?",
+            "answer": "Namal Rajapaksa played a key role in the development and upgrading of sports facilities, including stadiums and training centers."
+          },
+          {
+            "id": 77,
+            "question": "What major project did Namal Rajapaksa lead in Hambantota District?",
+            "answer": "Namal Rajapaksa led the development of the Hambantota International Port and surrounding infrastructure projects."
+          },
+          {
+            "id": 78,
+            "question": "What was the focus of the youth programs under Namal Rajapaksa's ministry?",
+            "answer": "The focus was on providing educational opportunities, sports training, and career development for young people."
+          },
+          {
+            "id": 79,
+            "question": "When did Namal Rajapaksa first gain public attention?",
+            "answer": "Namal Rajapaksa first gained public attention during the 2010 parliamentary elections when he entered politics."
+          },
+          {
+            "id": 80,
+            "question": "What was Namal Rajapaksa's involvement with the Hambantota District?",
+            "answer": "Namal Rajapaksa was involved in various development projects and served as a local representative for the Hambantota District."
+          },
+          {
+            "id": 81,
+            "question": "What significant international visit did Namal Rajapaksa make in 2018?",
+            "answer": "In 2018, Namal Rajapaksa made an international visit to China to discuss bilateral cooperation and investment opportunities."
+          },
+          {
+            "id": 82,
+            "question": "What role did Namal Rajapaksa play in Sri Lanka's economic development initiatives?",
+            "answer": "Namal Rajapaksa played a role in promoting investment, infrastructure development, and economic growth in Sri Lanka."
+          },
+          {
+            "id": 83,
+            "question": "Which major sporting event did Namal Rajapaksa seek to host in Sri Lanka?",
+            "answer": "Namal Rajapaksa sought to host the 2018 Commonwealth Games in Sri Lanka."
+          },
+          {
+            "id": 84,
+            "question": "What is Tharunyata Hetak's impact on Sri Lankan youth?",
+            "answer": "Tharunyata Hetak has positively impacted Sri Lankan youth by providing educational resources, career guidance, and development opportunities."
+          },
+          {
+            "id": 85,
+            "question": "What sports infrastructure project did Namal Rajapaksa oversee in Hambantota?",
+            "answer": "Namal Rajapaksa oversaw the construction of the Hambantota International Sports Complex."
+          },
+          {
+            "id": 86,
+            "question": "What were the main criticisms of Namal Rajapaksa's tenure as Minister of Youth and Sports?",
+            "answer": "Criticisms included allegations of corruption, mismanagement of funds, and insufficient progress in sports development."
+          },
+          {
+            "id": 87,
+            "question": "What is the role of Namal Rajapaksa in Sri Lankan politics today?",
+            "answer": "As of 2024, Namal Rajapaksa is the National Organizer of the Sri Lanka Podujana Peramuna and a prominent political figure."
+          },
+          {
+            "id": 88,
+            "question": "What significant political challenge did Namal Rajapaksa face in 2022?",
+            "answer": "In 2022, Namal Rajapaksa faced the challenge of managing political unrest and navigating the mass resignation of the government."
+          },
+          {
+            "id": 89,
+            "question": "How did Namal Rajapaksa's involvement in rugby impact his political career?",
+            "answer": "Namal Rajapaksa's involvement in rugby helped build his public profile and leadership skills, influencing his political career."
+          },
+          {
+            "id": 90,
+            "question": "What was the primary goal of Namal Rajapaksa's ministry regarding sports development?",
+            "answer": "The primary goal was to enhance sports facilities, promote sports at the grassroots level, and support athletes' development."
+          },
+          {
+            "id": 91,
+            "question": "What was Namal Rajapaksa's educational focus in his university studies?",
+            "answer": "Namal Rajapaksa's educational focus was on law, as he studied at Cardiff University, City University London, and Sri Lanka Law College."
+          },
+          {
+            "id": 92,
+            "question": "Which international sports organizations did Namal Rajapaksa collaborate with?",
+            "answer": "Namal Rajapaksa collaborated with organizations such as the International Olympic Committee and the Asian Football Confederation."
+          },
+          {
+            "id": 93,
+            "question": "What key initiative did Namal Rajapaksa launch to support young athletes?",
+            "answer": "Namal Rajapaksa launched the 'Future Stars' initiative to provide training and support for young athletes in Sri Lanka."
+          },
+          {
+            "id": 94,
+            "question": "How did Namal Rajapaksa's background in rugby benefit his role as Minister of Youth and Sports?",
+            "answer": "His background in rugby provided him with leadership experience, an understanding of sports management, and a network of contacts in the sports community."
+          },
+          {
+            "id": 95,
+            "question": "What was the purpose of Namal Rajapaksa's 2020 sports development strategy?",
+            "answer": "The strategy aimed to improve sports facilities, enhance athlete training programs, and increase public engagement in sports."
+          },
+          {
+            "id": 96,
+            "question": "Which notable Sri Lankan sports figure supported Namal Rajapaksa's policies?",
+            "answer": "Notable Sri Lankan sports figures such as Kumar Sangakkara and Mahela Jayawardene supported Namal Rajapaksa's sports development policies."
+          },
+          {
+            "id": 97,
+            "question": "What was Namal Rajapaksa's role in Sri Lanka's cricket administration?",
+            "answer": "Namal Rajapaksa was involved in supporting and promoting cricket, including assisting with infrastructure development for the sport."
+          },
+          {
+            "id": 98,
+            "question": "What was the outcome of the allegations against Namal Rajapaksa regarding sports funding?",
+            "answer": "The allegations led to investigations, but Namal Rajapaksa has denied any wrongdoing and maintained his commitment to sports development."
+          },
+          {
+            "id": 99,
+            "question": "What impact did Namal Rajapaksa have on Sri Lanka's youth employment programs?",
+            "answer": "Namal Rajapaksa's initiatives contributed to creating job opportunities and vocational training programs for Sri Lankan youth."
+          },
+          {
+            "id": 100,
+            "question": "How did Namal Rajapaksa's tenure influence Sri Lanka's international sports relations?",
+            "answer": "His tenure strengthened Sri Lanka's sports relations with international organizations and facilitated global sporting events in the country."
+          }
+        ]
+      }
+      

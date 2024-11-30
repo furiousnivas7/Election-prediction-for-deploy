@@ -1,0 +1,155 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Who is currently leading the election?",
+        "answer": "Mr. Sajith Premadasa, leader of the Samagi Jana Balawega, is leading the election with 40% of the vote."
+      },
+      {
+        "id": 2,
+        "question": "What percentage of votes does Mr. Anura Dissanayake’s National People’s Force have?",
+        "answer": "Mr. Anura Dissanayake’s National People’s Force holds 30% of the vote."
+      },
+      {
+        "id": 3,
+        "question": "By how much is Mr. Anura Dissanayake trailing behind Mr. Sajith Premadasa?",
+        "answer": "Mr. Anura Dissanayake is trailing behind Mr. Sajith Premadasa by 10%."
+      },
+      {
+        "id": 4,
+        "question": "What percentage of votes does President Ranil Wickremesinghe have in the latest survey?",
+        "answer": "President Ranil Wickremesinghe has 7% of the vote."
+      },
+      {
+        "id": 5,
+        "question": "How much support does Mr. Namal Rajapaksa have according to the survey?",
+        "answer": "Mr. Namal Rajapaksa has 7% of the vote, the same as President Ranil Wickremesinghe."
+      },
+      {
+        "id": 6,
+        "question": "What is the difference in vote percentage between Mr. Sajith Premadasa and Mr. Namal Rajapaksa?",
+        "answer": "The difference in vote percentage between Mr. Sajith Premadasa and Mr. Namal Rajapaksa is 33%."
+      },
+      {
+        "id": 7,
+        "question": "How many candidates are mentioned in the main survey results?",
+        "answer": "Four candidates are mentioned: Mr. Sajith Premadasa, Mr. Anura Dissanayake, President Ranil Wickremesinghe, and Mr. Namal Rajapaksa."
+      },
+      {
+        "id": 8,
+        "question": "What is the combined percentage of votes for the top two candidates?",
+        "answer": "The combined percentage of votes for Mr. Sajith Premadasa and Mr. Anura Dissanayake is 70%."
+      },
+      {
+        "id": 9,
+        "question": "How much of the vote share do the top three candidates have together?",
+        "answer": "Together, Mr. Sajith Premadasa, Mr. Anura Dissanayake, and President Ranil Wickremesinghe have 77% of the vote."
+      },
+      {
+        "id": 10,
+        "question": "What percentage of votes do Mr. Ranil Wickremesinghe and Mr. Namal Rajapaksa have combined?",
+        "answer": "Mr. Ranil Wickremesinghe and Mr. Namal Rajapaksa have a combined 14% of the vote."
+      },
+      {
+        "id": 11,
+        "question": "What is the vote gap between Mr. Anura Dissanayake and Mr. Ranil Wickremesinghe?",
+        "answer": "The vote gap between Mr. Anura Dissanayake and Mr. Ranil Wickremesinghe is 23%."
+      },
+      {
+        "id": 12,
+        "question": "In the lesser-known intelligence report, how much support is predicted for Mr. Sajith Premadasa?",
+        "answer": "In the lesser-known intelligence report, Mr. Sajith Premadasa is predicted to receive 38% of the vote."
+      },
+      {
+        "id": 13,
+        "question": "According to the alternate report, what percentage is Mr. Anura Dissanayake expected to receive?",
+        "answer": "The alternate report predicts that Mr. Anura Dissanayake will receive 28% of the vote."
+      },
+      {
+        "id": 14,
+        "question": "What is President Ranil Wickremesinghe’s vote percentage in the second report?",
+        "answer": "President Ranil Wickremesinghe is predicted to receive 10% of the vote in the second report."
+      },
+      {
+        "id": 15,
+        "question": "Does the second report show any changes in support for Mr. Namal Rajapaksa?",
+        "answer": "No, the second report also predicts that Mr. Namal Rajapaksa will receive 7% of the vote."
+      },
+      {
+        "id": 16,
+        "question": "How much of the vote do Mr. Sajith Premadasa and Mr. Anura Dissanayake hold together in the second report?",
+        "answer": "Together, Mr. Sajith Premadasa and Mr. Anura Dissanayake hold 66% of the vote in the second report."
+      },
+      {
+        "id": 17,
+        "question": "What is the vote gap between Mr. Sajith Premadasa and Mr. Anura Dissanayake in the second report?",
+        "answer": "In the second report, Mr. Sajith Premadasa leads Mr. Anura Dissanayake by 10%."
+      },
+      {
+        "id": 18,
+        "question": "What percentage of votes do the top two candidates hold in the first report?",
+        "answer": "In the first report, the top two candidates, Mr. Sajith Premadasa and Mr. Anura Dissanayake, hold 70% of the vote combined."
+      },
+      {
+        "id": 19,
+        "question": "How does the vote share of President Ranil Wickremesinghe differ between the two reports?",
+        "answer": "In the first report, President Ranil Wickremesinghe has 7%, while in the second report, he has 10%."
+      },
+      {
+        "id": 20,
+        "question": "What is the percentage difference between the two reports for Mr. Sajith Premadasa?",
+        "answer": "The difference is 2%, with Mr. Sajith Premadasa receiving 40% in the first report and 38% in the second report."
+      },
+      {
+        "id": 21,
+        "question": "How much does Mr. Anura Dissanayake’s vote percentage vary between the two reports?",
+        "answer": "Mr. Anura Dissanayake’s vote percentage is 30% in the first report and 28% in the second report, a difference of 2%."
+      },
+      {
+        "id": 22,
+        "question": "What is the total percentage of votes covered by all candidates in the first survey?",
+        "answer": "The total percentage of votes covered by all candidates in the first survey is 84%."
+      },
+      {
+        "id": 23,
+        "question": "Are there any other significant candidates mentioned in the reports besides the four listed?",
+        "answer": "No, the reports only mention the four candidates: Mr. Sajith Premadasa, Mr. Anura Dissanayake, President Ranil Wickremesinghe, and Mr. Namal Rajapaksa."
+      },
+      {
+        "id": 24,
+        "question": "How many percentage points are Mr. Ranil Wickremesinghe and Mr. Namal Rajapaksa behind the top candidate in the first report?",
+        "answer": "They are both 33 percentage points behind Mr. Sajith Premadasa."
+      },
+      {
+        "id": 25,
+        "question": "In the second report, how much of the vote is predicted for all four candidates combined?",
+        "answer": "In the second report, the combined vote for all four candidates is 83%."
+      },
+      {
+        "id": 26,
+        "question": "How do the two reports compare in terms of the total percentage of votes accounted for?",
+        "answer": "The first report accounts for 84% of the vote, while the second report accounts for 83%."
+      },
+      {
+        "id": 27,
+        "question": "Which candidate has the largest percentage difference between the two reports?",
+        "answer": "President Ranil Wickremesinghe has the largest percentage difference, with 7% in the first report and 10% in the second report."
+      },
+      {
+        "id": 28,
+        "question": "Is there a clear frontrunner in both reports?",
+        "answer": "Yes, Mr. Sajith Premadasa is the clear frontrunner in both reports."
+      },
+      {
+        "id": 29,
+        "question": "How does Mr. Namal Rajapaksa’s performance compare across the two reports?",
+        "answer": "Mr. Namal Rajapaksa receives 7% of the vote in both reports, with no change between the two."
+      },
+      {
+        "id": 30,
+        "question": "Which report gives more support to Mr. Anura Dissanayake?",
+        "answer": "The first report gives more support to Mr. Anura Dissanayake, with 30% compared to 28% in the second report."
+      }
+    ]
+  }
+  

@@ -1,0 +1,124 @@
+{ 
+  "questions":[
+    {
+      "id": 1,
+      "question": "Who is Pakkiyaselvam Ariyanethiran?",
+      "answer": "Pakkiyaselvam Ariyanethiran is a Sri Lankan Tamil politician born on 1 February 1955. He was a Member of Parliament for the Batticaloa District from 2004 to 2015, representing the Tamil National Alliance."
+    },
+    {
+      "id": 2,
+      "question": "What political positions has Ariyanethiran held?",
+      "answer": "Ariyanethiran was a trustee of Kokkatticholai Sivan Temple and editor of Thamil Alai, a Liberation Tigers of Tamil Eelam newspaper. He served as a Member of Parliament for the Batticaloa District and was a candidate in the 2024 presidential elections."
+    },
+    {
+      "id": 3,
+      "question": "What was the outcome of Ariyanethiran's 2004 parliamentary election?",
+      "answer": "In the 2004 parliamentary election, Ariyanethiran was initially not elected as he placed fifth among the Tamil National Alliance's (TNA) candidates. He later entered Parliament in May 2004 following the resignation of Kingsley Rasanayagam. It has been alleged that the LTTE forced Rasanayagam to resign to make way for Ariyanethiran."
+    },
+    {
+      "id": 4,
+      "question": "What happened to Ariyanethiran in the 2010 and 2015 parliamentary elections?",
+      "answer": "Ariyanethiran was re-elected in the 2010 parliamentary election. However, he failed to get re-elected in the 2015 parliamentary election."
+    },
+    {
+      "id": 5,
+      "question": "What is Ariyanethiran's status in the 2024 presidential election?",
+      "answer": "In 2024, Ariyanethiran was nominated by several Tamil political parties as their common candidate for the presidential elections. However, the Ilankai Tamil Arasu Kachchi did not endorse him."
+    },
+    {
+      "id": 6,
+      "question": "What were the results of Ariyanethiran's parliamentary elections?",
+      "answer": [
+        {
+          "election": "2004 parliamentary",
+          "constituency": "Batticaloa District",
+          "party": "Tamil National Alliance (TNA)",
+          "votes": 35377,
+          "result": "Not elected"
+        },
+        {
+          "election": "2010 parliamentary",
+          "constituency": "Batticaloa District",
+          "party": "Tamil National Alliance (TNA)",
+          "votes": 16504,
+          "result": "Elected"
+        },
+        {
+          "election": "2015 parliamentary",
+          "constituency": "Batticaloa District",
+          "party": "Tamil National Alliance (TNA)",
+          "votes": "Not available",
+          "result": "Not elected"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "question": "What are some key events in Ariyanethiran's political career?",
+      "answer": [
+        "Ariyanethiran was a trustee of Kokkatticholai Sivan Temple.",
+        "He was editor of Thamil Alai, a Liberation Tigers of Tamil Eelam newspaper.",
+        "He was selected by the LTTE as a Tamil National Alliance (TNA) candidate in the 2004 parliamentary election.",
+        "Ariyanethiran entered Parliament in May 2004 after the resignation of Kingsley Rasanayagam.",
+        "He was re-elected in the 2010 parliamentary election but did not win in 2015.",
+        "In 2024, he was nominated as a common candidate for the presidential elections by several Tamil political parties."
+      ]
+    },
+          {
+            "id": 8,
+            "question": "When was Pakkiyaselvam Ariyanethiran born?",
+            "answer": "Pakkiyaselvam Ariyanethiran was born on 1 February 1955."
+          },
+          {
+            "id": 9,
+            "question": "Which district did Ariyanethiran represent as a Member of Parliament?",
+            "answer": "Ariyanethiran represented the Batticaloa District as a Member of Parliament."
+          },
+          {
+            "id": 10,
+            "question": "What role did Ariyanethiran have with the Tamil National Alliance (TNA) in 2004?",
+            "answer": "In 2004, Ariyanethiran was a candidate of the Tamil National Alliance (TNA) for the Batticaloa District parliamentary election."
+          },
+          {
+            "id": 11,
+            "question": "Why did Ariyanethiran enter Parliament in May 2004?",
+            "answer": "Ariyanethiran entered Parliament in May 2004 following the resignation of Kingsley Rasanayagam, who was allegedly pressured by the LTTE to resign."
+          },
+          {
+            "id": 12,
+            "question": "How did Ariyanethiran's political career change between 2010 and 2015?",
+            "answer": "Ariyanethiran was re-elected in the 2010 parliamentary election but failed to win re-election in the 2015 parliamentary election."
+          },
+          {
+            "id": 13,
+            "question": "What was the significance of the LTTE's involvement in Ariyanethiran's 2004 election?",
+            "answer": "The LTTE's involvement was significant because it was alleged that they forced the resignation of Kingsley Rasanayagam to ensure Ariyanethiran's entry into Parliament."
+          },
+          {
+            "id": 14,
+            "question": "What was Ariyanethiran's role with the Kokkatticholai Sivan Temple?",
+            "answer": "Ariyanethiran was a trustee of Kokkatticholai Sivan Temple."
+          },
+          {
+            "id": 15,
+            "question": "What was the nature of Thamil Alai, which Ariyanethiran edited?",
+            "answer": "Thamil Alai was a newspaper published by the Liberation Tigers of Tamil Eelam (LTTE)."
+          },
+          {
+            "id": 16,
+            "question": "Which Tamil political parties nominated Ariyanethiran as their common candidate for the 2024 presidential elections?",
+            "answer": "Several Tamil political parties nominated Ariyanethiran as their common candidate, but the Ilankai Tamil Arasu Kachchi did not endorse him."
+          },
+          {
+            "id": 17,
+            "question": "What were Ariyanethiran's parliamentary election results in terms of votes in 2004 and 2010?",
+            "answer": "In the 2004 parliamentary election, Ariyanethiran received 35,377 votes. In the 2010 parliamentary election, he received 16,504 votes."
+          },
+          {
+            "id": 18,
+            "question": "How did the 2024 presidential elections affect Ariyanethiran's political career?",
+            "answer": "In the 2024 presidential elections, Ariyanethiran was a candidate nominated by several Tamil political parties, though he did not receive endorsement from the Ilankai Tamil Arasu Kachchi."
+          }
+        ]
+      }
+      

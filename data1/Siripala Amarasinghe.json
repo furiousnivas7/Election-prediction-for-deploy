@@ -1,0 +1,61 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "Which former Janatha Vimukthi Peramuna (JVP) Parliamentarian has placed bonds to contest in the forthcoming Presidential Election?",
+        "answer": "Former Janatha Vimukthi Peramuna (JVP) Parliamentarian Siripala Amarasinghe has placed bonds to contest in the forthcoming Presidential Election."
+      },
+      {
+        "id": 2,
+        "question": "From which district did Siripala Amarasinghe serve as a Member of Parliament?",
+        "answer": "Siripala Amarasinghe served as a Member of Parliament from the Gampaha District."
+      },
+      {
+        "id": 3,
+        "question": "How many candidates have placed their deposits with the Election Commission to contest for the presidency thus far?",
+        "answer": "A total of 15 candidates have placed their deposits with the Election Commission to contest for the presidency thus far."
+      },
+      {
+        "id": 4,
+        "question": "How many independent candidates have placed their deposits for the presidential election?",
+        "answer": "Six independent candidates have placed their deposits for the presidential election."
+      },
+      {
+        "id": 5,
+        "question": "How many candidates from recognized political parties are contesting in the presidential election?",
+        "answer": "Eight candidates from recognized political parties are contesting in the presidential election."
+      },
+      {
+        "id": 6,
+        "question": "How many candidates from other political parties are contesting in the presidential election?",
+        "answer": "One candidate from other political parties is contesting in the presidential election."
+      },
+          {
+            "id": 7,
+            "question": "On what date did Siripala Amarasinghe place his bonds to contest in the presidential election?",
+            "answer": "Siripala Amarasinghe placed his bonds on 05th of the month to contest in the presidential election."
+          },
+          {
+            "id": 8,
+            "question": "What is Siripala Amarasinghe's current political affiliation?",
+            "answer": "Siripala Amarasinghe is currently contesting as an independent candidate."
+          },
+          {
+            "id": 9,
+            "question": "Which political party did Siripala Amarasinghe represent as a Member of Parliament?",
+            "answer": "Siripala Amarasinghe represented the Janatha Vimukthi Peramuna (JVP) as a Member of Parliament."
+          },
+          {
+            "id": 10,
+            "question": "How many total categories of candidates are contesting in the presidential election?",
+            "answer": "There are three categories of candidates contesting in the presidential election: independent candidates, recognized political party candidates, and other political party candidates."
+          },
+          {
+            "id": 11,
+            "question": "What is the total number of candidates from recognized political parties and other political parties combined?",
+            "answer": "The total number of candidates from recognized political parties and other political parties combined is nine (eight from recognized political parties and one from other political parties)."
+          }
+        ]
+      }
+      
+  

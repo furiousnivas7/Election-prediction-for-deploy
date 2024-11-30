@@ -1,0 +1,780 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "When is the 2024 Sri Lankan presidential election scheduled?",
+        "answer": "The 2024 Sri Lankan presidential election is scheduled to be held on 21 September 2024."
+      },
+      {
+        "id": 2,
+        "question": "Who are the major candidates in the 2024 Sri Lankan presidential election?",
+        "answer": "The major candidates include Ranil Wickremesinghe (Independent), Sajith Premadasa (SJB), Anura Kumara Dissanayake (NPP), and Namal Rajapaksa (SLPP)."
+      },
+      {
+        "id": 3,
+        "question": "What is the significance of Ranil Wickremesinghe's candidacy in the 2024 election?",
+        "answer": "Ranil Wickremesinghe is seeking re-election as an independent candidate, making him the first sitting president to run for re-election since Mahinda Rajapaksa in 2015."
+      },
+      {
+        "id": 4,
+        "question": "What was the outcome of the 2019 Sri Lankan presidential election?",
+        "answer": "In the 2019 Sri Lankan presidential election, Gotabaya Rajapaksa won a landslide victory, defeating Sajith Premadasa."
+      },
+      {
+        "id": 5,
+        "question": "What electoral system is used in the Sri Lankan presidential election?",
+        "answer": "Sri Lanka uses a system of limited ranked voting, where voters can express up to three ranked preferences. If no candidate receives more than 50% of valid votes in the first count, preferences are redistributed."
+      },
+      {
+        "id": 6,
+        "question": "What triggered the 2022 Sri Lankan presidential election?",
+        "answer": "The 2022 Sri Lankan presidential election was triggered by the resignation of Gotabaya Rajapaksa amid widespread protests, leading to Ranil Wickremesinghe's appointment as president."
+      },
+      {
+        "id": 7,
+        "question": "What is the role of the Election Commission in the 2024 Sri Lankan presidential election?",
+        "answer": "The Election Commission is responsible for organizing the election, which must be held between 17 September and 16 October 2024. It declared the election date as 21 September 2024 and is overseeing voter turnout and security."
+      },
+      {
+        "id": 8,
+        "question": "How many people are eligible to vote in the 2024 Sri Lankan presidential election?",
+        "answer": "Approximately 17 million people are eligible to vote in the 2024 Sri Lankan presidential election."
+      },
+      {
+        "id": 9,
+        "question": "What changes were made to the ballot system in the 2024 Sri Lankan presidential election?",
+        "answer": "The Election Commission is considering using only cardboard ballot boxes, replacing the traditional wooden ones, for the 2024 election."
+      },
+          {
+            "id": 10,
+            "question": "How many candidates registered for the 2024 Sri Lankan presidential election?",
+            "answer": "By the end of candidate registration on 15 August, a total of 39 applications were accepted, the highest number ever recorded for a presidential election in Sri Lanka."
+          },
+          {
+            "id": 11,
+            "question": "What is notable about the gender representation among candidates in the 2024 election?",
+            "answer": "Despite the record number of candidates, none were female."
+          },
+          {
+            "id": 12,
+            "question": "Who are the major candidates in the 2024 Sri Lankan presidential election?",
+            "answer": "The major candidates include Ranil Wickremesinghe (Independent), Sajith Premadasa (Samagi Jana Balawegaya), Anura Kumara Dissanayake (National People's Power), Field Marshal Sarath Fonseka (Independent), Wijeyadasa Rajapakshe (National Democratic Front), and Namal Rajapaksa (Sri Lanka Podujana Peramuna)."
+          },
+          {
+            "id": 13,
+            "question": "What are some key endorsements for Ranil Wickremesinghe?",
+            "answer": "Ranil Wickremesinghe is endorsed by the United National Party, breakaway members of the Sri Lanka Podujana Peramuna, Ceylon Workers' Congress, de facto Central Committee of the Sri Lanka Freedom Party, Eelam People's Democratic Party, Mahajana Eksath Peramuna, New Lanka Freedom Party, and Tamil Makkal Viduthalai Pulikal."
+          },
+          {
+            "id": 14,
+            "question": "What symbols are associated with the major candidates?",
+            "answer": "The symbols are as follows: Ranil Wickremesinghe - Gas Cylinder, Sajith Premadasa - Telephone, Anura Kumara Dissanayake - Compass, Field Marshal Sarath Fonseka - Lantern, Wijeyadasa Rajapakshe - Car, and Namal Rajapaksa - Flower bud (Pohottuwa)."
+          },
+          {
+            "id": 15,
+            "question": "Which candidate from the 2024 election has previously run for president?",
+            "answer": "Candidates who have previously run for president include Ranil Wickremesinghe (1999 and 2005), Sajith Premadasa (2019), Anura Kumara Dissanayake (2019), Field Marshal Sarath Fonseka (2010), and others."
+          },
+          {
+            "id": 16,
+            "question": "What is the status of Mohamed Illiyas in the 2024 election?",
+            "answer": "Mohamed Illiyas was one of the candidates but died prior to the election."
+          },
+          {
+            "id": 17,
+            "question": "What is the status of Namal Rajapaksa's campaign?",
+            "answer": "Namal Rajapaksa is running under the Sri Lanka Podujana Peramuna party and his campaign symbol is the Flower bud (Pohottuwa). He declared his candidacy on 7 August 2024 and launched his manifesto on 2 September 2024."
+          },
+          {
+            "id": 18,
+            "question": "How many minor candidates are running in the 2024 election?",
+            "answer": "In addition to the six major candidates, there are 33 minor candidates running in the election."
+          },
+              {
+                "id": 19,
+                "question": "Who is the current President of Sri Lanka seeking re-election in 2024?",
+                "answer": "The current President seeking re-election is Ranil Wickremesinghe, who has been in office since 21 July 2022."
+              },
+              {
+                "id": 20,
+                "question": "Which candidate is the leader of the Samagi Jana Balawegaya?",
+                "answer": "Sajith Premadasa is the leader of the Samagi Jana Balawegaya."
+              },
+              {
+                "id": 21,
+                "question": "What political office did Field Marshal Sarath Fonseka hold before his candidacy in 2024?",
+                "answer": "Field Marshal Sarath Fonseka was the Chief of the Defence Staff and also served as the Minister of Regional Development and Minister of Wildlife and Sustainable Development."
+              },
+              {
+                "id": 22,
+                "question": "What is the significance of the symbol 'Gas Cylinder' in the 2024 election?",
+                "answer": "The symbol 'Gas Cylinder' represents Ranil Wickremesinghe, who is running as an independent candidate."
+              },
+              {
+                "id": 23,
+                "question": "Which candidate has a campaign symbol of 'Telephone'?",
+                "answer": "Sajith Premadasa, the leader of the Samagi Jana Balawegaya, has the campaign symbol of 'Telephone'."
+              },
+              {
+                "id": 24,
+                "question": "What endorsements does Namal Rajapaksa have for his 2024 campaign?",
+                "answer": "Namal Rajapaksa is endorsed by the Sri Lanka Podujana Peramuna and is running with the symbol 'Flower bud (Pohottuwa)'."
+              },
+              {
+                "id": 25,
+                "question": "What is the background of Wijeyadasa Rajapakshe in the 2024 election?",
+                "answer": "Wijeyadasa Rajapakshe is running under the National Democratic Front and has served as Minister of Justice, Buddha Sasana, Higher Education, and Education."
+              },
+              {
+                "id": 26,
+                "question": "Which candidate's symbol is 'Car'?",
+                "answer": "The symbol 'Car' is associated with Wijeyadasa Rajapakshe, who is running under the National Democratic Front."
+              },
+              {
+                "id": 27,
+                "question": "Which candidate from the 2024 election is known for his previous run in 2010, 2015, and 2019?",
+                "answer": "Sarath Fonseka is known for his previous runs in 2010, 2015, and 2019."
+              },
+              {
+                "id": 28,
+                "question": "Who is the leader of the National People's Power party?",
+                "answer": "Anura Kumara Dissanayake is the leader of the National People's Power party."
+              },
+              {
+                "id": 29,
+                "question": "What is the symbol for the National People's Power party's candidate?",
+                "answer": "The symbol for the National People's Power party's candidate, Anura Kumara Dissanayake, is 'Compass'."
+              },
+                  {
+                    "id": 30,
+                    "question": "Who are all the candidates running in the 2024 Sri Lankan presidential election?",
+                    "answer": "The candidates running in the 2024 Sri Lankan presidential election are: \n\n1. Ranil Wickremesinghe (Independent) - Symbol: Gas Cylinder\n2. Sajith Premadasa (Samagi Jana Balawegaya) - Symbol: Telephone\n3. Anura Kumara Dissanayake (National People's Power) - Symbol: Compass\n4. Field Marshal Sarath Fonseka (Independent) - Symbol: Lantern\n5. Wijeyadasa Rajapakshe (National Democratic Front) - Symbol: Car\n6. Namal Rajapaksa (Sri Lanka Podujana Peramuna) - Symbol: Flower bud (Pohottuwa)\n\nMinor candidates include: \n- Siripala Amarasinghe (Independent) - Symbol: Tyre\n- Chaminda Anuruddha (Independent) - Symbol: Horseshoe\n- P. Ariyanethiran (Independent) - Symbol: Conch shell\n- D. M. Bandaranaike (Independent) - Symbol: Table fan\n- P. W. S. K. Bandaranayake (National Development Front) - Symbol: Coconut\n- Nuwan Bopage (Socialist People's Forum) - Symbol: Umbrella\n- Akmeemana Dayarathana Thero (Independent) - Symbol: Blackboard\n- Mahinda Dewage (Socialist Party of Sri Lanka) - Symbol: Balloon\n- Oshala Herath (New Independent Front) - Symbol: Till\n- Mohamed Illiyas (Independent) - Symbol: Syringe\n- Abubakar Mohamed Infaz (Democratic Unity Alliance) - Symbol: Two leaves\n- Sidney Jayarathna (Independent) - Symbol: Jackfruit\n- Siritunga Jayasuriya (United Socialist Party) - Symbol: Tri-shaw\n- Dilith Jayaweera (Communist Party of Sri Lanka) - Symbol: Star\n- Sarath Keerthirathne (Independent) - Symbol: Football\n- K. R. Kishan (Arunalu People's Front) - Symbol: Water tap\n- Ananda Kularatne (Independent) - Symbol: Medal\n- A. S. P. Liyanage (Sri Lanka Labour Party) - Symbol: Kangaroo\n- Sarath Manamendra (New Sinhala Heritage) - Symbol: Bow and arrow\n- Victor Anthony Perera (Independent) - Symbol: Motorbike\n- K. K. Piyadasa (Independent) - Symbol: Calculator\n- M. M. Premasiri (Independent) - Symbol: Pair of spectacles\n- Namal Rajapakshe (Samabima Party) - Symbol: Envelope\n- Roshan Ranasinghe (Independent) - Symbol: Cricket bat\n- Janaka Ratnayake (United Lanka People's Party) - Symbol: Cup\n- Battaramulle Seelarathana Thero (People's Welfare Front) - Symbol: Tractor\n- Lalith de Silva (United National Freedom Front) - Symbol: Comb of plantains\n- Suranjeewa Anoj de Silva (Democratic United National Front) - Symbol: Eagle\n- M. Thilakarajah (Independent) - Symbol: Bird feather\n- Keerthi Wickremeratne (Our People's Power Party) - Symbol: Flag\n- Priyantha Wickremesinghe (Nava Sama Samaja Party) - Symbol: Table\n- Pani Wijesiriwardena (Socialist Equality Party) - Symbol: Pair of scissors\n- Ajantha de Zoyza (Ruhunu People's Party) - Symbol: Pineapple"
+                  },
+                      {
+                        "id": 31,
+                        "question": "Who are all the candidates running in the 2024 Sri Lankan presidential election?",
+                        "answer": "The candidates running in the 2024 Sri Lankan presidential election are: \n\n1. Ranil Wickremesinghe (Independent) - Symbol: Gas Cylinder\n2. Sajith Premadasa (Samagi Jana Balawegaya) - Symbol: Telephone\n3. Anura Kumara Dissanayake (National People's Power) - Symbol: Compass\n4. Field Marshal Sarath Fonseka (Independent) - Symbol: Lantern\n5. Wijeyadasa Rajapakshe (National Democratic Front) - Symbol: Car\n6. Namal Rajapaksa (Sri Lanka Podujana Peramuna) - Symbol: Flower bud (Pohottuwa)\n\nMinor candidates include: \n- Siripala Amarasinghe (Independent) - Symbol: Tyre\n- Chaminda Anuruddha (Independent) - Symbol: Horseshoe\n- P. Ariyanethiran (Independent) - Symbol: Conch shell\n- D. M. Bandaranaike (Independent) - Symbol: Table fan\n- P. W. S. K. Bandaranayake (National Development Front) - Symbol: Coconut\n- Nuwan Bopage (Socialist People's Forum) - Symbol: Umbrella\n- Akmeemana Dayarathana Thero (Independent) - Symbol: Blackboard\n- Mahinda Dewage (Socialist Party of Sri Lanka) - Symbol: Balloon\n- Oshala Herath (New Independent Front) - Symbol: Till\n- Mohamed Illiyas (Independent) - Symbol: Syringe\n- Abubakar Mohamed Infaz (Democratic Unity Alliance) - Symbol: Two leaves\n- Sidney Jayarathna (Independent) - Symbol: Jackfruit\n- Siritunga Jayasuriya (United Socialist Party) - Symbol: Tri-shaw\n- Dilith Jayaweera (Communist Party of Sri Lanka) - Symbol: Star\n- Sarath Keerthirathne (Independent) - Symbol: Football\n- K. R. Kishan (Arunalu People's Front) - Symbol: Water tap\n- Ananda Kularatne (Independent) - Symbol: Medal\n- A. S. P. Liyanage (Sri Lanka Labour Party) - Symbol: Kangaroo\n- Sarath Manamendra (New Sinhala Heritage) - Symbol: Bow and arrow\n- Victor Anthony Perera (Independent) - Symbol: Motorbike\n- K. K. Piyadasa (Independent) - Symbol: Calculator\n- M. M. Premasiri (Independent) - Symbol: Pair of spectacles\n- Namal Rajapakshe (Samabima Party) - Symbol: Envelope\n- Roshan Ranasinghe (Independent) - Symbol: Cricket bat\n- Janaka Ratnayake (United Lanka People's Party) - Symbol: Cup\n- Battaramulle Seelarathana Thero (People's Welfare Front) - Symbol: Tractor\n- Lalith de Silva (United National Freedom Front) - Symbol: Comb of plantains\n- Suranjeewa Anoj de Silva (Democratic United National Front) - Symbol: Eagle\n- M. Thilakarajah (Independent) - Symbol: Bird feather\n- Keerthi Wickremeratne (Our People's Power Party) - Symbol: Flag\n- Priyantha Wickremesinghe (Nava Sama Samaja Party) - Symbol: Table\n- Pani Wijesiriwardena (Socialist Equality Party) - Symbol: Pair of scissors\n- Ajantha de Zoyza (Ruhunu People's Party) - Symbol: Pineapple"
+                      },
+                      {
+                        "id": 32,
+                        "question": "Why are there so many candidates in the 2024 Sri Lankan presidential election?",
+                        "answer": "One of the main reasons for the proliferation of candidates is the low election deposit required to contest – Rs. 50,000 (US$170) for party candidates and Rs. 75,000 (US$250) for independent candidates. These amounts have remained unchanged since the introduction of presidential elections in 1982. Many minor candidates are also proxy or dummy candidates put forward by main contenders to maximize the benefits of candidacy, such as having additional agents at polling stations, gaining free media coverage, and receiving state television slots."
+                      },
+                      {
+                        "id": 33,
+                        "question": "Which candidates withdrew from the 2024 Sri Lankan presidential election?",
+                        "answer": "The following candidates initially declared their intentions to contest the election but later withdrew: \n\n1. Gotabaya Rajapaksa (Sri Lanka Podujana Peramuna) - 8th President of Sri Lanka (2019–2022)\n2. Basil Rajapaksa (Sri Lanka Podujana Peramuna) - Former Minister of Finance (2021–2022)\n3. Dhammika Perera (Sri Lanka Podujana Peramuna) - Businessman and former Minister of Investment Promotion (2022)\n4. Maithripala Sirisena (Sri Lanka Freedom Party) - 7th President of Sri Lanka (2015–2019)\n\nRejected candidate:\n- Sarath Kumara Gunaratna (Independent) - Former Deputy Minister and former SLFP/UPFA Member of Parliament"
+                      },
+                      {
+                        "id": 34,
+                        "question": "What was discussed in the 7 September 2024 presidential debate?",
+                        "answer": "The first presidential debate, scheduled for 7 September 2024, was hosted by the March 12 Movement and was confirmed to include Sajith Premadasa, Namal Rajapaksa, Dilith Jayaweera, and P. Ariyanethiran. However, only Dilith Jayaweera attended the debate, which was held at the Bandaranaike Memorial International Conference Hall (BMICH) and broadcast live on television and social media."
+                      },
+                      {
+                        "id": 35,
+                        "question": "What are the key platforms of the major presidential candidates in the 2024 Sri Lankan election?",
+                        "answer": "The key platforms of the major presidential candidates are: \n\n- **Ranil Wickremesinghe**: Highlighted his administration’s success in resolving shortages of basic goods.\n- **Anura Kumara Dissanayake**: Promoted economic freedoms and welfare protections for the working class.\n- **Sajith Premadasa**: Promised to mitigate the impact of the IMF's restructuring programme on the poor and to grant devolved political powers to the Tamil minority.\n- **Namal Rajapaksa**: Pledged to reduce tax burdens and attributed the recent crises to the COVID-19 pandemic."
+                      },
+                      {
+                        "id": 36,
+                        "question": "Which organizations are observing the 2024 Sri Lankan presidential election?",
+                        "answer": "The European External Action Service (EEAS) of the European Union (EU) will deploy an Election Observation Mission (EOM). Additionally, representatives from 12 countries, including South Asian countries (India, Nepal, Bangladesh, Pakistan, and the Maldives), a Commonwealth observer group, and the Asian Election Observation Network, have been invited to observe the election."
+                      },
+                      {
+                        "id": 37,
+                        "question": "What are the campaign finance regulations for the 2024 Sri Lankan presidential election?",
+                        "answer": "The Election Commission set an expenditure cap of Rs. 109 per voter, allowing each candidate to spend a maximum of Rs. 1.8 billion (Rs. 1,868,298,586). Candidates must also submit a Declaration of Assets and Liabilities under the Anti-Corruption Act, covering assets and liabilities up to the date the election is announced. The Commission to Investigate Allegations of Bribery or Corruption (CIABOC) has obtained and published redacted versions of these declarations."
+                      },
+                      {
+                        "id": 38,
+                        "question": "What were the findings of the opinion polls for the 2024 Sri Lankan presidential election?",
+                        "answer": "The opinion polls conducted by various firms showed fluctuating results: \n\n- **Institute for Health Policy (IHP)**: In August 2024, Sajith Premadasa led with 36%, followed by Anura Kumara Dissanayake at 32% and Ranil Wickremesinghe at 28%. \n- **Numbers.lk**: Polls from August 2024 showed Dissanayake leading with 43%, Premadasa at 22%, and Wickremesinghe at 27%. \n\nFavourability ratings from IHP indicate negative scores for all major candidates, with improvements for some over time."
+                      },
+                          {
+                            "id": 39,
+                            "question": "Who is the candidate led by the United National Party in the 2024 Sri Lankan presidential election?",
+                            "answer": "The candidate led by the United National Party is Sajith Premadasa from the New Democratic Front."
+                          },
+                          {
+                            "id": 40,
+                            "question": "What is the eligibility issue with one of the candidates in the 2024 Sri Lankan presidential election?",
+                            "answer": "One candidate is not eligible to contest due to holding dual citizenship."
+                          },
+                          {
+                            "id": 41,
+                            "question": "When is the Sri Lankan presidential election scheduled to be held in 2024?",
+                            "answer": "The Sri Lankan presidential election is scheduled to be held on September 21, 2024."
+                          },
+                          {
+                            "id": 42,
+                            "question": "Which candidates' election manifestos were launched for the 2024 Sri Lankan presidential election?",
+                            "answer": "Election manifestos were launched by Sajith Premadasa, Namal Rajapaksa, and Dilith Jayaweera."
+                          },
+                          {
+                            "id": 43,
+                            "question": "How many candidates were approved for the 2024 Sri Lankan presidential election?",
+                            "answer": "A total of 39 candidates were approved for the 2024 Sri Lankan presidential election."
+                          },
+                          {
+                            "id": 44,
+                            "question": "Which international organizations are monitoring the 2024 Sri Lankan presidential election?",
+                            "answer": "The European Union and the Commonwealth are monitoring the 2024 Sri Lankan presidential election."
+                          },
+                          {
+                            "id": 45,
+                            "question": "What new voting procedures were introduced for the 2024 Sri Lankan presidential election?",
+                            "answer": "Cardboard ballot boxes were introduced instead of wooden boxes for the 2024 Sri Lankan presidential election."
+                          },
+                          {
+                            "id": 46,
+                            "question": "Which candidates were notable for their absence in the first televised presidential debate?",
+                            "answer": "Namal Rajapaksa and Sajith Premadasa were notable for their absence in the first televised presidential debate."
+                          },
+                              {
+                                "id": 47,
+                                "question": "What is the significance of the 2024 Sri Lankan election?",
+                                "answer": "The 2024 Sri Lankan election is significant as it is the first electoral process in over four years and follows the widespread protests in 2022, which led to major political changes."
+                              },
+                              {
+                                "id": 48,
+                                "question": "Which candidates are running in the 2024 Sri Lankan election?",
+                                "answer": "The major candidates are Ranil Wickremesinghe, Sajith Premadasa, and Anura Kumara Dissanayake."
+                              },
+                              {
+                                "id": 49,
+                                "question": "What is Ranil Wickremesinghe's campaign platform?",
+                                "answer": "Ranil Wickremesinghe's campaign platform focuses on economic stability and IMF-led reforms, with his manifesto titled 'Puluwan Sri Lanka' advocating for a Theravada Trade Economy."
+                              },
+                              {
+                                "id": 50,
+                                "question": "What economic indicators does Wickremesinghe highlight in his campaign?",
+                                "answer": "Wickremesinghe highlights reduced inflation and increased foreign reserves, reaching approximately US$5.4 billion by May 2024."
+                              },
+                              {
+                                "id": 51,
+                                "question": "What are the criticisms of Wickremesinghe's presidency?",
+                                "answer": "Criticisms include undemocratic actions, potential executive overreach, and increased poverty and inequality."
+                              },
+                              {
+                                "id": 52,
+                                "question": "What is Sajith Premadasa's main campaign focus?",
+                                "answer": "Sajith Premadasa focuses on reducing unemployment, improving social welfare programs, and addressing corruption within the government."
+                              },
+                              {
+                                "id": 53,
+                                "question": "How does Premadasa plan to address corruption?",
+                                "answer": "Premadasa advocates for judicial reforms, increased transparency in government procurement, and stricter anti-corruption legislation."
+                              },
+                              {
+                                "id": 54,
+                                "question": "What role does Anura Kumara Dissanayake play in the 2024 election?",
+                                "answer": "Anura Kumara Dissanayake represents the left-wing Janatha Vimukthi Peramuna (JVP) and focuses on anti-capitalist policies, social justice, and government accountability."
+                              },
+                              {
+                                "id": 55,
+                                "question": "What are the key differences between the manifestos of Wickremesinghe and Premadasa?",
+                                "answer": "Wickremesinghe emphasizes economic recovery through IMF-led reforms, while Premadasa prioritizes unemployment reduction, social welfare, and anti-corruption measures."
+                              },
+                              {
+                                "id": 56,
+                                "question": "What challenges does Sri Lanka face going into the 2024 election?",
+                                "answer": "Sri Lanka faces economic instability, debt crises, high inflation, and social unrest following the protests of 2022."
+                              },
+                              {
+                                "id": 57,
+                                "question": "How have protests in 2022 shaped the political climate for the 2024 election?",
+                                "answer": "The 2022 protests led to the resignation of President Gotabaya Rajapaksa and highlighted public dissatisfaction with government corruption, economic mismanagement, and growing inequality."
+                              },
+                              {
+                                "id": 58,
+                                "question": "What role does youth play in the 2024 Sri Lankan election?",
+                                "answer": "Youth voters, energized by the 2022 protests, are expected to play a critical role, demanding reforms in education, employment opportunities, and government accountability."
+                              },
+                              {
+                                "id": 59,
+                                "question": "What are the IMF's conditions for Sri Lanka’s economic recovery?",
+                                "answer": "The IMF's conditions include fiscal consolidation, restructuring of state-owned enterprises, reducing inflation, and increasing foreign reserves through strategic trade policies."
+                              },
+                              {
+                                "id": 60,
+                                "question": "How does the 2024 election affect Sri Lanka's relationship with the IMF?",
+                                "answer": "The election outcome will influence whether Sri Lanka continues with IMF-backed reforms or shifts to more domestically-focused policies, depending on the winning candidate."
+                              },
+                              {
+                                "id": 61,
+                                "question": "What are some of the social issues being debated in the 2024 election?",
+                                "answer": "Key social issues include unemployment, access to healthcare and education, poverty, and rising inequality across different regions of Sri Lanka."
+                              },
+                              {
+                                "id": 62,
+                                "question": "What is the importance of the youth unemployment issue in the 2024 election?",
+                                "answer": "Youth unemployment is a central issue, with candidates proposing policies to improve job opportunities for young people, especially after the economic downturn."
+                              },
+                              {
+                                "id": 63,
+                                "question": "What environmental policies are being discussed in the 2024 election?",
+                                "answer": "Environmental policies include addressing deforestation, improving water management, and promoting renewable energy to combat the effects of climate change."
+                              },
+                              {
+                                "id": 64,
+                                "question": "What is the role of Sri Lanka’s rural economy in the election?",
+                                "answer": "The rural economy plays a significant role, with candidates focusing on agricultural reforms, improving rural infrastructure, and addressing the needs of farmers."
+                              },
+                              {
+                                "id": 65,
+                                "question": "How do Sri Lanka’s religious and ethnic communities impact the 2024 election?",
+                                "answer": "Religious and ethnic communities are crucial constituencies, and candidates are focusing on maintaining peace and promoting inclusive policies for all groups."
+                              },
+                              {
+                                "id": 66,
+                                "question": "What are the security concerns surrounding the 2024 election?",
+                                "answer": "There are concerns about election-related violence, especially in areas with political tensions, and candidates have addressed maintaining security and order."
+                              },
+                              {
+                                "id": 67,
+                                "question": "How does the Sri Lankan diaspora influence the 2024 election?",
+                                "answer": "The diaspora has a strong influence, with remittances supporting the economy and expatriate communities advocating for government reforms and transparency."
+                              },
+                              {
+                                "id": 68,
+                                "question": "What impact does social media have on the 2024 election?",
+                                "answer": "Social media is being used for political campaigns, voter outreach, and spreading both accurate and misleading information, influencing public opinion and voter turnout."
+                              },
+                              {
+                                "id": 69,
+                                "question": "What measures are being taken to ensure fair and free elections in Sri Lanka?",
+                                "answer": "Measures include international election observers, updated voter registration processes, and stricter laws to prevent election fraud and manipulation."
+                              },
+                              {
+                                "id": 70,
+                                "question": "What is the role of civil society in the 2024 election?",
+                                "answer": "Civil society organizations are active in advocating for fair elections, voter education, and ensuring that marginalized voices are heard in the political process."
+                              },
+                              {
+                                "id": 71,
+                                "question": "How does Sri Lanka’s economic crisis impact voter behavior in the 2024 election?",
+                                "answer": "The economic crisis has made voters more focused on candidates’ economic policies, particularly regarding inflation control, job creation, and debt management."
+                              },
+                              {
+                                "id": 72,
+                                "question": "What are the main criticisms of the current government's handling of the economy?",
+                                "answer": "Critics argue that the government has failed to manage inflation, control public debt, and reduce poverty, contributing to the economic crisis."
+                              },
+                              {
+                                "id": 73,
+                                "question": "How do women's issues factor into the 2024 election?",
+                                "answer": "Women’s issues such as gender equality, women’s safety, and access to healthcare and education are key topics, with some candidates pushing for more progressive reforms."
+                              },
+                              {
+                                "id": 74,
+                                "question": "What role do labor unions play in the 2024 election?",
+                                "answer": "Labor unions are influential, advocating for workers’ rights, better wages, and opposing some of the IMF-driven economic reforms that affect state-owned enterprises."
+                              },
+                              {
+                                "id": 75,
+                                "question": "What is the role of the military in the 2024 Sri Lankan election?",
+                                "answer": "The military plays a background role, ensuring security during the election period, but there are concerns about its involvement in civil matters."
+                              },
+                              {
+                                "id": 76,
+                                "question": "How does climate change impact political discussions in Sri Lanka?",
+                                "answer": "Climate change is becoming a significant issue, with parties discussing policies on disaster management, protecting coastal regions, and promoting sustainable agricultural practices."
+                              },
+                                  {
+                                    "id": 77,
+                                    "question": "What role does the Tamil National Alliance (TNA) play in the 2024 election?",
+                                    "answer": "The Tamil National Alliance (TNA) represents the interests of the Tamil minority and focuses on devolution of power, reconciliation, and securing greater autonomy for the Tamil-speaking regions."
+                                  },
+                                  {
+                                    "id": 78,
+                                    "question": "What are the economic policies proposed by Anura Kumara Dissanayake?",
+                                    "answer": "Anura Kumara Dissanayake's economic policies emphasize reducing income inequality, nationalizing key industries, and providing free education and healthcare."
+                                  },
+                                  {
+                                    "id": 79,
+                                    "question": "How has foreign investment been affected by the political uncertainty in Sri Lanka?",
+                                    "answer": "Political instability has led to reduced foreign direct investment (FDI), with investors concerned about economic mismanagement and unclear long-term policies."
+                                  },
+                                  {
+                                    "id": 80,
+                                    "question": "What is the stance of candidates on Sri Lanka’s debt crisis?",
+                                    "answer": "Candidates have differing views, with Wickremesinghe advocating for IMF-backed restructuring, while Premadasa calls for renegotiating terms to reduce the impact on ordinary citizens."
+                                  },
+                                  {
+                                    "id": 81,
+                                    "question": "What reforms are proposed to strengthen democracy in Sri Lanka?",
+                                    "answer": "Reforms include reducing presidential powers, improving judicial independence, strengthening anti-corruption agencies, and enhancing electoral laws to prevent manipulation."
+                                  },
+                                  {
+                                    "id": 82,
+                                    "question": "How does the Sri Lankan business community view the 2024 election?",
+                                    "answer": "The business community is focused on policies that promote economic stability, reduce inflation, and improve infrastructure for growth and investment opportunities."
+                                  },
+                                  {
+                                    "id": 83,
+                                    "question": "What education policies are being discussed in the 2024 election?",
+                                    "answer": "Candidates are proposing reforms to the education system, including expanding access to higher education, improving vocational training, and increasing funding for rural schools."
+                                  },
+                                  {
+                                    "id": 84,
+                                    "question": "How does the election impact Sri Lanka's tourism industry?",
+                                    "answer": "Tourism, a major contributor to the economy, is influenced by political stability, with candidates focusing on improving infrastructure and safety to attract more tourists."
+                                  },
+                                  {
+                                    "id": 85,
+                                    "question": "What are the key challenges facing the healthcare system in Sri Lanka?",
+                                    "answer": "Key challenges include underfunding, limited access to quality healthcare in rural areas, and the need for reforms to address public health issues post-COVID-19."
+                                  },
+                                  {
+                                    "id": 86,
+                                    "question": "How are political parties addressing poverty in Sri Lanka?",
+                                    "answer": "Parties are proposing a variety of measures, including expanding social welfare programs, creating job opportunities, and improving infrastructure in impoverished regions."
+                                  },
+                                  {
+                                    "id": 87,
+                                    "question": "What is the role of the judiciary in the 2024 Sri Lankan election?",
+                                    "answer": "The judiciary is seen as a key institution for maintaining checks and balances, and candidates are discussing judicial reforms to improve its independence and accountability."
+                                  },
+                                  {
+                                    "id": 88,
+                                    "question": "How does the election impact Sri Lanka’s international relations?",
+                                    "answer": "The election will influence Sri Lanka's diplomatic relations, particularly with key partners like India, China, and Western nations, based on the candidates' foreign policy approaches."
+                                  },
+                                  {
+                                    "id": 89,
+                                    "question": "What is the significance of the 'Puluwan Sri Lanka' manifesto?",
+                                    "answer": "'Puluwan Sri Lanka' is Ranil Wickremesinghe's campaign manifesto, focusing on economic recovery, fiscal discipline, and aligning Sri Lanka with global economic trends."
+                                  },
+                                  {
+                                    "id": 90,
+                                    "question": "How are public transportation policies addressed in the 2024 election?",
+                                    "answer": "Candidates are discussing improving public transportation by modernizing the railway system, enhancing bus networks, and promoting green transport initiatives."
+                                  },
+                                  {
+                                    "id": 91,
+                                    "question": "What is the importance of voter turnout in the 2024 Sri Lankan election?",
+                                    "answer": "High voter turnout is seen as critical for ensuring a legitimate electoral outcome and for reflecting the will of the people, particularly after recent political upheavals."
+                                  },
+                                  {
+                                    "id": 92,
+                                    "question": "How does the 2024 election address digital governance?",
+                                    "answer": "Candidates are advocating for improved digital governance, including e-government services, digital literacy programs, and cybersecurity measures to modernize the public sector."
+                                  },
+                                  {
+                                    "id": 93,
+                                    "question": "What are the key foreign policy differences between the candidates?",
+                                    "answer": "Wickremesinghe focuses on maintaining ties with the IMF and Western nations, while Premadasa advocates for a more balanced approach, and Dissanayake emphasizes non-alignment and regional cooperation."
+                                  },
+                                  {
+                                    "id": 94,
+                                    "question": "What role does the Central Bank of Sri Lanka play in the 2024 election?",
+                                    "answer": "The Central Bank's role in managing inflation, controlling monetary policy, and stabilizing the currency is a focal point in discussions on economic recovery."
+                                  },
+                                  {
+                                    "id": 95,
+                                    "question": "How does the 2024 election impact the future of state-owned enterprises (SOEs)?",
+                                    "answer": "The future of SOEs is a major issue, with Wickremesinghe supporting privatization under IMF guidance, while Premadasa and Dissanayake prefer reforms that keep these entities public."
+                                  },
+                                  {
+                                    "id": 96,
+                                    "question": "What is the role of the media in the 2024 election?",
+                                    "answer": "The media plays a key role in shaping public opinion, with concerns about media freedom, misinformation, and bias being central to discussions about election fairness."
+                                  },
+                                  {
+                                    "id": 97,
+                                    "question": "What is the impact of inflation on the 2024 election?",
+                                    "answer": "Inflation is one of the biggest concerns for voters, with candidates offering different approaches to control prices, stabilize the currency, and improve purchasing power."
+                                  },
+                                  {
+                                    "id": 98,
+                                    "question": "How are minority rights addressed in the 2024 election?",
+                                    "answer": "Minority rights, especially for the Tamil and Muslim communities, are being discussed in terms of political representation, cultural recognition, and protection from discrimination."
+                                  },
+                                  {
+                                    "id": 99,
+                                    "question": "What is the role of NGOs in the 2024 Sri Lankan election?",
+                                    "answer": "NGOs are involved in voter education, advocating for human rights, and promoting transparency in the election process, while also supporting marginalized communities."
+                                  },
+                                  {
+                                    "id": 100,
+                                    "question": "How does the election affect Sri Lanka’s relationship with India?",
+                                    "answer": "Sri Lanka’s relationship with India is a major foreign policy topic, with discussions focusing on trade, investment, and cooperation in regional security matters."
+                                  },
+                                  {
+                                    "id": 101,
+                                    "question": "What role does the agricultural sector play in the 2024 election?",
+                                    "answer": "Agriculture is a major focus, with candidates proposing policies to modernize farming techniques, improve food security, and address the needs of rural farmers."
+                                  },
+                                  {
+                                    "id": 102,
+                                    "question": "What is the position of the candidates on foreign aid?",
+                                    "answer": "Foreign aid is a divisive issue, with Wickremesinghe supporting international partnerships and loans, while Premadasa and Dissanayake are cautious about dependency on foreign assistance."
+                                  },
+                                  {
+                                    "id": 103,
+                                    "question": "How are national security concerns addressed in the 2024 election?",
+                                    "answer": "National security is discussed in the context of terrorism, border protection, and internal stability, with candidates proposing reforms to strengthen security forces and intelligence."
+                                  },
+                                  {
+                                    "id": 104,
+                                    "question": "What role does the fishing industry play in the election?",
+                                    "answer": "The fishing industry is critical for coastal communities, and candidates are proposing policies to protect fish stocks, improve maritime safety, and promote sustainable fishing practices."
+                                  },
+                                  {
+                                    "id": 105,
+                                    "question": "How does the election impact Sri Lanka’s infrastructure development?",
+                                    "answer": "Infrastructure development is a priority, with discussions on building roads, improving public utilities, and attracting investment to modernize Sri Lanka’s infrastructure."
+                                  },
+                                  {
+                                    "id": 106,
+                                    "question": "What is the role of regional elections in shaping the outcome of the national election?",
+                                    "answer": "Regional elections are crucial for understanding local issues and political dynamics, as they often indicate how national elections might unfold in key provinces."
+                                  },
+                                      {
+                                        "id": 107,
+                                        "question": "How does the 2024 Sri Lankan election address youth unemployment?",
+                                        "answer": "Candidates propose various solutions to tackle youth unemployment, including creating more job opportunities through vocational training, entrepreneurship programs, and expanding the IT and tourism sectors."
+                                      },
+                                      {
+                                        "id": 108,
+                                        "question": "What is the importance of environmental policies in the 2024 election?",
+                                        "answer": "Environmental policies focus on addressing deforestation, climate change, and waste management, with candidates emphasizing sustainable development and the promotion of green energy."
+                                      },
+                                      {
+                                        "id": 109,
+                                        "question": "How do candidates plan to handle Sri Lanka's energy crisis?",
+                                        "answer": "Candidates propose diversifying energy sources by investing in renewable energy like solar and wind, while also seeking international partnerships to stabilize the energy supply."
+                                      },
+                                      {
+                                        "id": 110,
+                                        "question": "What measures are being proposed to combat corruption in Sri Lanka?",
+                                        "answer": "Candidates discuss strengthening anti-corruption laws, improving transparency in government transactions, and increasing the accountability of public officials."
+                                      },
+                                      {
+                                        "id": 111,
+                                        "question": "What are the policies regarding women's rights in the 2024 election?",
+                                        "answer": "Women's rights are being addressed through policies focused on gender equality, equal pay, increased political representation, and protections against gender-based violence."
+                                      },
+                                      {
+                                        "id": 112,
+                                        "question": "How is Sri Lanka's relationship with China affecting the election?",
+                                        "answer": "Sri Lanka’s relationship with China, particularly regarding Chinese investments and loans, is debated, with candidates offering different approaches on balancing relations with China and other global powers."
+                                      },
+                                      {
+                                        "id": 113,
+                                        "question": "What steps are being taken to improve press freedom in Sri Lanka?",
+                                        "answer": "Candidates discuss measures to improve press freedom by reducing government interference in media, promoting independent journalism, and safeguarding journalists from harassment."
+                                      },
+                                      {
+                                        "id": 114,
+                                        "question": "How does the election address the rights of the LGBTQ+ community?",
+                                        "answer": "LGBTQ+ rights are gaining attention, with some candidates supporting anti-discrimination laws and legal protections, while others focus more on conservative social values."
+                                      },
+                                      {
+                                        "id": 115,
+                                        "question": "What role do social media platforms play in the 2024 election?",
+                                        "answer": "Social media platforms are significant for voter outreach, campaign advertisements, and political debates, but there are concerns about misinformation and online hate speech."
+                                      },
+                                      {
+                                        "id": 116,
+                                        "question": "How are rural development issues being addressed in the 2024 election?",
+                                        "answer": "Rural development is a key issue, with candidates proposing infrastructure improvements, better access to education and healthcare, and initiatives to reduce poverty in rural areas."
+                                      },
+                                      {
+                                        "id": 117,
+                                        "question": "What impact has the COVID-19 pandemic had on the 2024 Sri Lankan election?",
+                                        "answer": "The pandemic has highlighted healthcare vulnerabilities and economic struggles, with candidates addressing public health reforms and recovery measures for those affected by the pandemic."
+                                      },
+                                      {
+                                        "id": 118,
+                                        "question": "How do candidates plan to reduce the national debt in Sri Lanka?",
+                                        "answer": "Proposals to reduce national debt include negotiating better terms for international loans, promoting economic growth through exports, and reducing government spending in non-essential sectors."
+                                      },
+                                      {
+                                        "id": 119,
+                                        "question": "What is the importance of technological innovation in the 2024 election?",
+                                        "answer": "Candidates are focusing on technological innovation to boost the economy, improve governance, and provide digital literacy programs to prepare Sri Lanka for a knowledge-based economy."
+                                      },
+                                      {
+                                        "id": 120,
+                                        "question": "How are human rights being discussed in the 2024 election?",
+                                        "answer": "Human rights discussions revolve around issues such as political freedoms, minority rights, freedom of expression, and addressing historical injustices, especially in post-conflict areas."
+                                      },
+                                      {
+                                        "id": 121,
+                                        "question": "What is the role of international observers in the 2024 election?",
+                                        "answer": "International observers play a role in monitoring the election to ensure fairness, transparency, and adherence to democratic processes, providing reports on any irregularities."
+                                      },
+                                      {
+                                        "id": 122,
+                                        "question": "What role do remittances from the Sri Lankan diaspora play in the economy?",
+                                        "answer": "Remittances from Sri Lankans abroad are crucial for the economy, and candidates are discussing ways to encourage more remittances by offering incentives and creating favorable policies."
+                                      },
+                                      {
+                                        "id": 123,
+                                        "question": "How do candidates plan to handle Sri Lanka’s relationship with the IMF?",
+                                        "answer": "Wickremesinghe supports continued cooperation with the IMF for economic reforms, while Premadasa and Dissanayake suggest renegotiating terms to lessen the burden on the population."
+                                      },
+                                      {
+                                        "id": 124,
+                                        "question": "What are the healthcare priorities for candidates in the 2024 election?",
+                                        "answer": "Candidates emphasize expanding access to affordable healthcare, improving the quality of medical facilities, and addressing public health issues such as chronic diseases and malnutrition."
+                                      },
+                                      {
+                                        "id": 125,
+                                        "question": "How are economic disparities being addressed in the 2024 election?",
+                                        "answer": "Economic disparities are addressed through proposals to create more equitable access to resources, improve social welfare systems, and stimulate job creation in underdeveloped areas."
+                                      },
+                                      {
+                                        "id": 126,
+                                        "question": "What role do women play in Sri Lanka's political landscape?",
+                                        "answer": "Women’s participation in politics is increasing, with discussions on enhancing female representation in parliament and ensuring policies that address women’s specific needs."
+                                      },
+                                      {
+                                        "id": 127,
+                                        "question": "What impact does the election have on foreign direct investment (FDI) in Sri Lanka?",
+                                        "answer": "The election outcome is likely to affect investor confidence, with candidates promising to create a more favorable environment for FDI through economic stability and legal reforms."
+                                      },
+                                      {
+                                        "id": 128,
+                                        "question": "How do candidates plan to address Sri Lanka's education system challenges?",
+                                        "answer": "Candidates propose reforms to improve the quality of education, ensure equal access, and introduce more practical and technology-driven learning approaches in schools and universities."
+                                      },
+                                      {
+                                        "id": 129,
+                                        "question": "What is the role of think tanks in the 2024 Sri Lankan election?",
+                                        "answer": "Think tanks provide research and policy recommendations, influencing the platforms of candidates on issues such as the economy, governance, and social justice."
+                                      },
+                                      {
+                                        "id": 130,
+                                        "question": "How does the election address income inequality in Sri Lanka?",
+                                        "answer": "Income inequality is being addressed through tax reforms, social welfare programs, and proposals to improve access to high-paying jobs in sectors like IT, finance, and tourism."
+                                      },
+                                      {
+                                        "id": 131,
+                                        "question": "What are the key labor reforms being proposed in the 2024 election?",
+                                        "answer": "Labor reforms focus on improving worker rights, ensuring fair wages, enhancing workplace safety, and creating more opportunities for workers in both urban and rural areas."
+                                      },
+                                      {
+                                        "id": 132,
+                                        "question": "How are climate change issues being handled in the 2024 election?",
+                                        "answer": "Climate change policies include reducing carbon emissions, promoting renewable energy, reforestation efforts, and implementing strategies for disaster preparedness and mitigation."
+                                      },
+                                      {
+                                        "id": 133,
+                                        "question": "What role does the defense sector play in the 2024 Sri Lankan election?",
+                                        "answer": "The defense sector remains important, with candidates discussing the need to modernize the military, improve border security, and address internal threats like terrorism."
+                                      },
+                                      {
+                                        "id": 134,
+                                        "question": "How does the 2024 election impact Sri Lanka's tourism strategy?",
+                                        "answer": "Tourism strategies include marketing Sri Lanka as a safe and attractive destination, improving tourism infrastructure, and creating policies that promote sustainable tourism practices."
+                                      },
+                                      {
+                                        "id": 135,
+                                        "question": "How are water resources being managed in the 2024 election?",
+                                        "answer": "Water resource management is a key issue, with candidates proposing improvements in irrigation, water conservation, and better distribution of clean drinking water to rural areas."
+                                      },
+                                      {
+                                        "id": 136,
+                                        "question": "How are human trafficking issues addressed in the 2024 election?",
+                                        "answer": "Human trafficking prevention is being addressed through tougher laws, improving law enforcement capabilities, and increasing public awareness to protect vulnerable populations."
+                                      },{
+                                        "id": 137,
+                                        "question": "Who are the leading candidates in the 2024 Sri Lankan presidential election?",
+                                        "answer": "The leading candidates in the 2024 Sri Lankan presidential election are Ranil Wickremesinghe (current president running as an independent), Sajith Premadasa (leader of the Samagi Jana Balawegaya or SJB), and Anura Kumara Dissanayake (leader of the National People’s Power or NPP)."
+                                      },
+                                      {
+                                        "id": 138,
+                                        "question": "What economic challenges is Sri Lanka facing in the lead-up to the 2024 election?",
+                                        "answer": "Sri Lanka is facing economic challenges including increased poverty, rising inequality, and food insecurity. While the current government under Ranil Wickremesinghe has reduced inflation and built up foreign reserves, poverty has doubled to 25% of the population since 2022."
+                                      },
+                                      {
+                                        "id": 139,
+                                        "question": "What is Ranil Wickremesinghe’s economic policy in the 2024 presidential election?",
+                                        "answer": "Ranil Wickremesinghe's economic policy is aligned with the IMF-led recovery program. His campaign manifesto, 'Puluwan Sri Lanka' (Sri Lanka Can), advocates for a Theravada Trade Economy focused on export-oriented trade and economic competitiveness. He has also launched poverty alleviation programs such as Aswesuma and Urumaya."
+                                      },
+                                      {
+                                        "id": 140,
+                                        "question": "What are Sajith Premadasa’s campaign promises in the 2024 presidential election?",
+                                        "answer": "Sajith Premadasa has positioned himself as a pro-poor candidate, with campaign promises that include providing government-owned land for low-income and middle-class housing schemes. His manifesto emphasizes 'social democratic' policies and aims to negotiate better terms within the IMF deal for vulnerable populations."
+                                      },
+                                      {
+                                        "id": 141,
+                                        "question": "What key policies does Anura Kumara Dissanayake advocate in the 2024 election?",
+                                        "answer": "Anura Kumara Dissanayake advocates for systemic change and anti-corruption measures. His party, the NPP, promotes a state-directed mixed economy that prioritizes industrialization and domestic manufacturing. Dissanayake has shifted his stance to support the current IMF program, though he calls for renegotiation of its terms."
+                                      },
+                                      {
+                                        "id": 142,
+                                        "question": "How has Namal Rajapaksa positioned his SLPP campaign in the 2024 presidential election?",
+                                        "answer": "Namal Rajapaksa, the SLPP candidate, opposes the current government's policies such as privatization, taxation policy, and economic integration with India. He is positioning himself for future elections, as the SLPP is facing a legitimacy crisis following the economic downturn and public disillusionment with the Rajapaksa family."
+                                      },
+                                      {
+                                        "id": 143,
+                                        "question": "What role do smaller parties play in the 2024 Sri Lankan presidential election?",
+                                        "answer": "Smaller parties in the 2024 election, such as the Sarvajana Balaya and People’s Struggle Alliance, are unlikely to win many votes but could influence post-election discourse. Tamil political parties and other minority parties are also pivotal in forming alliances, which may determine the election outcome in the case of a second-round vote."
+                                      },{
+                                        "id": 138,
+                                        "question": "What is significant about the 2024 Sri Lankan election?",
+                                        "answer": "The 2024 Sri Lankan election is significant because it is the first electoral process since the 2022 economic crisis and widespread protests, known as Aragalaya, which led to the resignation of key political leaders, including the president and prime minister."
+                                      },
+                                      {
+                                        "id": 139,
+                                        "question": "Who are the three leading candidates in the 2024 Sri Lankan presidential election?",
+                                        "answer": "The three leading candidates are current president Ranil Wickremesinghe, Sajith Premadasa from the Samagi Jana Balawegaya (SJB), and Anura Kumara Dissanayake from the National People’s Power (NPP)."
+                                      },
+                                      {
+                                        "id": 140,
+                                        "question": "What was the primary reason for the 2022 protests in Sri Lanka?",
+                                        "answer": "The 2022 protests, known as Aragalaya, were driven by widespread dissatisfaction with economic mismanagement under the Gotabaya Rajapaksa government, which culminated in the resignation of key political leaders."
+                                      },
+                                      {
+                                        "id": 141,
+                                        "question": "What are the main issues addressed in Ranil Wickremesinghe's campaign manifesto?",
+                                        "answer": "Ranil Wickremesinghe's campaign manifesto, 'Puluwan Sri Lanka,' includes the vision of a Theravada Trade Economy, focusing on a competitive, export-oriented economy. It also promises the full implementation of the 13th Amendment, which mandates power-sharing with the Tamil minority."
+                                      },
+                                      {
+                                        "id": 142,
+                                        "question": "What is the focus of Sajith Premadasa's campaign?",
+                                        "answer": "Sajith Premadasa's campaign focuses on social democratic policies, a pro-poor image, and economic liberalism. His manifesto promises state-linked patronage, subsidies, and negotiations within the IMF deal for more favorable terms for vulnerable sections of society."
+                                      },
+                                      {
+                                        "id": 143,
+                                        "question": "How has Anura Kumara Dissanayake's economic stance shifted in the 2024 election?",
+                                        "answer": "Anura Kumara Dissanayake, leader of the National People’s Power (NPP), has shifted from traditionally opposing IMF programmes to endorsing the current IMF programme, with a focus on renegotiating its terms. His campaign advocates for a state-directed mixed economy with an emphasis on industrialisation and domestic manufacturing."
+                                      },
+                                      {
+                                        "id": 144,
+                                        "question": "What concerns have been raised about Ranil Wickremesinghe's governance?",
+                                        "answer": "Concerns about Ranil Wickremesinghe's governance include accusations of undemocratic actions such as attempting to extend the Attorney General’s tenure, clashes with the judiciary, and passing laws like the Online Safety Act and Anti-terrorism Act, which have been criticised as detrimental to democratic freedoms."
+                                      },
+                                      {
+                                        "id": 145,
+                                        "question": "What are the potential geopolitical implications of the 2024 Sri Lankan election?",
+                                        "answer": "The outcome of the 2024 Sri Lankan election could influence the nation’s geopolitical dynamics, particularly its relationships with India, Western powers, and China. A Wickremesinghe or Premadasa government is expected to lean towards India and Western powers, while an NPP government might build closer ties with China."
+                                      },
+                                      {
+                                        "id": 146,
+                                        "question": "What are the key challenges for the SLPP in the 2024 election?",
+                                        "answer": "The SLPP faces a crisis of legitimacy following the 2022 economic downturn and public disillusionment. The party is fractured, with most MPs supporting Wickremesinghe. Namal Rajapaksa, the SLPP candidate, opposes some of Wickremesinghe's policies but is unlikely to gain as much support as the main three candidates."
+                                      },
+                                      {
+                                        "id": 22,
+                                        "question": "How many candidates registered for the 2024 presidential election?",
+                                        "answer": "A total of 39 candidates registered for the election."
+                                      }
+                                      ]}
+                                      
+                                      
+                                
+                                
+                            
+                            
+                        
+                      
+                
+                  
+              
+      
+      
+  

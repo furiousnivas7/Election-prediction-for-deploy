@@ -1,0 +1,791 @@
+{"questions": [
+    {
+    "id": 1,
+    "question": "What immediate action will the UNP take regarding General Sarath Fonseka?",
+    "answer": "The UNP promises to release General Sarath Fonseka from illegal military detention immediately."
+  },
+  {
+    "id": 2,
+    "question": "What pillars of democracy does the UNP aim to restore?",
+    "answer": "The UNP will restore good governance, the rule of law, media freedom, and safeguard human rights for every Sri Lankan."
+  },
+  {
+    "id": 3,
+    "question": "How does the UNP plan to involve political parties in national decision-making?",
+    "answer": "The UNP will seek national consensus among all political parties on political, social, and economic issues."
+  },
+  {
+    "id": 4,
+    "question": "What reforms will the UNP introduce to prevent unsuitable individuals from entering politics?",
+    "answer": "The UNP plans to introduce laws that prevent unsuitable individuals from entering politics."
+  },
+  {
+    "id": 5,
+    "question": "What key democratic bodies will be restored by the UNP?",
+    "answer": "The UNP will restore the Constitutional Council and Independent Commissions and fully implement the Constitution."
+},{
+    "id": 6,
+    "question": "What changes will the UNP make to the scheduling of elections?",
+    "answer": "The UNP will hold all national, provincial, and local elections on the same day."
+  },
+  {
+    "id": 7,
+    "question": "What is the UNP’s policy on the term length of elected officials?",
+    "answer": "The UNP will limit the period of office for all elected officials to five years."
+  },
+  {
+    "id": 8,
+    "question": "What is the UNP’s plan for the Executive Presidency?",
+    "answer": "The UNP plans to hold a referendum on the Executive Presidency within their first six months in power."
+  },
+  {
+    "id": 9,
+    "question": "What is the requirement for renewing Emergency Law according to the UNP?",
+    "answer": "The UNP will require the majority approval of all members of Parliament to renew the Emergency Law, with a 2/3 majority needed after six months."
+  },
+  {
+    "id": 10,
+    "question": "How does the UNP plan to improve the election process in Sri Lanka?",
+    "answer": "The UNP will re-establish the Independent Elections Commission, reduce the cost of elections, and prevent the misuse of public funds by political parties."
+  },{
+    "id": 11,
+    "question": "What will the UNP do to improve the financial situation of public servants?",
+    "answer": "The UNP will increase the salary of every public servant by Rs. 10,000."
+  },
+  {
+    "id": 12,
+    "question": "How will the UNP distribute the salary increase for public servants?",
+    "answer": "A Rs. 3,500 increase will be given immediately, with the remaining Rs. 6,500 provided after an assessment of the Treasury, distributed over six months."
+  },
+  {
+    "id": 13,
+    "question": "What is the timeline for the full salary increase for public servants?",
+    "answer": "The first installment will be given within 12 months, and the remainder will be provided every six months thereafter."
+  },
+  {
+    "id": 14,
+    "question": "How does the UNP plan to reduce the cost of living for citizens?",
+    "answer": "The UNP will remove taxes on essential goods such as milk powder, sugar, dhal, potatoes, onions, and canned fish for a year."
+  },
+  {
+    "id": 15,
+    "question": "What utilities will see price reductions under the UNP’s plan?",
+    "answer": "The UNP plans to reduce the prices of kerosene oil, gas, water, and electricity by cutting taxes."
+  },{
+    "id": 16,
+    "question": "How will the UNP lower the price of petrol?",
+    "answer": "The UNP will reduce the price of petrol in accordance with the Supreme Court order."
+  },
+  {
+    "id": 17,
+    "question": "How will the UNP help farmers with fertilizer needs?",
+    "answer": "The UNP will continue the fertilizer subsidy and ensure various types of fertilizer are freely available in the market."
+  },
+  {
+    "id": 18,
+    "question": "What action will the UNP take to resettle IDP families?",
+    "answer": "The UNP will take rapid measures to resettle families in IDP camps, providing each resettled family with a grant of Rs. 100,000."
+  },
+  {
+    "id": 19,
+    "question": "What immediate relief will the UNP offer to reduce the cost of essential goods?",
+    "answer": "The UNP will temporarily remove taxes on essential goods like milk powder, sugar, dhal, potatoes, onions, and canned fish for a year."
+  },
+  {
+    "id": 20,
+    "question": "How does the UNP plan to assist public sector employees immediately?",
+    "answer": "The UNP will give an immediate Rs. 3,500 salary hike to public servants as part of a larger Rs. 10,000 increase."
+  },{
+    "id": 21,
+    "question": "What is the UNP’s stance on emergency laws?",
+    "answer": "The UNP will require majority approval in Parliament for renewing Emergency Laws and will require a 2/3 majority after six months."
+  },
+  {
+    "id": 22,
+    "question": "What are the UNP's plans for improving political accountability?",
+    "answer": "The UNP will introduce laws to prevent unsuitable individuals from entering politics and implement full constitutional reforms."
+  },
+  {
+    "id": 23,
+    "question": "How will the UNP make changes to the Independent Elections Commission?",
+    "answer": "The UNP will re-establish the Independent Elections Commission and implement measures to cut down election costs and stop the misuse of public funds."
+  },
+  {
+    "id": 24,
+    "question": "What is the UNP’s plan for ensuring transparency in elections?",
+    "answer": "By re-establishing the Independent Elections Commission, the UNP aims to reduce costs and prevent the misuse of public funds during elections."
+  },
+  {
+    "id": 25,
+    "question": "What action will the UNP take to reform election costs?",
+    "answer": "The UNP will work to reduce the cost of conducting elections by cutting unnecessary spending and improving transparency."
+  },{
+    "id": 26,
+    "question": "How will the UNP manage the Treasury's finances before implementing public sector salary increases?",
+    "answer": "The UNP will first assess the state of the bankrupt Treasury before implementing the full public servant salary increase."
+  },
+  {
+    "id": 27,
+    "question": "What strategy will the UNP use to make fertilizer more accessible to farmers?",
+    "answer": "The UNP will continue the fertilizer subsidy and ensure that various types of fertilizers are freely available in the market."
+  },
+  {
+    "id": 28,
+    "question": "What is the UNP’s plan to tackle high living costs related to energy and utilities?",
+    "answer": "The UNP will reduce taxes on utilities such as kerosene, gas, water, and electricity to bring down prices."
+  },
+  {
+    "id": 29,
+    "question": "How will the UNP help reduce the cost of petrol for consumers?",
+    "answer": "The UNP will reduce the price of petrol to align with the Supreme Court’s order."
+  },
+  {
+    "id": 30,
+    "question": "What essential goods will see tax reductions under the UNP's policy?",
+    "answer": "Taxes will be removed on essential goods such as milk powder, sugar, dhal, potatoes, onions, and canned fish."
+  },{
+    "id": 31,
+    "question": "What reforms will the UNP introduce related to the Constitution?",
+    "answer": "The UNP will restore the Constitutional Council and Independent Commissions and fully implement the Constitution."
+  },
+  {
+    "id": 32,
+    "question": "How will the UNP ensure that emergency laws are not abused?",
+    "answer": "The UNP will make it necessary to have the majority approval of Parliament for renewing Emergency Laws and will require a 2/3 majority for renewals after six months."
+  },
+  {
+    "id": 33,
+    "question": "What is the UNP’s plan for Independent Commissions?",
+    "answer": "The UNP will re-establish the Independent Commissions to ensure good governance, transparency, and accountability in government affairs."
+  },
+  {
+    "id": 34,
+    "question": "How will the UNP prevent political interference in public administration?",
+    "answer": "By restoring the Constitutional Council and Independent Commissions, the UNP aims to ensure that public administration is free from political interference."
+  },
+  {
+    "id": 35,
+    "question": "What steps will the UNP take to restore the rule of law?",
+    "answer": "The UNP will restore the rule of law as a pillar of democracy by implementing constitutional reforms, strengthening independent institutions, and upholding human rights."
+  },{
+    "id": 36,
+    "question": "What is the UNP’s plan for resettling families in IDP camps?",
+    "answer": "The UNP will take rapid measures to resettle families and provide each resettled family with a grant of Rs. 100,000."
+  },
+  {
+    "id": 37,
+    "question": "How much financial support will each resettled family receive?",
+    "answer": "Each resettled family will receive Rs. 100,000 as a grant."
+  },
+  {
+    "id": 38,
+    "question": "How quickly will the UNP resettle families from IDP camps?",
+    "answer": "The UNP promises to take rapid measures to ensure the resettlement of families currently living in IDP camps."
+  },
+  {
+    "id": 39,
+    "question": "What specific assistance will the UNP provide to resettled families?",
+    "answer": "In addition to rapid resettlement, the UNP will provide resettled families with Rs. 100,000 in financial assistance."
+  },
+  {
+    "id": 40,
+    "question": "What will be the primary focus of the UNP regarding IDP camps?",
+    "answer": "The primary focus will be rapid resettlement of families and providing financial assistance to help them rebuild their lives."
+  },{
+    "id": 41,
+    "question": "What is the UNP’s immediate plan for reducing the cost of living?",
+    "answer": "The UNP will remove taxes on essential goods and reduce prices for utilities like kerosene, gas, water, and electricity."
+  },
+  {
+    "id": 42,
+    "question": "What will happen to taxes on essential goods under the UNP’s governance?",
+    "answer": "Taxes on essential goods such as milk powder, sugar, dhal, potatoes, onions, and canned fish will be removed for a year."
+  },
+  {
+    "id": 43,
+    "question": "How does the UNP plan to balance public sector salaries with the state of the Treasury?",
+    "answer": "The UNP will assess the Treasury's financial state before fully implementing salary increases, distributing them gradually based on available funds."
+  },
+  {
+    "id": 44,
+    "question": "How will the UNP support the agricultural sector?",
+    "answer": "The UNP will continue the fertilizer subsidy and ensure various types of fertilizer are available in the market to support farmers."
+  },
+  {
+    "id": 45,
+    "question": "What measures will the UNP take to ensure affordable energy?",
+    "answer": "The UNP will reduce taxes on kerosene oil, gas, water, and electricity to lower prices for consumers."
+  },{
+    "id": 46,
+    "question": "How will the UNP engage political parties on national issues?",
+    "answer": "The UNP will seek national consensus among all political parties on political, social, and economic issues."
+  },
+  {
+    "id": 47,
+    "question": "What is the UNP’s goal in involving political parties in decision-making?",
+    "answer": "The goal is to create a consensus on decisive political, social, and economic issues to address the country's challenges effectively."
+  },
+  {
+    "id": 48,
+    "question": "How will the UNP ensure inclusive governance?",
+    "answer": "By involving all political parties in discussions on national issues and seeking consensus, the UNP aims to foster inclusive governance."
+  },
+  {
+    "id": 49,
+    "question": "What will be the role of the Constitutional Council under the UNP’s governance?",
+    "answer": "The Constitutional Council will be restored to ensure independent oversight of key government functions and appointments."
+  },
+  {
+    "id": 50,
+    "question": "How will the UNP promote good governance?",
+    "answer": "The UNP will restore good governance by re-establishing Independent Commissions, ensuring transparency, and preventing unsuitable individuals from entering politics."
+  },{
+    "id": 51,
+    "question": "How does the UNP plan to restore media freedom in Sri Lanka?",
+    "answer": "The UNP will restore media freedom as a fundamental pillar of democracy, ensuring that all media outlets operate without fear of censorship or government interference."
+  },
+  {
+    "id": 52,
+    "question": "What will be the UNP’s approach to safeguarding human rights?",
+    "answer": "The UNP will safeguard the human rights of every Sri Lankan by upholding the rule of law, protecting individual freedoms, and ensuring good governance."
+  },
+  {
+    "id": 53,
+    "question": "What reforms will the UNP make to improve media operations in the country?",
+    "answer": "The UNP will restore media freedom, allowing journalists to report freely and holding the government accountable to ensure transparency."
+  },
+  {
+    "id": 54,
+    "question": "How will the UNP ensure that the media operates independently?",
+    "answer": "The UNP will ensure media freedom by protecting journalists' rights, removing censorship, and creating a transparent environment for news reporting."
+  },
+  {
+    "id": 55,
+    "question": "What is the UNP’s vision for protecting freedom of expression?",
+    "answer": "The UNP aims to protect freedom of expression as part of its commitment to good governance, media freedom, and safeguarding human rights."
+  },{
+    "id": 56,
+    "question": "How will the UNP reduce the price of utilities like electricity?",
+    "answer": "The UNP will reduce the taxes imposed on electricity, gas, kerosene, and water to bring down utility prices for consumers."
+  },
+  {
+    "id": 57,
+    "question": "What essential goods will be made more affordable under the UNP’s governance?",
+    "answer": "Essential goods like milk powder, sugar, dhal, potatoes, onions, and canned fish will be made more affordable by removing taxes for one year."
+  },
+  {
+    "id": 58,
+    "question": "What is the timeline for reducing utility prices under the UNP?",
+    "answer": "Utility prices will be slashed as soon as taxes are reduced, with no specific timeline provided, but immediate relief is promised."
+  },
+  {
+    "id": 59,
+    "question": "How will the UNP help reduce energy costs for low-income families?",
+    "answer": "By reducing taxes on kerosene oil, gas, and electricity, the UNP will lower energy costs for low-income families."
+  },
+  {
+    "id": 60,
+    "question": "What is the UNP’s stance on fuel pricing?",
+    "answer": "The UNP will reduce the price of petrol in line with the Supreme Court order, ensuring that fuel costs are fair and in accordance with legal guidelines."
+  },{
+    "id": 61,
+    "question": "What is required for the renewal of Emergency Law under the UNP’s plan?",
+    "answer": "The UNP will require the majority approval of all members of Parliament for renewing Emergency Law, and a 2/3 majority after six months."
+  },
+  {
+    "id": 62,
+    "question": "How will the UNP ensure that emergency powers are not abused?",
+    "answer": "By requiring Parliament’s majority approval and setting a higher threshold of a 2/3 majority after six months, the UNP will limit the abuse of emergency powers."
+  },
+  {
+    "id": 63,
+    "question": "What legal mechanism will the UNP introduce for renewing emergency laws?",
+    "answer": "The UNP will introduce legislation requiring a majority of Parliament to renew Emergency Laws and a 2/3 majority after six months for further renewals."
+  },
+  {
+    "id": 64,
+    "question": "How does the UNP plan to restore political accountability?",
+    "answer": "By introducing laws that prevent unsuitable individuals from entering politics and ensuring transparency in the election process, the UNP aims to restore political accountability."
+  },
+  {
+    "id": 65,
+    "question": "What role will Parliament play in approving emergency laws?",
+    "answer": "Parliament will be responsible for approving the renewal of emergency laws with a majority vote and will require a 2/3 majority after six months."
+  },{
+    "id": 66,
+    "question": "What is the UNP’s commitment to media freedom?",
+    "answer": "The UNP is committed to restoring media freedom, ensuring that journalists and media organizations can operate without government interference or censorship."
+  },
+  {
+    "id": 67,
+    "question": "How will the UNP guarantee freedom of the press?",
+    "answer": "The UNP will ensure freedom of the press by implementing good governance reforms, protecting journalists, and restoring the rule of law."
+  },
+  {
+    "id": 68,
+    "question": "What measures will be taken to prevent media suppression under the UNP?",
+    "answer": "The UNP will restore media freedom by removing barriers to free expression and safeguarding the rights of journalists to report without fear of suppression."
+  },
+  {
+    "id": 69,
+    "question": "What role does the UNP see for the media in a democratic society?",
+    "answer": "The UNP views the media as a crucial pillar of democracy, necessary for holding the government accountable and ensuring transparency."
+  },
+  {
+    "id": 70,
+    "question": "How does the UNP plan to enhance journalistic freedom in Sri Lanka?",
+    "answer": "The UNP will ensure that journalists are protected from censorship and harassment, promoting a free and open media environment."
+  },{
+    "id": 71,
+    "question": "What specific utilities will see price reductions under the UNP’s governance?",
+    "answer": "The UNP will reduce the prices of kerosene oil, gas, water, and electricity by cutting existing taxes on these utilities."
+  },
+  {
+    "id": 72,
+    "question": "How will the UNP help alleviate the financial burden of utility bills for households?",
+    "answer": "By reducing the taxes on utilities like electricity, water, and gas, the UNP aims to lower household utility bills and ease financial burdens."
+  },
+  {
+    "id": 73,
+    "question": "What immediate steps will be taken to reduce the cost of living for Sri Lankans?",
+    "answer": "The UNP will take immediate action to reduce the cost of living by removing taxes on essential goods and slashing prices on utilities like electricity, gas, and kerosene."
+  },
+  {
+    "id": 74,
+    "question": "How does the UNP plan to comply with the Supreme Court's order on petrol pricing?",
+    "answer": "The UNP will reduce the price of petrol in line with the Supreme Court’s order, ensuring the cost reflects legal mandates."
+  },
+  {
+    "id": 75,
+    "question": "What impact will the UNP's tax cuts on utilities have on the average Sri Lankan household?",
+    "answer": "The tax cuts on utilities will reduce the cost of electricity, water, gas, and kerosene, making these essential services more affordable for households."
+  },{
+    "id": 76,
+    "question": "How much of a salary increase will public servants receive immediately?",
+    "answer": "Public servants will receive an immediate salary increase of Rs. 3,500."
+  },
+  {
+    "id": 77,
+    "question": "What is the total salary increase promised to public servants under the UNP’s plan?",
+    "answer": "Public servants will receive a total salary increase of Rs. 10,000."
+  },
+  {
+    "id": 78,
+    "question": "How will the UNP ensure that the full salary increase for public servants is implemented?",
+    "answer": "The first Rs. 3,500 will be given immediately, and the remaining Rs. 6,500 will be provided gradually, following an assessment of the Treasury’s finances."
+  },
+  {
+    "id": 79,
+    "question": "What financial assessment will be conducted before fully implementing salary increases?",
+    "answer": "The UNP will assess the state of the bankrupt Treasury before implementing the remaining salary increases for public servants."
+  },
+  {
+    "id": 80,
+    "question": "What is the timeline for the full public sector salary increase under the UNP’s plan?",
+    "answer": "The first installment will be given within 12 months, and the remainder will be distributed every six months thereafter."
+  },{
+    "id": 81,
+    "question": "How does the UNP plan to foster national consensus on key issues?",
+    "answer": "The UNP will work to achieve national consensus among all political parties on decisive political, social, and economic issues."
+  },
+  {
+    "id": 82,
+    "question": "Why is political consensus important for the UNP’s governance plan?",
+    "answer": "Political consensus is seen as crucial for addressing the country’s challenges effectively, ensuring that all parties work together toward common national goals."
+  },
+  {
+    "id": 83,
+    "question": "What issues will the UNP seek national consensus on?",
+    "answer": "The UNP will seek consensus on key political, social, and economic issues affecting the country’s governance and development."
+  },
+  {
+    "id": 84,
+    "question": "How will the UNP engage with other political parties on national matters?",
+    "answer": "The UNP will engage with other political parties to discuss and find common ground on decisive national issues, promoting collaborative governance."
+  },
+  {
+    "id": 85,
+    "question": "What is the UNP’s approach to coalition building?",
+    "answer": "The UNP aims to create a broad political consensus by involving all parties in discussions on national issues, ensuring inclusive decision-making."
+  },{
+    "id": 86,
+    "question": "What financial assistance will be given to resettled IDP families?",
+    "answer": "Resettled IDP families will receive a grant of Rs. 100,000 to help them rebuild their lives."
+  },
+  {
+    "id": 87,
+    "question": "What immediate steps will the UNP take to resettle families in IDP camps?",
+    "answer": "The UNP will take rapid measures to resettle families and provide each resettled family with financial assistance."
+  },
+  {
+    "id": 88,
+    "question": "How does the UNP plan to ensure the swift resettlement of IDPs?",
+    "answer": "The UNP will implement rapid resettlement measures and provide financial support of Rs. 100,000 per family to speed up the process."
+  },
+  {
+    "id": 89,
+    "question": "What is the amount of financial assistance promised to resettled IDP families?",
+    "answer": "Each resettled family will receive Rs. 100,000 in financial assistance."
+  },
+  {
+    "id": 90,
+    "question": "How does the UNP plan to address the needs of IDP families?",
+    "answer": "In addition to resettling IDP families quickly, the UNP will provide financial grants to help them rebuild their homes and livelihoods."
+  },{
+    "id": 91,
+    "question": "How will the UNP ensure that all elections are held simultaneously?",
+    "answer": "The UNP will introduce reforms to hold national, provincial, and local elections on the same day."
+  },
+  {
+    "id": 92,
+    "question": "What is the UNP’s plan for the term lengths of elected officials?",
+    "answer": "The UNP will limit the term of all elected office bearers to five years."
+  },
+  {
+    "id": 93,
+    "question": "How will the UNP reform the Executive Presidency?",
+    "answer": "The UNP will hold a referendum on the Executive Presidency within the first six months of being in power."
+  },
+  {
+    "id": 94,
+    "question": "What role will the Constitutional Council play under the UNP?",
+    "answer": "The Constitutional Council will be restored to ensure the proper implementation of the Constitution and to provide independent oversight of government appointments."
+  },
+  {
+    "id": 95,
+    "question": "How does the UNP plan to restore the Independent Commissions?",
+    "answer": "The UNP will re-establish the Independent Commissions to promote good governance, transparency, and accountability in government functions."
+  },{
+    "id": 91,
+    "question": "How will the UNP ensure that all elections are held simultaneously?",
+    "answer": "The UNP will introduce reforms to hold national, provincial, and local elections on the same day."
+  },
+  {
+    "id": 92,
+    "question": "What is the UNP’s plan for the term lengths of elected officials?",
+    "answer": "The UNP will limit the term of all elected office bearers to five years."
+  },
+  {
+    "id": 93,
+    "question": "How will the UNP reform the Executive Presidency?",
+    "answer": "The UNP will hold a referendum on the Executive Presidency within the first six months of being in power."
+  },
+  {
+    "id": 94,
+    "question": "What role will the Constitutional Council play under the UNP?",
+    "answer": "The Constitutional Council will be restored to ensure the proper implementation of the Constitution and to provide independent oversight of government appointments."
+  },
+  {
+    "id": 95,
+    "question": "How does the UNP plan to restore the Independent Commissions?",
+    "answer": "The UNP will re-establish the Independent Commissions to promote good governance, transparency, and accountability in government functions."
+  },{
+    "id": 96,
+    "question": "What is the UNP’s plan for supporting farmers with fertilizer?",
+    "answer": "The UNP will continue the fertilizer subsidy to help farmers access essential fertilizers."
+  },
+  {
+    "id": 97,
+    "question": "How will the UNP ensure that fertilizer is available to farmers?",
+    "answer": "The UNP will make various types of fertilizers freely available in the market to support agricultural productivity."
+  },
+  {
+    "id": 98,
+    "question": "What subsidy will the UNP continue for the agricultural sector?",
+    "answer": "The UNP will continue the fertilizer subsidy to ensure that farmers can access affordable fertilizers."
+  },
+  {
+    "id": 99,
+    "question": "How will the UNP support farmers in maintaining agricultural productivity?",
+    "answer": "The UNP will continue to subsidize fertilizers and ensure that various types of fertilizer are freely available in the market."
+  },
+  {
+    "id": 100,
+    "question": "How does the UNP plan to address the needs of the farming community?",
+    "answer": "The UNP will continue the fertilizer subsidy and ensure the availability of fertilizers, helping farmers improve their yields and reduce costs."
+  },{
+    "id": 101,
+    "question": "How will the UNP ensure public servants receive salary increases while managing the Treasury’s finances?",
+    "answer": "The UNP will increase public servant salaries by Rs. 3,500 immediately and then distribute the remainder of Rs. 6,500 in installments, following an assessment of the Treasury’s financial situation."
+  },
+  {
+    "id": 102,
+    "question": "What is the UNP’s commitment to public servant wages?",
+    "answer": "The UNP promises to raise public servant wages by Rs. 10,000, starting with an immediate Rs. 3,500 increase."
+  },
+  {
+    "id": 103,
+    "question": "How will public servants benefit from the UNP’s salary plan?",
+    "answer": "Public servants will receive a total salary increase of Rs. 10,000, with Rs. 3,500 given immediately and the remainder in phased installments."
+  },
+  {
+    "id": 104,
+    "question": "What steps will the UNP take to balance public sector wage increases with economic realities?",
+    "answer": "The UNP will assess the Treasury’s bankrupt state before distributing the full salary increase, ensuring that payments are feasible and sustainable."
+  },
+  {
+    "id": 105,
+    "question": "How will the UNP distribute the full salary increase over time?",
+    "answer": "After the immediate Rs. 3,500 hike, the remainder of Rs. 6,500 will be distributed in installments over time, with the first installment within 12 months."
+  },{
+    "id": 106,
+    "question": "How does the UNP plan to reduce the cost of essential goods for citizens?",
+    "answer": "The UNP will remove taxes on essential goods such as milk powder, sugar, dhal, potatoes, onions, and canned fish for one year."
+  },
+  {
+    "id": 107,
+    "question": "What essential goods will be made more affordable under the UNP?",
+    "answer": "Essential goods such as milk powder, sugar, dhal, potatoes, onions, and canned fish will become more affordable as the UNP will remove taxes on them for one year."
+  },
+  {
+    "id": 108,
+    "question": "What is the UNP’s goal in removing taxes on essential goods?",
+    "answer": "By removing taxes on essential goods, the UNP aims to reduce the cost of living for ordinary Sri Lankans, making basic items more affordable."
+  },
+  {
+    "id": 109,
+    "question": "What tax reductions will the UNP implement to alleviate the financial burden on consumers?",
+    "answer": "The UNP will temporarily remove taxes on essential goods and reduce the taxes on utilities such as electricity, gas, water, and kerosene."
+  },
+  {
+    "id": 110,
+    "question": "How does the UNP plan to make daily necessities more affordable for citizens?",
+    "answer": "By removing taxes on essential goods and utilities, the UNP will reduce the cost of daily necessities, easing the financial burden on citizens."
+  },
+  {
+    "id": 111,
+    "question": "What is the UNP’s approach to building national consensus on critical issues?",
+    "answer": "The UNP will seek national consensus among all political parties on political, social, and economic issues to promote inclusive governance."
+  },
+  {
+    "id": 112,
+    "question": "How will the UNP ensure that all political parties contribute to national decisions?",
+    "answer": "By engaging all political parties in discussions on key national issues, the UNP aims to ensure that all stakeholders have a say in important decisions."
+  },
+  {
+    "id": 113,
+    "question": "What is the UNP’s vision for inclusive governance?",
+    "answer": "The UNP envisions a government where all political parties work together to address the country's challenges and find common solutions."
+  },
+  {
+    "id": 114,
+    "question": "How does the UNP plan to involve other political parties in governance?",
+    "answer": "The UNP will seek consensus among all political parties on national issues, ensuring that governance is inclusive and collaborative."
+  },
+  {
+    "id": 115,
+    "question": "What will be the UNP’s strategy for addressing divisive political issues?",
+    "answer": "The UNP will foster national consensus among political parties to address divisive issues through open dialogue and cooperation."
+  },{
+    "id": 116,
+    "question": "What financial assistance will each resettled IDP family receive under the UNP’s plan?",
+    "answer": "Each resettled family will receive a grant of Rs. 100,000 to assist in rebuilding their lives."
+  },
+  {
+    "id": 117,
+    "question": "How will the UNP expedite the resettlement of families in IDP camps?",
+    "answer": "The UNP will take rapid measures to resettle the families and provide them with financial assistance for housing and rebuilding."
+  },
+  {
+    "id": 118,
+    "question": "What is the primary goal of the UNP regarding families living in IDP camps?",
+    "answer": "The primary goal is to ensure the quick resettlement of families in IDP camps and provide financial assistance to help them recover."
+  },
+  {
+    "id": 119,
+    "question": "How does the UNP plan to support families resettling from IDP camps?",
+    "answer": "The UNP will support these families by offering them Rs. 100,000 in financial assistance upon resettlement."
+  },
+  {
+    "id": 120,
+    "question": "What is the UNP’s vision for improving the living conditions of IDP families?",
+    "answer": "The UNP aims to rapidly resettle IDP families and provide them with financial support to ensure they can rebuild their homes and livelihoods."
+  },
+  {
+    "id": 121,
+    "question": "How does the UNP plan to safeguard human rights?",
+    "answer": "The UNP will safeguard human rights by restoring good governance, upholding the rule of law, and ensuring media freedom for every Sri Lankan."
+  },
+  {
+    "id": 122,
+    "question": "What steps will the UNP take to protect media freedom?",
+    "answer": "The UNP will restore media freedom by allowing journalists to report freely without fear of government interference or censorship."
+  },
+  {
+    "id": 123,
+    "question": "How does the UNP view the role of media in governance?",
+    "answer": "The UNP sees media as a critical pillar of democracy, essential for transparency and holding the government accountable to the people."
+  },
+  {
+    "id": 124,
+    "question": "What will the UNP do to ensure freedom of expression for all citizens?",
+    "answer": "The UNP will protect freedom of expression by upholding the rule of law and preventing government interference in the press and media."
+  },
+  {
+    "id": 125,
+    "question": "How does the UNP plan to create a more open and transparent media environment?",
+    "answer": "By restoring media freedom and protecting journalists’ rights, the UNP will create a more open and transparent environment for the media to operate freely."
+  },
+  {
+    "id": 126,
+    "question": "How will the UNP reduce the cost of essential goods?",
+    "answer": "The UNP will remove taxes on essential goods like milk powder, sugar, dhal, potatoes, onions, and canned fish for one year to reduce their prices."
+  },
+  {
+    "id": 127,
+    "question": "What is the UNP’s immediate solution to reduce the cost of living?",
+    "answer": "The UNP will remove taxes on essential goods and reduce the prices of utilities like kerosene, gas, water, and electricity."
+  },
+  {
+    "id": 128,
+    "question": "How does the UNP plan to ease the financial burden on families?",
+    "answer": "By removing taxes on essential goods and utilities, the UNP will lower costs for everyday items and services, making them more affordable for families."
+  },
+  {
+    "id": 129,
+    "question": "What impact will the removal of taxes on essential goods have?",
+    "answer": "The removal of taxes on essential goods will reduce their prices, providing immediate financial relief to households."
+  },
+  {
+    "id": 130,
+    "question": "How will the reduction in utility prices benefit Sri Lankans?",
+    "answer": "The reduction in taxes on utilities like electricity, gas, and kerosene will lower household bills, easing the financial burden on Sri Lankans."
+  },
+  {
+    "id": 131,
+    "question": "How will the UNP reform the electoral process?",
+    "answer": "The UNP will hold all national, provincial, and local elections on the same day and re-establish the Independent Elections Commission to oversee transparent elections."
+  },
+  {
+    "id": 132,
+    "question": "What reforms will the UNP introduce to ensure fair elections?",
+    "answer": "The UNP will re-establish the Independent Elections Commission, reduce the cost of conducting elections, and prevent the misuse of public funds by political parties."
+  },
+  {
+    "id": 133,
+    "question": "What is the UNP’s policy on the term length of elected office bearers?",
+    "answer": "The UNP will limit the term length of all elected office bearers to five years."
+  },
+  {
+    "id": 134,
+    "question": "How will the UNP prevent the misuse of public funds during elections?",
+    "answer": "The UNP will introduce reforms to stop political parties from misusing public funds in election campaigns."
+  },
+  {
+    "id": 135,
+    "question": "How does the UNP plan to reduce the cost of elections?",
+    "answer": "The UNP will cut down the cost of conducting elections by improving the efficiency of the process and introducing cost-saving measures."
+  },
+  {
+    "id": 136,
+    "question": "What financial assessment will the UNP conduct before fully implementing public servant salary increases?",
+    "answer": "The UNP will assess the bankrupt state of the Treasury before implementing the remaining Rs. 6,500 of the public servant salary increase."
+  },
+  {
+    "id": 137,
+    "question": "How does the UNP plan to handle the state of the Treasury before raising public sector salaries?",
+    "answer": "The UNP will first conduct an assessment of the Treasury’s finances before distributing the full public servant salary increase."
+  },
+  {
+    "id": 138,
+    "question": "What is the UNP’s plan for gradually increasing public servant salaries?",
+    "answer": "After the initial Rs. 3,500 salary hike, the UNP will distribute the remaining Rs. 6,500 in installments, based on the assessment of the Treasury’s finances."
+  },
+  {
+    "id": 139,
+    "question": "How will the UNP balance public sector salary increases with fiscal responsibility?",
+    "answer": "The UNP will ensure that salary increases are distributed in phases, contingent on the Treasury’s financial health, to maintain fiscal responsibility."
+  },
+  {
+    "id": 140,
+    "question": "What immediate financial relief will public servants receive under the UNP?",
+    "answer": "Public servants will receive an immediate Rs. 3,500 salary hike as part of a larger Rs. 10,000 increase."
+  },
+  {
+    "id": 141,
+    "question": "How will the UNP restore good governance?",
+    "answer": "The UNP will restore good governance by re-establishing Independent Commissions, restoring the rule of law, and preventing corruption."
+  },
+  {
+    "id": 142,
+    "question": "What is the UNP’s stance on political corruption?",
+    "answer": "The UNP is committed to introducing laws that prevent unsuitable individuals from entering politics and implementing reforms to fight corruption."
+  },
+  {
+    "id": 143,
+    "question": "How does the UNP plan to promote transparency in government?",
+    "answer": "The UNP will restore the Constitutional Council and Independent Commissions to ensure transparency and accountability in government functions."
+  },
+  {
+    "id": 144,
+    "question": "What steps will the UNP take to prevent unsuitable individuals from entering politics?",
+    "answer": "The UNP will introduce legal reforms to prevent unsuitable individuals from holding political office and ensure that elected officials meet high ethical standards."
+  },
+  {
+    "id": 145,
+    "question": "How does the UNP plan to rebuild public trust in government?",
+    "answer": "By restoring good governance, transparency, and accountability, the UNP aims to rebuild public trust in government institutions."
+  },
+  {
+    "id": 146,
+    "question": "How does the UNP plan to support agricultural productivity?",
+    "answer": "The UNP will continue the fertilizer subsidy and ensure that various types of fertilizer are freely available in the market to support agricultural productivity."
+  },
+  {
+    "id": 147,
+    "question": "What subsidy will the UNP continue for farmers?",
+    "answer": "The UNP will continue the fertilizer subsidy to support farmers in maintaining agricultural productivity."
+  },
+  {
+    "id": 148,
+    "question": "How will the UNP ensure that fertilizers are available to farmers?",
+    "answer": "The UNP will make various types of fertilizers freely available in the market to help farmers improve crop yields."
+  },
+  {
+    "id": 149,
+    "question": "What is the UNP’s long-term plan for supporting farmers?",
+    "answer": "The UNP will provide continued access to fertilizer subsidies and make fertilizers available in the market to ensure long-term agricultural growth."
+  },
+  {
+    "id": 150,
+    "question": "How does the UNP plan to keep agricultural costs low for farmers?",
+    "answer": "By continuing the fertilizer subsidy and making fertilizers freely available, the UNP will help farmers keep their production costs low."
+  },
+  {
+    "id": 151,
+    "question": "What is the UNP’s plan for lowering fuel prices?",
+    "answer": "The UNP will lower the price of petrol in accordance with the Supreme Court order, ensuring that fuel prices are fair and legal."
+  },
+  {
+    "id": 152,
+    "question": "How will the UNP reduce utility prices for households?",
+    "answer": "The UNP will reduce the taxes on utilities such as kerosene oil, gas, water, and electricity, making them more affordable for households."
+  },
+  {
+    "id": 153,
+    "question": "What specific utility services will see price reductions under the UNP?",
+    "answer": "The UNP will reduce the prices of kerosene oil, gas, water, and electricity by cutting the taxes imposed on these utilities."
+  }]}  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+

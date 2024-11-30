@@ -1,0 +1,1261 @@
+{"questions": [
+    {
+      "id": 1,
+      "question": "What will be improved to develop the marine tourism industry?",
+      "answer": "The necessary infrastructure."
+    },
+    {
+      "id": 2,
+      "question": "Which airports will be developed over the next 15 years?",
+      "answer": "Katunayaka, Mattala, Jafna, Ratmalana, and other airports."
+    },
+    {
+      "id": 3,
+      "question": "What sea ports will be developed over the next 15 years?",
+      "answer": "Colombo, Hambantota, and Trincomalee sea ports."
+    },
+    {
+      "id": 4,
+      "question": "How many passengers per year are the sea ports expected to service?",
+      "answer": "80 million passengers."
+    },
+    {
+      "id": 5,
+      "question": "What will be improved in the transport system?",
+      "answer": "It will be improved to international standards, including high-quality sanitary facilities."
+    },
+    {
+      "id": 6,
+      "question": "What will be done to old buses?",
+      "answer": "New licenses and credit facilities will be provided to phase out old buses and import modern, comfortable buses."
+    },
+    {
+      "id": 7,
+      "question": "What will happen to the licenses of errant bus drivers?",
+      "answer": "Their licenses will be suspended."
+    },
+    {
+      "id": 8,
+      "question": "What is required for new bus licenses?",
+      "answer": "Proper counselling, driving training, and testing."
+    },
+    {
+      "id": 9,
+      "question": "How will the productivity of existing railways be improved?",
+      "answer": "By deploying new trains."
+    },
+    {
+      "id": 10,
+      "question": "How will the train timetable and ticketing process be managed?",
+      "answer": "Through the ICT system."
+    },
+    {
+      "id": 11,
+      "question": "What will be expanded by connecting the seaports around the island?",
+      "answer": "Passenger and cargo transportation services."
+    },
+    {
+      "id": 12,
+      "question": "What will be developed to support international maritime transport?",
+      "answer": "International maritime transport and service centers."
+    },
+    {
+      "id": 13,
+      "question": "What will investments be made in for housing construction?",
+      "answer": "Safe housing for every citizen."
+    },
+    {
+      "id": 14,
+      "question": "What will be prioritized in town and village planning?",
+      "answer": "The planning of towns and villages, and the design and construction of new towns, offices, and factories."
+    },
+    {
+      "id": 15,
+      "question": "What is the aim of investments in energy needs?",
+      "answer": "To meet energy needs from renewable sources to reduce fuel imports and environmental pollution."
+    },
+    {
+      "id": 16,
+      "question": "What will be implemented to continuously meet drinking water needs?",
+      "answer": "A comprehensive program."
+    },
+    {
+      "id": 17,
+      "question": "What will be developed to support youth with education, training, and ICT services?",
+      "answer": "New ICT clusters."
+    },
+    {
+      "id": 18,
+      "question": "What will happen to internet connectivity tariffs?",
+      "answer": "They will be revised as an essential service."
+    },
+    {
+      "id": 19,
+      "question": "How will public services be made easier and faster?",
+      "answer": "By installing the Electronic National Identity Card System with biometric data."
+    },
+    {
+      "id": 20,
+      "question": "What will be implemented across all public services to reduce time wastage and cost?",
+      "answer": "An integrated ICT system."
+    },
+    {
+      "id": 21,
+      "question": "What kind of system will be set up to manage public service performance?",
+      "answer": "An ICT-based Public Service Performance Management System."
+    },
+    {
+      "id": 22,
+      "question": "What will be established with international stakeholders and investors?",
+      "answer": "A policy and practical program to utilize capabilities to produce modern technology products for the global market."
+    },
+    {
+      "id": 23,
+      "question": "How will small and medium-sized technology manufacturing industries be supported?",
+      "answer": "By linking them to create regional manufacturing clusters and providing necessary technology, investment, and global market access."
+    },
+    {
+      "id": 24,
+      "question": "What is the purpose of developing the marine tourism industry?",
+      "answer": "To enhance marine tourism by improving the necessary infrastructure."
+    },
+    {
+      "id": 25,
+      "question": "How many major airports will be developed?",
+      "answer": "Several major airports, including Katunayaka, Mattala, Jafna, and Ratmalana."
+    },
+    {
+      "id": 26,
+      "question": "Which sea port is not mentioned as part of the development plan?",
+      "answer": "The text does not mention any sea port in particular that is not included."
+    },
+    {
+      "id": 27,
+      "question": "What will the improvement of the transport system include?",
+      "answer": "It will include high-quality sanitary facilities."
+    },
+    {
+      "id": 28,
+      "question": "How will old buses be phased out?",
+      "answer": "By providing new licenses and credit facilities for modern, comfortable buses."
+    },
+    {
+      "id": 29,
+      "question": "What must errant bus drivers undergo to get new licenses?",
+      "answer": "Proper counselling, driving training, and testing."
+    },
+    {
+      "id": 30,
+      "question": "What will doubling the productivity of existing railways involve?",
+      "answer": "Deploying new trains and managing timetables and ticketing through the ICT system."
+    },
+    {
+      "id": 31,
+      "question": "What will connecting seaports around the island expand?",
+      "answer": "Passenger and cargo transportation services."
+    },
+    {
+      "id": 32,
+      "question": "What will international maritime transport and service centers contribute to?",
+      "answer": "The development of international maritime transport."
+    },
+    {
+      "id": 33,
+      "question": "What is the focus of investments in housing construction?",
+      "answer": "To provide safe housing for every citizen."
+    },
+    {
+      "id": 34,
+      "question": "What will town and village planning include?",
+      "answer": "The design and construction of new towns, offices, and factories."
+    },
+    {
+      "id": 35,
+      "question": "What type of energy source will investments focus on?",
+      "answer": "Renewable energy sources."
+    },
+    {
+      "id": 36,
+      "question": "How will drinking water needs be addressed?",
+      "answer": "Through a comprehensive program."
+    },
+    {
+      "id": 37,
+      "question": "What will be the focus of investments in energy?",
+      "answer": "To use renewable sources to ensure continuous electricity supply."
+    },
+    {
+      "id": 38,
+      "question": "What is the long-term goal for sea ports?",
+      "answer": "To handle 80 million passengers per year."
+    },
+    {
+      "id": 39,
+      "question": "How will bus drivers be assessed for new licenses?",
+      "answer": "Through proper counselling, training, and testing."
+    },
+    {
+      "id": 40,
+      "question": "What is the expected outcome of deploying new trains?",
+      "answer": "Doubling the productivity of the existing railways."
+    },
+    {
+      "id": 41,
+      "question": "What new infrastructure will support marine tourism?",
+      "answer": "Improved infrastructure for marine tourism development."
+    },
+    {
+      "id": 42,
+      "question": "How will ICT clusters assist the youth?",
+      "answer": "By providing education, training, and access to ICT services."
+    },
+    {
+      "id": 43,
+      "question": "What will the Electronic National Identity Card System facilitate?",
+      "answer": "Easier and faster public services."
+    },
+    {
+      "id": 44,
+      "question": "What will be included in the comprehensive program for drinking water?",
+      "answer": "Continuous provision of drinking water."
+    },
+    {
+      "id": 45,
+      "question": "What will the focus of new town planning include?",
+      "answer": "Design and construction of new towns, offices, and factories."
+    },
+    {
+      "id": 46,
+      "question": "What will be the role of new ICT clusters in education?",
+      "answer": "To support youth with education and training."
+    },
+    {
+      "id": 47,
+      "question": "What will be the effect of revising tariffs on internet connectivity?",
+      "answer": "Internet connectivity will be considered an essential service."
+    },
+    {
+      "id": 48,
+      "question": "How will public services be improved by the Electronic National Identity Card System?",
+      "answer": "They will be easier and faster."
+    },
+    {
+      "id": 49,
+      "question": "What will the ICT-based Public Service Performance Management System help with?",
+      "answer": "Managing public service performance effectively."
+    },
+    {
+      "id": 50,
+      "question": "What is the purpose of the policy and practical program with international stakeholders?",
+      "answer": "To utilize capabilities to produce modern technology products for the global market."
+    },
+    {
+      "id": 51,
+      "question": "How will regional manufacturing clusters be supported?",
+      "answer": "By linking small and medium-sized technology manufacturing industries and providing technology, investment, and global market access."
+    },
+    {
+        "id": 52,
+        "question": "What is the passenger capacity target for developed sea ports?",
+        "answer": "80 million passengers per year."
+    },
+    {
+        "id": 53,
+        "question": "How will the transport system be improved?",
+        "answer": "By meeting international standards and providing high-quality sanitary facilities."
+    },
+    {
+        "id": 54,
+        "question": "What will be done with old buses?",
+        "answer": "They will be phased out in favor of modern, comfortable buses."
+    },
+    {
+        "id": 55,
+        "question": "What is required for new bus licenses?",
+        "answer": "Counselling, driving training, and testing."
+    },
+    {
+        "id": 56,
+        "question": "How will the rail system be improved?",
+        "answer": "By deploying new trains and managing timetables and ticketing through ICT."
+    },
+    {
+        "id": 57,
+        "question": "What will connecting seaports around the island expand?",
+        "answer": "Passenger and cargo transportation services."
+    },
+    {
+        "id": 58,
+        "question": "What will international maritime transport centers be developed for?",
+        "answer": "To support maritime transport services."
+    },
+    {
+        "id": 59,
+        "question": "What will be the focus of housing construction investments?",
+        "answer": "Providing safe housing for all citizens."
+    },
+    {
+        "id": 60,
+        "question": "What will town planning include?",
+        "answer": "Design and construction of new towns, offices, and factories."
+    },
+    {
+        "id": 61,
+        "question": "What will the new ICT clusters support?",
+        "answer": "Education, training, and ICT services for youth."
+    },
+    {
+        "id": 62,
+        "question": "What will the revised internet connectivity tariffs ensure?",
+        "answer": "That internet connectivity is considered an essential service."
+    },
+    {
+        "id": 63,
+        "question": "How will public services be streamlined?",
+        "answer": "By installing an Electronic National Identity Card System with biometric data."
+    },
+    {
+        "id": 64,
+        "question": "What will the integrated ICT system across public services achieve?",
+        "answer": "Reduced time wastage, travel costs, and unnecessary paperwork."
+    },
+    {
+        "id": 65,
+        "question": "What is the purpose of the ICT-based Public Service Performance Management System?",
+        "answer": "To manage and improve public service performance."
+    },
+    {
+        "id": 66,
+        "question": "What will the policy and practical program with international stakeholders focus on?",
+        "answer": "Utilizing capabilities to produce and market modern technology products globally."
+    },
+    {
+        "id": 67,
+        "question": "How will small and medium-sized technology industries be supported?",
+        "answer": "By creating regional clusters and providing technology, investment, and global market access."
+    },
+    {
+        "id": 68,
+        "question": "What will the ICT clusters provide for the youth?",
+        "answer": "Support with education, training, and ICT services."
+    },
+    {
+        "id": 69,
+        "question": "What will happen to the tariffs on internet connectivity?",
+        "answer": "They will be revised."
+    },
+    {
+        "id": 70,
+        "question": "How will the Electronic National Identity Card System impact public services?",
+        "answer": "It will make them easier and faster to access."
+    },
+    {
+        "id": 71,
+        "question": "What is the focus of marine tourism development?",
+        "answer": "Improving necessary infrastructure."
+    },
+    {
+        "id": 72,
+        "question": "How many major sea ports are included in the development plan?",
+        "answer": "Several, including Colombo, Hambantota, and Trincomalee."
+    },
+    {
+        "id": 73,
+        "question": "What is the annual passenger service target for developed airports and sea ports?",
+        "answer": "80 million passengers."
+    },
+    {
+        "id": 74,
+        "question": "What will be done to phase out old buses?",
+        "answer": "New licenses and credit facilities will be provided for modern buses."
+    },
+    {
+        "id": 75,
+        "question": "What is required for new bus licenses after suspension?",
+        "answer": "Proper counselling, training, and testing."
+    },
+    {
+        "id": 76,
+        "question": "How will the railways’ productivity be increased?",
+        "answer": "By deploying new trains."
+    },
+    {
+        "id": 77,
+        "question": "What will connecting seaports around the island achieve?",
+        "answer": "Expansion of passenger and cargo transportation services."
+    },
+    {
+        "id": 78,
+        "question": "What is the focus of developing international maritime transport centers?",
+        "answer": "Supporting international maritime transport services."
+    },
+    {
+        "id": 79,
+        "question": "What will the investment in housing construction focus on?",
+        "answer": "Ensuring safe housing for all citizens."
+    },
+    {
+        "id": 80,
+        "question": "What will be included in new town planning?",
+        "answer": "Design and construction of new towns, offices, and factories."
+    },
+    {
+        "id": 81,
+        "question": "What will investments in energy aim to reduce?",
+        "answer": "Fuel imports and environmental pollution."
+    },
+    {
+        "id": 82,
+        "question": "What support will new ICT clusters offer to youth?",
+        "answer": "Education, training, and access to ICT services."
+    },
+    {
+        "id": 83,
+        "question": "How will internet connectivity tariffs be changed?",
+        "answer": "They will be revised to consider internet as an essential service."
+    },
+    {
+        "id": 84,
+        "question": "What will the Electronic National Identity Card System improve?",
+        "answer": "The ease and speed of public services."
+    },
+    {
+        "id": 85,
+        "question": "What is the benefit of an integrated ICT system in public services?",
+        "answer": "It will reduce time wastage, travel costs, and unnecessary paperwork."
+    },
+    {
+        "id": 86,
+        "question": "What will the ICT-based Public Service Performance Management System achieve?",
+        "answer": "Improved management of public service performance."
+    },
+    {
+        "id": 87,
+        "question": "What will the policy and practical program with international stakeholders focus on?",
+        "answer": "To produce and market modern technology products globally."
+    },
+    {
+        "id": 88,
+        "question": "How will small and medium-sized technology industries be upgraded?",
+        "answer": "By linking them to regional manufacturing clusters and providing necessary resources."
+    },
+    {
+        "id": 89,
+        "question": "What will the new ICT clusters offer for the youth?",
+        "answer": "Education, training, and ICT services for foreign clients."
+    },
+    {
+        "id": 90,
+        "question": "Why will internet connectivity tariffs be revised?",
+        "answer": "To ensure internet connectivity is considered an essential service."
+    },
+    {
+        "id": 91,
+        "question": "How will the Electronic National Identity Card System enhance public services?",
+        "answer": "By making them easier and faster to access."
+    },
+    {
+        "id": 92,
+        "question": "What kind of infrastructure will be improved for marine tourism?",
+        "answer": "The necessary infrastructure for developing the marine tourism industry."
+    },
+    {
+        "id": 93,
+        "question": "How many airports are planned for development?",
+        "answer": "Several major airports, including Katunayaka, Mattala, Jafna, and Ratmalana."
+    },
+    {
+        "id": 94,
+        "question": "What sea ports are mentioned for development?",
+        "answer": "Colombo, Hambantota, and Trincomalee."
+    },
+    {
+        "id": 95,
+        "question": "What will be the annual passenger service capacity for the developed infrastructure?",
+        "answer": "80 million passengers."
+    },
+    {
+        "id": 96,
+        "question": "What improvements will be made to the transport system?",
+        "answer": "Upgrading to international standards and including high-quality sanitary facilities."
+    },
+    {
+        "id": 97,
+        "question": "What will happen to old buses in the transportation system?",
+        "answer": "They will be phased out in favor of modern, comfortable buses."
+    },
+    {
+        "id": 98,
+        "question": "What is required for obtaining new bus licenses?",
+        "answer": "Counselling, driving training, and testing."
+    },
+    {
+        "id": 99,
+        "question": "How will productivity in the rail system be increased?",
+        "answer": "By deploying new trains and managing timetables and ticketing through ICT."
+    },
+    {
+        "id": 100,
+        "question": "What will the expansion of passenger and cargo transportation services involve?",
+        "answer": "Connecting seaports around the island."
+    },
+    {
+        "id": 101,
+        "question": "What will be developed to support international maritime transport services?",
+        "answer": "International maritime transport centers."
+    },
+    {
+        "id": 102,
+        "question": "What is the focus of housing construction investments?",
+        "answer": "Providing safe housing for all citizens."
+    },
+    {
+        "id": 103,
+        "question": "What will town planning include?",
+        "answer": "Design and construction of new towns, offices, and factories."
+    },
+    {
+        "id": 104,
+        "question": "What support will be provided to small and medium-sized technology industries?",
+        "answer": "Creating regional clusters, providing technology, investment, and global market access."
+    },
+    {
+        "id": 105,
+        "question": "What will the new ICT clusters support?",
+        "answer": "Education, training, and ICT services for youth."
+    },
+    {
+        "id": 106,
+        "question": "What is the goal of revising internet connectivity tariffs?",
+        "answer": "To make internet connectivity an essential service."
+    },
+    {
+        "id": 107,
+        "question": "How will public services be improved with the Electronic National Identity Card System?",
+        "answer": "By making them easier and faster to access."
+    },
+    {
+        "id": 108,
+        "question": "What will the integrated ICT system across public services achieve?",
+        "answer": "Reduced time wastage, travel costs, and unnecessary paperwork."
+    },
+    {
+        "id": 109,
+        "question": "What is the purpose of the ICT-based Public Service Performance Management System?",
+        "answer": "To manage and improve public service performance."
+    },
+    {
+        "id": 110,
+        "question": "What will the policy and practical program with international stakeholders focus on?",
+        "answer": "Utilizing capabilities to produce and market modern technology products globally."
+    },
+    {
+        "id": 111,
+        "question": "How will small and medium-sized technology industries be supported?",
+        "answer": "By creating regional clusters and providing technology, investment, and global market access."
+    },
+    {
+        "id": 112,
+        "question": "What will the new ICT clusters provide for the youth?",
+        "answer": "Support with education, training, and ICT services."
+    },
+    {
+        "id": 113,
+        "question": "What will happen to internet connectivity tariffs?",
+        "answer": "They will be revised."
+    },
+    {
+        "id": 114,
+        "question": "How will the Electronic National Identity Card System impact public services?",
+        "answer": "It will make them easier and faster to access."
+    },
+    {
+        "id": 115,
+        "question": "What is the focus of marine tourism development?",
+        "answer": "Improving necessary infrastructure."
+    },
+    {
+        "id": 116,
+        "question": "How many major sea ports are included in the development plan?",
+        "answer": "Several, including Colombo, Hambantota, and Trincomalee."
+    },
+    {
+        "id": 117,
+        "question": "What is the annual passenger service target for developed airports and sea ports?",
+        "answer": "80 million passengers."
+    },
+    {
+        "id": 118,
+        "question": "What will be done to phase out old buses?",
+        "answer": "New licenses and credit facilities will be provided for modern buses."
+    },
+    {
+        "id": 119,
+        "question": "What is required for new bus licenses after suspension?",
+        "answer": "Proper counselling, training, and testing."
+    },
+    {
+        "id": 120,
+        "question": "How will the railways’ productivity be increased?",
+        "answer": "By deploying new trains."
+    },
+    {
+        "id": 121,
+        "question": "What will connecting seaports around the island achieve?",
+        "answer": "Expansion of passenger and cargo transportation services."
+    },
+    {
+        "id": 122,
+        "question": "What is the focus of developing international maritime transport centers?",
+        "answer": "Supporting international maritime transport services."
+    },
+    {
+        "id": 123,
+        "question": "What will the investment in housing construction focus on?",
+        "answer": "Ensuring safe housing for all citizens."
+    },
+    {
+        "id": 124,
+        "question": "What will be included in new town planning?",
+        "answer": "Design and construction of new towns, offices, and factories."
+    },
+    {
+        "id": 125,
+        "question": "What will investments in energy aim to reduce?",
+        "answer": "Fuel imports and environmental pollution."
+    },
+    {
+        "id": 126,
+        "question": "What support will new ICT clusters offer to youth?",
+        "answer": "Education, training, and access to ICT services."
+    },
+    {
+        "id": 127,
+        "question": "How will internet connectivity tariffs be changed?",
+        "answer": "They will be revised to consider internet as an essential service."
+    },
+    {
+        "id": 128,
+        "question": "What will the Electronic National Identity Card System enhance public services?",
+        "answer": "By making them easier and faster to access."
+    },
+    {
+        "id": 129,
+        "question": "What kind of infrastructure will be improved for marine tourism?",
+        "answer": "The necessary infrastructure for developing the marine tourism industry."
+    },
+    {
+        "id": 130,
+        "question": "How many airports are planned for development?",
+        "answer": "Several major airports, including Katunayaka, Mattala, Jafna, and Ratmalana."
+    },
+    {
+        "id": 131,
+        "question": "What sea ports are mentioned for development?",
+        "answer": "Colombo, Hambantota, and Trincomalee."
+    },
+    {
+        "id": 132,
+        "question": "What will be the annual passenger service capacity for the developed infrastructure?",
+        "answer": "80 million passengers."
+    },
+    {
+        "id": 133,
+        "question": "What improvements will be made to the transport system?",
+        "answer": "Upgrading to international standards and including high-quality sanitary facilities."
+    },
+    {
+        "id": 134,
+        "question": "What will happen to old buses in the transportation system?",
+        "answer": "They will be phased out in favor of modern, comfortable buses."
+    },
+    {
+        "id": 135,
+        "question": "What is required for obtaining new bus licenses?",
+        "answer": "Counselling, driving training, and testing."
+    },
+    {
+        "id": 136,
+        "question": "How will productivity in the rail system be increased?",
+        "answer": "By deploying new trains and managing timetables and ticketing through ICT."
+    },
+    {
+        "id": 137,
+        "question": "What will the expansion of passenger and cargo transportation services involve?",
+        "answer": "Connecting seaports around the island."
+    },
+    {
+        "id": 138,
+        "question": "What will be developed to support international maritime transport services?",
+        "answer": "International maritime transport centers."
+    },
+    {
+        "id": 139,
+        "question": "What is the focus of housing construction investments?",
+        "answer": "Providing safe housing for all citizens."
+    },
+    {
+        "id": 140,
+        "question": "What will town planning include?",
+        "answer": "Design and construction of new towns, offices, and factories."
+    },
+    {
+        "id": 141,
+        "question": "What support will be provided to small and medium-sized technology industries?",
+        "answer": "Creating regional clusters, providing technology, investment, and global market access."
+    },
+    {
+        "id": 142,
+        "question": "What will the new ICT clusters support?",
+        "answer": "Education, training, and ICT services for youth."
+    },
+    {
+        "id": 143,
+        "question": "What is the goal of revising internet connectivity tariffs?",
+        "answer": "To make internet connectivity an essential service."
+    },
+    {
+        "id": 144,
+        "question": "How will the Electronic National Identity Card System impact public services?",
+        "answer": "It will make them easier and faster to access."
+    },
+    {
+        "id": 145,
+        "question": "What is the focus of marine tourism development?",
+        "answer": "Improving necessary infrastructure."
+    },
+    {
+        "id": 146,
+        "question": "How many major sea ports are included in the development plan?",
+        "answer": "Several, including Colombo, Hambantota, and Trincomalee."
+    },
+    {
+        "id": 147,
+        "question": "What is the annual passenger service target for developed airports and sea ports?",
+        "answer": "80 million passengers."
+    },
+    {
+        "id": 148,
+        "question": "What will be done to phase out old buses?",
+        "answer": "New licenses and credit facilities will be provided for modern buses."
+    },
+    {
+        "id": 149,
+        "question": "What is required for new bus licenses after suspension?",
+        "answer": "Proper counselling, training, and testing."
+    },
+    {
+        "id": 150,
+        "question": "How will the railways’ productivity be increased?",
+        "answer": "By deploying new trains."
+    },
+    {
+        "id": 151,
+        "question": "What will connecting seaports around the island achieve?",
+        "answer": "Expansion of passenger and cargo transportation services."
+    },
+    {
+        "id": 152,
+        "question": "What is the focus of developing international maritime transport centers?",
+        "answer": "Supporting international maritime transport services."
+    },
+    {
+        "id": 153,
+        "question": "What will the investment in housing construction focus on?",
+        "answer": "Ensuring safe housing for all citizens."
+    },
+    {
+        "id": 154,
+        "question": "What will be included in new town planning?",
+        "answer": "Design and construction of new towns, offices, and factories."
+    },
+    {
+        "id": 155,
+        "question": "What will investments in energy aim to reduce?",
+        "answer": "Fuel imports and environmental pollution."
+    },
+    {
+        "id": 156,
+        "question": "What support will new ICT clusters offer to youth?",
+        "answer": "Education, training, and access to ICT services."
+    },
+    {
+        "id": 157,
+        "question": "How will internet connectivity tariffs be changed?",
+        "answer": "They will be revised to consider internet as an essential service."
+    },
+    {
+        "id": 158,
+        "question": "What will the Electronic National Identity Card System enhance public services?",
+        "answer": "By making them easier and faster to access."
+    },
+    {
+        "id": 159,
+        "question": "What kind of infrastructure will be improved for marine tourism?",
+        "answer": "The necessary infrastructure for developing the marine tourism industry."
+    },
+    {
+        "id": 160,
+        "question": "How many airports are planned for development?",
+        "answer": "Several major airports, including Katunayaka, Mattala, Jafna, and Ratmalana."
+    },
+    {
+        "id": 161,
+        "question": "What sea ports are mentioned for development?",
+        "answer": "Colombo, Hambantota, and Trincomalee."
+    },
+    {
+        "id": 162,
+        "question": "What will be the annual passenger service capacity for the developed infrastructure?",
+        "answer": "80 million passengers."
+    },
+    {
+        "id": 163,
+        "question": "What improvements will be made to the transport system?",
+        "answer": "Upgrading to international standards and including high-quality sanitary facilities."
+    },
+    {
+        "id": 164,
+        "question": "What will happen to old buses in the transportation system?",
+        "answer": "They will be phased out in favor of modern, comfortable buses."
+    },
+    {
+        "id": 165,
+        "question": "What is required for obtaining new bus licenses?",
+        "answer": "Counselling, driving training, and testing."
+    },
+    {
+        "id": 166,
+        "question": "How will productivity in the rail system be increased?",
+        "answer": "By deploying new trains and managing timetables and ticketing through ICT."
+    },
+    {
+        "id": 167,
+        "question": "What will the expansion of passenger and cargo transportation services involve?",
+        "answer": "Connecting seaports around the island."
+    },
+    {
+        "id": 168,
+        "question": "What will be developed to support international maritime transport services?",
+        "answer": "International maritime transport centers."
+    },
+    {
+        "id": 169,
+        "question": "What is the focus of housing construction investments?",
+        "answer": "Providing safe housing for all citizens."
+    },
+    {
+        "id": 170,
+        "question": "What will town planning include?",
+        "answer": "Design and construction of new towns, offices, and factories."
+    },
+    {
+        "id": 171,
+        "question": "What support will be provided to small and medium-sized technology industries?",
+        "answer": "Creating regional clusters, providing technology, investment, and global market access."
+    },
+    {
+        "id": 172,
+        "question": "What will the new ICT clusters support?",
+        "answer": "Education, training, and ICT services for youth."
+    },
+    {
+        "id": 173,
+        "question": "What is the goal of revising internet connectivity tariffs?",
+        "answer": "To make internet connectivity an essential service."
+    },
+    {
+        "id": 174,
+        "question": "How will the Electronic National Identity Card System impact public services?",
+        "answer": "It will make them easier and faster to access."
+    },
+    {
+        "id": 175,
+        "question": "What is the focus of marine tourism development?",
+        "answer": "Improving necessary infrastructure."
+    },
+    {
+        "id": 176,
+        "question": "How many major sea ports are included in the development plan?",
+        "answer": "Several, including Colombo, Hambantota, and Trincomalee."
+    },
+    {
+        "id": 177,
+        "question": "What is the annual passenger service target for developed airports and sea ports?",
+        "answer": "80 million passengers."
+    },
+    {
+        "id": 178,
+        "question": "What will be done to phase out old buses?",
+        "answer": "New licenses and credit facilities will be provided for modern buses."
+    },
+    {
+        "id": 179,
+        "question": "What is required for new bus licenses after suspension?",
+        "answer": "Proper counselling, training, and testing."
+    },
+    {
+        "id": 180,
+        "question": "How will the railways’ productivity be increased?",
+        "answer": "By deploying new trains."
+    },
+    {
+        "id": 181,
+        "question": "What will connecting seaports around the island achieve?",
+        "answer": "Expansion of passenger and cargo transportation services."
+    },
+    {
+        "id": 182,
+        "question": "What is the focus of developing international maritime transport centers?",
+        "answer": "Supporting international maritime transport services."
+    },
+    {
+        "id": 183,
+        "question": "What will the investment in housing construction focus on?",
+        "answer": "Ensuring safe housing for all citizens."
+    },
+    {
+        "id": 184,
+        "question": "What will be included in new town planning?",
+        "answer": "Design and construction of new towns, offices, and factories."
+    },
+    {
+        "id": 185,
+        "question": "What will investments in energy aim to reduce?",
+        "answer": "Fuel imports and environmental pollution."
+    },
+    {
+        "id": 186,
+        "question": "What support will new ICT clusters offer to youth?",
+        "answer": "Education, training, and access to ICT services."
+    },
+    {
+        "id": 187,
+        "question": "How will internet connectivity tariffs be changed?",
+        "answer": "They will be revised to consider internet as an essential service."
+    },
+    {
+        "id": 188,
+        "question": "What will the Electronic National Identity Card System enhance public services?",
+        "answer": "By making them easier and faster to access."
+    },
+    {
+        "id": 189,
+        "question": "What kind of infrastructure will be improved for marine tourism?",
+        "answer": "The necessary infrastructure for developing the marine tourism industry."
+    },
+    {
+        "id": 190,
+        "question": "How many airports are planned for development?",
+        "answer": "Several major airports, including Katunayaka, Mattala, Jafna, and Ratmalana."
+    },
+    {
+        "id": 191,
+        "question": "What sea ports are mentioned for development?",
+        "answer": "Colombo, Hambantota, and Trincomalee."
+    },
+    {
+        "id": 192,
+        "question": "What will be the annual passenger service capacity for the developed infrastructure?",
+        "answer": "80 million passengers."
+    },
+    {
+        "id": 193,
+        "question": "What improvements will be made to the transport system?",
+        "answer": "Upgrading to international standards and including high-quality sanitary facilities."
+    },
+    {
+        "id": 194,
+        "question": "What will happen to old buses in the transportation system?",
+        "answer": "They will be phased out in favor of modern, comfortable buses."
+    },
+    {
+        "id": 195,
+        "question": "What is required for obtaining new bus licenses?",
+        "answer": "Counselling, driving training, and testing."
+    },
+    {
+        "id": 196,
+        "question": "How will productivity in the rail system be increased?",
+        "answer": "By deploying new trains and managing timetables and ticketing through ICT."
+    },
+    {
+        "id": 197,
+        "question": "What will the expansion of passenger and cargo transportation services involve?",
+        "answer": "Connecting seaports around the island."
+    },
+    {
+        "id": 198,
+        "question": "How will the Electronic National Identity Card System impact public services?",
+        "answer": "It will make them easier and faster to access."
+    },
+    {
+        "id": 199,
+        "question": "How many major sea ports are included in the development plan?",
+        "answer": "Several, including Colombo, Hambantota, and Trincomalee."
+    },
+    {
+        "id": 200,
+        "question": "What is the annual passenger service target for developed airports and sea ports?",
+        "answer": "80 million passengers."
+    },
+    {
+        "id": 201,
+        "question": "What will be done to phase out old buses?",
+        "answer": "New licenses and credit facilities will be provided for modern buses."
+    },
+    {
+        "id": 202,
+        "question": "What is required for new bus licenses after suspension?",
+        "answer": "Proper counselling, training, and testing."
+    },
+    {
+        "id": 203,
+        "question": "How will the railways’ productivity be increased?",
+        "answer": "By deploying new trains."
+    },
+    {
+        "id": 204,
+        "question": "What will connecting seaports around the island achieve?",
+        "answer": "Expansion of passenger and cargo transportation services."
+    },
+    {
+        "id": 205,
+        "question": "What is the focus of developing international maritime transport centers?",
+        "answer": "Supporting international maritime transport services."
+    },
+    {
+        "id": 206,
+        "question": "What will the investment in housing construction focus on?",
+        "answer": "Ensuring safe housing for all citizens."
+    },
+    {
+        "id": 207,
+        "question": "What will be included in new town planning?",
+        "answer": "Design and construction of new towns, offices, and factories."
+    },
+    {
+        "id": 208,
+        "question": "What will investments in energy aim to reduce?",
+        "answer": "Fuel imports and environmental pollution."
+    },
+    {
+        "id": 209,
+        "question": "What will new ICT clusters offer to youth?",
+        "answer": "Education, training, and access to ICT services."
+    },
+    {
+        "id": 210,
+        "question": "How will internet connectivity tariffs be changed?",
+        "answer": "They will be revised to consider internet connectivity as an essential service."
+    },
+    {
+        "id": 211,
+        "question": "What will the Electronic National Identity Card System improve?",
+        "answer": "The ease and speed of public services."
+    },
+    {
+        "id": 212,
+        "question": "What is the benefit of an integrated ICT system in public services?",
+        "answer": "It will reduce time wastage, travel costs, and unnecessary paperwork."
+    },
+    {
+        "id": 213,
+        "question": "What will the ICT-based Public Service Performance Management System achieve?",
+        "answer": "Improved management of public service performance."
+    },
+    {
+        "id": 214,
+        "question": "What is the focus of the policy and practical program with international stakeholders?",
+        "answer": "To produce and market modern technology products globally."
+    },
+    {
+        "id": 215,
+        "question": "How will small and medium-sized technology industries be upgraded?",
+        "answer": "By linking them to regional manufacturing clusters and providing necessary resources."
+    },
+    {
+        "id": 216,
+        "question": "What will be the role of new ICT clusters in the job market?",
+        "answer": "Supporting youth with education and access to ICT services for foreign clients."
+    },
+    {
+        "id": 217,
+        "question": "Why will internet connectivity tariffs be revised?",
+        "answer": "To ensure internet connectivity is considered an essential service."
+    },
+    {
+        "id": 218,
+        "question": "What will the Electronic National Identity Card System help with?",
+        "answer": "Making public services easier and faster."
+    },
+    {
+        "id": 219,
+        "question": "What kind of infrastructure will be improved for marine tourism?",
+        "answer": "The necessary infrastructure for developing the marine tourism industry."
+    },
+    {
+        "id": 220,
+        "question": "How many airports are planned for development?",
+        "answer": "Several major airports, including Katunayaka, Mattala, Jafna, and Ratmalana."
+    },
+    {
+        "id": 221,
+        "question": "What sea ports are mentioned for development?",
+        "answer": "Colombo, Hambantota, and Trincomalee."
+    },
+    {
+        "id": 222,
+        "question": "What will be the annual passenger service capacity for the developed infrastructure?",
+        "answer": "80 million passengers."
+    },
+    {
+        "id": 223,
+        "question": "What improvements will be made to the transport system?",
+        "answer": "Upgrading to international standards and including high-quality sanitary facilities."
+    },
+    {
+        "id": 224,
+        "question": "What will happen to old buses in the transportation system?",
+        "answer": "They will be phased out in favor of modern, comfortable buses."
+    },
+    {
+        "id": 225,
+        "question": "What is required for obtaining new bus licenses?",
+        "answer": "Counselling, driving training, and testing."
+    },
+    {
+        "id": 226,
+        "question": "How will productivity in the rail system be increased?",
+        "answer": "By deploying new trains and managing timetables and ticketing through ICT."
+    },
+    {
+        "id": 227,
+        "question": "What will the expansion of passenger and cargo transportation services involve?",
+        "answer": "Connecting seaports around the island."
+    },
+    {
+        "id": 228,
+        "question": "What will be developed in international maritime transport?",
+        "answer": "Transport and service centers."
+    },
+    {
+        "id": 229,
+        "question": "What will ICT clusters support for youth?",
+        "answer": "Education, training, and ICT service delivery."
+    },
+    {
+        "id": 230,
+        "question": "How will internet connectivity tariffs be addressed?",
+        "answer": "They will be revised to ensure internet is treated as an essential service."
+    },
+    {
+        "id": 231,
+        "question": "What will the Electronic National Identity Card System include?",
+        "answer": "Biometric data for enhanced public services."
+    },
+    {
+        "id": 232,
+        "question": "What will the integrated ICT system across public services help reduce?",
+        "answer": "Time wastage, travel costs, and unnecessary paperwork."
+    },
+    {
+        "id": 233,
+        "question": "What is the purpose of the ICT-based Public Service Performance Management System?",
+        "answer": "To improve the management of public services."
+    },
+    {
+        "id": 234,
+        "question": "What will the policy and practical program with international stakeholders focus on?",
+        "answer": "Utilizing capabilities to produce and market modern technology products globally."
+    },
+    {
+        "id": 235,
+        "question": "How will small and medium-sized technology industries be supported?",
+        "answer": "By creating regional clusters and providing technology, investment, and global market access."
+    },
+    {
+        "id": 236,
+        "question": "What will the new ICT clusters offer for the youth?",
+        "answer": "Education, training, and ICT services for foreign clients."
+    },
+    {
+        "id": 237,
+        "question": "Why are internet connectivity tariffs being revised?",
+        "answer": "To treat internet connectivity as an essential service."
+    },
+    {
+        "id": 238,
+        "question": "How will the Electronic National Identity Card System improve services?",
+        "answer": "By making them easier and faster to access."
+    },
+    {
+        "id": 239,
+        "question": "What is the focus of marine tourism development?",
+        "answer": "Improving necessary infrastructure."
+    },
+    {
+        "id": 240,
+        "question": "What is the annual passenger target for the developed sea ports and airports?",
+        "answer": "80 million passengers."
+    },
+    {
+        "id": 241,
+        "question": "What will replace old buses in the transport system?",
+        "answer": "Modern and comfortable buses."
+    },
+    {
+        "id": 242,
+        "question": "What will be required for new bus licenses?",
+        "answer": "Proper counselling, driving training, and testing."
+    },
+    {
+        "id": 243,
+        "question": "How will the productivity of railways be increased?",
+        "answer": "By deploying new trains and using ICT for ticketing and timetables."
+    },
+    {
+        "id": 244,
+        "question": "How will passenger and cargo transportation be expanded?",
+        "answer": "By connecting seaports around the island."
+    },
+    {
+        "id": 245,
+        "question": "What will international maritime transport centers be developed for?",
+        "answer": "To support maritime transport and services."
+    },
+    {
+        "id": 246,
+        "question": "What will investments in housing construction focus on?",
+        "answer": "Providing safe housing for all citizens."
+    },
+    {
+        "id": 247,
+        "question": "What will be included in the new town planning?",
+        "answer": "Design and construction of new towns, offices, and factories."
+    },
+    {
+        "id": 248,
+        "question": "What is the focus of investments in energy?",
+        "answer": "Reducing fuel imports and environmental pollution."
+    },
+    {
+        "id": 249,
+        "question": "What will new ICT clusters provide for the youth?",
+        "answer": "Education, training, and ICT service access."
+    },
+    {
+        "id": 250,
+        "question": "Why will internet connectivity tariffs be revised?",
+        "answer": "To ensure internet is considered an essential service."
+    },
+    {
+        "id": 251,
+        "question": "What is the goal of the Electronic National Identity Card System?",
+        "answer": "Making public services easier and faster."
+    }
+      
+      
+ ]}
+      
+  

@@ -1,0 +1,923 @@
+{"questions": [
+    {
+    "id": 1,
+    "question": "What is the full title of General Sarath Fonseka’s election manifesto?",
+    "answer": "Vishvasanneeya Venasak (Believable Change)."
+  },
+  {
+    "id": 2,
+    "question": "Which political leaders attended the launch of General Fonseka’s manifesto?",
+    "answer": "Ranil Wickremesinghe, Somawansa Amarasinghe, and Sarath N. Silva."
+  },
+  {
+    "id": 3,
+    "question": "What is one of the major proposals in General Fonseka’s manifesto?",
+    "answer": "Abolishing the Executive Presidency."
+  },
+  {
+    "id": 4,
+    "question": "What accusation is being leveled against General Fonseka regarding his family?",
+    "answer": "Using his influence to secure business contracts for his son-in-law."
+  },
+  {
+    "id": 5,
+    "question": "What action did President Rajapaksa take regarding LTTE suspects in Vavuniya?",
+    "answer": "Released 712 LTTE suspects from detention."
+  },
+  {
+    "id": 6,
+    "question": "How many child soldiers were released by President Rajapaksa?",
+    "answer": "60 child soldiers."
+  },
+  {
+    "id": 7,
+    "question": "What recent event is linked to General Fonseka’s criticism of the government?",
+    "answer": "Alleged misuse of the war victory for personal gain."
+  },
+  {
+    "id": 8,
+    "question": "What did General Fonseka claim about the cost of corruption to the nation?",
+    "answer": "Corruption costs the nation Rs. 300 billion a year."
+  },
+  {
+    "id": 9,
+    "question": "What measures are included in General Fonseka’s manifesto to address corruption?",
+    "answer": "Eradication of fraud and corruption."
+  },
+  {
+    "id": 10,
+    "question": "What does the Right to Information Act aim to provide?",
+    "answer": "Access to public information to monitor government conduct."
+  },
+  {
+    "id": 11,
+    "question": "What is the proposed increase in public servant salaries in Fonseka’s manifesto?",
+    "answer": "Rs. 10,000 pay rise."
+  },
+  {
+    "id": 12,
+    "question": "What is the significance of the Colombo Declaration mentioned in the text?",
+    "answer": "It pertains to media freedom and social responsibility."
+  },
+  {
+    "id": 13,
+    "question": "When did the Freedom of Information Bill fail to pass?",
+    "answer": "In 2004."
+  },
+  {
+    "id": 14,
+    "question": "What issue has been reported concerning postal voting applications?",
+    "answer": "Some applications were duplicated and rejected."
+  },
+  {
+    "id": 15,
+    "question": "How many international observers are expected for the election?",
+    "answer": "About 40 international observers."
+  },
+  {
+    "id": 16,
+    "question": "What does PAFFREL stand for?",
+    "answer": "People’s Action for Free and Fair Elections."
+  },
+  {
+    "id": 17,
+    "question": "What are some types of election-related violence reported?",
+    "answer": "Assault, intimidation, and vandalism."
+  },
+  {
+    "id": 18,
+    "question": "What does the media reform agenda call for regarding state media?",
+    "answer": "Conversion into public service media institutions."
+  },
+  {
+    "id": 19,
+    "question": "What is a significant concern of media organizations regarding media laws?",
+    "answer": "Existing laws restrict freedom of expression and media freedom."
+  },
+  {
+    "id": 20,
+    "question": "What did General Fonseka say about the portrayal of patriotism by the government?",
+    "answer": "He criticized the government for presenting only certain individuals as true patriots."
+  },
+  {
+    "id": 21,
+    "question": "What is one of the government's allegations against General Fonseka's tenure?",
+    "answer": "That he secured business contracts through his influence."
+  },
+  {
+    "id": 22,
+    "question": "How does the government’s smear campaign against General Fonseka affect his campaign?",
+    "answer": "It creates a contentious environment and potentially undermines his credibility."
+  },
+  {
+    "id": 23,
+    "question": "What is the significance of the Press Council Bill in Fonseka’s manifesto?",
+    "answer": "Its abolition is proposed as part of media reform."
+  },
+  {
+    "id": 24,
+    "question": "What steps does Fonseka propose to address the Cabinet structure?",
+    "answer": "Dismantling an outsize Cabinet."
+  },
+  {
+    "id": 25,
+    "question": "What has been the reaction to election violence according to election monitors?",
+    "answer": "Increased reports of violence and calls for intervention."
+  },
+  {
+    "id": 26,
+    "question": "What is the goal of deploying 6,500 observers by PAFFREL?",
+    "answer": "To monitor polling stations and ensure fair elections."
+  },
+  {
+    "id": 27,
+    "question": "What specific reforms are being requested in media legislation?",
+    "answer": "Implementation of a Contempt of Court Act and Right to Information Act."
+  },
+  {
+    "id": 28,
+    "question": "What was the fate of the Freedom of Information Bill in 2004?",
+    "answer": "It was not passed due to the dissolution of Parliament."
+  },
+  {
+    "id": 29,
+    "question": "How does General Fonseka describe the government’s handling of public property?",
+    "answer": "He accuses the government of misusing public property for personal gain."
+  },
+  {
+    "id": 30,
+    "question": "What is the public reaction to the release of LTTE suspects?",
+    "answer": "It may be seen as a gesture of reconciliation or a political move."
+  },
+  {
+    "id": 31,
+    "question": "What measures did President Rajapaksa propose to alleviate hardships in Vavuniya and Mannar?",
+    "answer": "Easing restrictions on fishing, travel, and access to religious sites."
+  },
+  {
+    "id": 32,
+    "question": "What is General Fonseka’s stance on working with politicians with corruption charges?",
+    "answer": "He chooses to work with politicians without corruption charges."
+  },
+  {
+    "id": 33,
+    "question": "How many applications were rejected due to duplication for distance voting?",
+    "answer": "About 4,000 applications."
+  },
+  {
+    "id": 34,
+    "question": "What are some of the election-related violations reported by CaFFE?",
+    "answer": "Violations include the presence of cut-outs, posters, and banners in public spaces."
+  },
+  {
+    "id": 35,
+    "question": "What role do international observers play in the election process?",
+    "answer": "Monitoring and reporting on the election's fairness and conduct."
+  },
+  {
+    "id": 36,
+    "question": "What is one of the goals of Fonseka’s proposed reforms?",
+    "answer": "To create a more transparent and accountable government."
+  },
+  {
+    "id": 37,
+    "question": "What is the purpose of the Right to Information Act according to the media agenda?",
+    "answer": "To allow citizens to access public information and hold the government accountable."
+  },
+  {
+    "id": 38,
+    "question": "What does the term 'fraud and corruption' imply in Fonseka’s manifesto?",
+    "answer": "Unethical practices and misuse of power for personal gain."
+  },
+  {
+    "id": 39,
+    "question": "How does Fonseka propose to address the issue of taxes under his plan?",
+    "answer": "By introducing more people-friendly taxes."
+  },
+  {
+    "id": 40,
+    "question": "What is the potential impact of the proposed Rs. 10,000 salary increase for public servants?",
+    "answer": "It aims to improve the financial well-being of public sector employees."
+  },
+  {
+    "id": 41,
+    "question": "What did the government allegedly do with foreign contractors according to Fonseka?",
+    "answer": "Brought them in for projects at inflated costs."
+  },
+  {
+    "id": 42,
+    "question": "What was the public response to President Rajapaksa’s visit and promises?",
+    "answer": "Responses could vary from support to skepticism."
+  },
+  {
+    "id": 43,
+    "question": "How does General Fonseka view the government’s handling of election violence?",
+    "answer": "He views it as a serious issue that needs to be addressed by all parties."
+  },
+  {
+    "id": 44,
+    "question": "What is the importance of the media reform agenda for democracy?",
+    "answer": "It aims to ensure freedom of the press and transparency in governance."
+  },
+  {
+    "id": 45,
+    "question": "What is a major focus of the campaign for free and fair elections?",
+    "answer": "Ensuring a peaceful election environment and addressing violence."
+  },
+  {
+    "id": 46,
+    "question": "What is the significance of the 217 reports of election-related violence?",
+    "answer": "It highlights the escalating nature of pre-election violence."
+  },
+  {
+    "id": 47,
+    "question": "How does Fonseka’s manifesto propose to handle the Executive Presidency?",
+    "answer": "By abolishing it."
+  },
+  {
+    "id": 48,
+    "question": "What does Fonseka suggest about the use of war victory for personal gain?",
+    "answer": "He suggests that the government is exploiting the victory for personal benefit."
+  },
+  {
+    "id": 49,
+    "question": "How did the government’s smear campaign affect General Fonseka’s reputation?",
+    "answer": "It potentially damaged his public image and campaign efforts."
+  },
+  {
+    "id": 50,
+    "question": "What is the main criticism of foreign involvement in local projects according to Fonseka?",
+    "answer": "Foreign companies are given contracts at higher costs compared to local firms."
+  },
+  {
+    "id": 51,
+    "question": "How are media organizations planning to address violence against journalists?",
+    "answer": "By calling for investigations and protective measures."
+  },
+  {
+    "id": 52,
+    "question": "What impact could the proposed media reforms have on state media institutions?",
+    "answer": "They could transform state media into independent public service entities."
+  },
+  {
+    "id": 53,
+    "question": "What role does the election monitoring group PAFFREL play?",
+    "answer": "PAFFREL monitors election fairness and reports on violations."
+  },
+  {
+    "id": 54,
+    "question": "What is the purpose of the agenda presented by media organizations?",
+    "answer": "To push for reforms that enhance media freedom and accountability."
+  },
+  {
+    "id": 55,
+    "question": "How does Fonseka’s manifesto propose to address parliamentary structure?",
+    "answer": "By dissolving Parliament and setting up a caretaker Cabinet."
+  },
+  {
+    "id": 56,
+    "question": "What issues are associated with postal voting according to the text?",
+    "answer": "Issues include application rejections and potential duplication."
+  },
+  {
+    "id": 57,
+    "question": "What assurances did President Rajapaksa provide during his campaign visit?",
+    "answer": "Assurances of peace and measures to ease post-war hardships."
+  },
+  {
+    "id": 58,
+    "question": "How does the proposed pay rise for public servants align with Fonseka’s manifesto goals?",
+    "answer": "It aligns with the goal of improving public sector worker conditions."
+  },
+  {
+    "id": 59,
+    "question": "What criticisms does Fonseka have regarding the government’s use of public funds?",
+    "answer": "He criticizes the government for misusing funds and engaging in corrupt practices."
+  },
+  {
+    "id": 60,
+    "question": "What did the media organizations request regarding the Freedom of Information Bill?",
+    "answer": "They requested its immediate implementation."
+  },
+  {
+    "id": 61,
+    "question": "How does Fonseka propose to address the current political and economic challenges?",
+    "answer": "Through his 10-point manifesto focusing on reform and anti-corruption measures."
+  },
+  {
+    "id": 62,
+    "question": "What is the potential consequence of the reported election violence for the voting process?",
+    "answer": "It could intimidate voters and disrupt the electoral process."
+  },
+  {
+    "id": 63,
+    "question": "What did President Rajapaksa’s visit to Menik Farm signify in terms of reconciliation?",
+    "answer": "It was seen as a gesture towards reconciling with LTTE suspects and their families."
+  },
+  {
+    "id": 64,
+    "question": "What does the proposed reform of state media institutions involve?",
+    "answer": "Transforming them into independent public service media entities."
+  },
+  {
+    "id": 65,
+    "question": "What was the impact of the dissolution of Parliament on media reform legislation?",
+    "answer": "It prevented the passage of important media reform legislation."
+  },
+    {
+      "id": 66,
+      "question": "What are the key components of General Fonseka's 10-point manifesto?",
+      "answer": "Abolition of the Executive Presidency, reduction of Cabinet size, increased public servant salaries, and anti-corruption measures."
+    },
+    {
+      "id": 67,
+      "question": "What is the government’s stance on the recent accusations against General Fonseka?",
+      "answer": "The government denies the accusations and claims they are politically motivated."
+    },
+    {
+      "id": 68,
+      "question": "What is the role of international observers in ensuring fair elections?",
+      "answer": "They monitor and report on the election process to ensure transparency and fairness."
+    },
+    {
+      "id": 69,
+      "question": "What measures did President Rajapaksa take to address post-war conditions in the North and East?",
+      "answer": "Promised infrastructure development, economic assistance, and support for displaced persons."
+    },
+    {
+      "id": 70,
+      "question": "How does General Fonseka’s manifesto address the issue of media freedom?",
+      "answer": "By proposing reforms to ensure greater independence and accountability of media institutions."
+    },
+    {
+      "id": 71,
+      "question": "What were some of the reported election violations by PAFFREL?",
+      "answer": "Cases of campaign violence, intimidation, and illegal distribution of campaign materials."
+    },
+    {
+      "id": 72,
+      "question": "How did Fonseka propose to enhance transparency in government operations?",
+      "answer": "Through the implementation of the Right to Information Act and other transparency measures."
+    },
+    {
+      "id": 73,
+      "question": "What impact did the media’s reporting have on the public perception of General Fonseka?",
+      "answer": "It influenced public opinion, potentially swaying support or opposition based on media portrayal."
+    },
+    {
+      "id": 74,
+      "question": "What are the specific reforms proposed by Fonseka to address corruption in the government?",
+      "answer": "Strengthening anti-corruption laws, increasing oversight, and enhancing public accountability."
+    },
+    {
+      "id": 75,
+      "question": "How did the election violence reported by CaFFE affect the overall election atmosphere?",
+      "answer": "It created a tense and hostile environment, potentially deterring voters and affecting election integrity."
+    },
+    {
+      "id": 76,
+      "question": "What is the significance of the Rs. 10,000 salary increase for public servants in Fonseka's plan?",
+      "answer": "It aims to improve living standards and job satisfaction for public sector employees."
+    },
+    {
+      "id": 77,
+      "question": "What are the potential challenges in implementing Fonseka’s proposed reforms?",
+      "answer": "Resistance from entrenched political interests, bureaucratic hurdles, and public skepticism."
+    },
+    {
+      "id": 78,
+      "question": "What role does the Press Council Bill play in media regulation according to the manifesto?",
+      "answer": "It is proposed for abolition to enhance media freedom and reduce government control over media."
+    },
+    {
+      "id": 79,
+      "question": "What was the response of the government to Fonseka’s allegations about business contracts?",
+      "answer": "The government dismissed the allegations as baseless and politically motivated."
+    },
+    {
+      "id": 80,
+      "question": "How does General Fonseka’s manifesto address the issue of executive power?",
+      "answer": "By advocating for the abolition of the Executive Presidency to reduce concentrated power."
+    },
+    {
+      "id": 81,
+      "question": "What are the expected outcomes of having international observers monitor the election?",
+      "answer": "Increased credibility of the election process and assurance of adherence to democratic standards."
+    },
+    {
+      "id": 82,
+      "question": "What was the significance of President Rajapaksa’s promise to ease restrictions in post-war areas?",
+      "answer": "It aimed to facilitate recovery and reconciliation in previously conflict-affected regions."
+    },
+    {
+      "id": 83,
+      "question": "How does Fonseka’s proposed Cabinet reduction align with his manifesto goals?",
+      "answer": "It aligns with the goal of reducing government size and improving efficiency."
+    },
+    {
+      "id": 84,
+      "question": "What measures are being proposed to protect journalists and media personnel?",
+      "answer": "Enhanced security measures and legal protections against violence and harassment."
+    },
+    {
+      "id": 85,
+      "question": "What is the effect of the media’s portrayal of the election on public trust in the electoral process?",
+      "answer": "It can either enhance or undermine public confidence depending on the media’s impartiality and accuracy."
+    },
+    {
+      "id": 86,
+      "question": "How does the proposed increase in public servant salaries reflect Fonseka’s economic policy?",
+      "answer": "It reflects a focus on improving public sector compensation and addressing economic disparities."
+    },
+    {
+      "id": 87,
+      "question": "What criticisms are being leveled against the government’s handling of election-related violence?",
+      "answer": "Criticisms include inadequate response to violence and failure to ensure a safe voting environment."
+    },
+    {
+      "id": 88,
+      "question": "What impact did the failure of the Freedom of Information Bill have on public access to information?",
+      "answer": "It limited the public's ability to access government information and hold officials accountable."
+    },
+    {
+      "id": 89,
+      "question": "How does Fonseka’s plan address the issue of public property misuse?",
+      "answer": "By proposing stricter controls and oversight to prevent corruption and mismanagement."
+    },
+    {
+      "id": 90,
+      "question": "What are the challenges in achieving Fonseka’s goals of reducing corruption and improving governance?",
+      "answer": "Challenges include entrenched corruption, resistance from powerful interests, and implementation difficulties."
+    },
+    {
+      "id": 91,
+      "question": "What role do electoral monitors play in ensuring a fair election process?",
+      "answer": "They oversee the conduct of the election, report on irregularities, and help ensure compliance with electoral laws."
+    },
+    {
+      "id": 92,
+      "question": "What were the government’s responses to the criticisms about its handling of the post-war reconstruction?",
+      "answer": "Responses included defending its policies and emphasizing ongoing development efforts."
+    },
+    {
+      "id": 93,
+      "question": "How does Fonseka propose to address the issue of political violence in his manifesto?",
+      "answer": "Through stricter laws, better enforcement, and promoting a culture of non-violence."
+    },
+    {
+      "id": 94,
+      "question": "What is the significance of the media reform agenda in the context of democratic governance?",
+      "answer": "It aims to ensure an informed public and a more accountable government through free and independent media."
+    },
+    {
+      "id": 95,
+      "question": "What are the implications of the proposed abolition of the Executive Presidency for the political system?",
+      "answer": "It would decentralize power and potentially lead to a more balanced distribution of authority."
+    },
+    {
+      "id": 96,
+      "question": "What did international observers find regarding the conduct of the elections?",
+      "answer": "Findings typically include assessments of fairness, transparency, and adherence to electoral standards."
+    },
+    {
+      "id": 97,
+      "question": "How does Fonseka’s manifesto address issues of public sector efficiency?",
+      "answer": "By proposing reforms to streamline operations and reduce waste."
+    },
+    {
+      "id": 98,
+      "question": "What are the potential impacts of election violence on voter turnout?",
+      "answer": "It can decrease voter turnout due to fear or intimidation."
+    },
+    {
+      "id": 99,
+      "question": "How did the media’s reporting on Fonseka’s allegations influence the election campaign?",
+      "answer": "It shaped public perception and could influence voter support or opposition."
+    },
+    {
+      "id": 100,
+      "question": "What are the goals of the proposed media reforms in the context of public accountability?",
+      "answer": "To ensure that media outlets serve the public interest and hold government accountable for its actions."
+    },
+        {
+          "id": 101,
+          "question": "What is the expected role of postal voting in the upcoming election?",
+          "answer": "Postal voting is intended to allow public servants and military personnel to cast their votes in advance, ensuring their participation despite being on duty."
+        },
+        {
+          "id": 102,
+          "question": "How has the increase in postal voting applications been received by election officials?",
+          "answer": "It indicates a high level of voter engagement and a potential increase in the administrative workload for managing postal ballots."
+        },
+        {
+          "id": 103,
+          "question": "What steps are being taken to address concerns about duplicate postal voting applications?",
+          "answer": "Applications are reviewed and verified to prevent duplication and ensure only eligible voters are registered."
+        },
+        {
+          "id": 104,
+          "question": "What actions did President Rajapaksa announce to aid residents of Vavuniya and Mannar?",
+          "answer": "Easing restrictions on fishing and travel, and improving access to religious sites."
+        },
+        {
+          "id": 105,
+          "question": "How did General Fonseka characterize the current government’s handling of corruption?",
+          "answer": "He criticized the government for perpetuating corruption and misusing the war victory for personal gain."
+        },
+        {
+          "id": 106,
+          "question": "What reforms did Fonseka propose to address state corruption?",
+          "answer": "Implementing stricter anti-corruption laws, enhancing public accountability, and reducing government waste."
+        },
+        {
+          "id": 107,
+          "question": "How did the media organizations propose to improve media freedom in Sri Lanka?",
+          "answer": "By implementing the Right to Information Act and reducing government control over media outlets."
+        },
+        {
+          "id": 108,
+          "question": "What is the significance of the Right to Information Act in promoting transparency?",
+          "answer": "It allows citizens access to public information, which is crucial for holding the government accountable."
+        },
+        {
+          "id": 109,
+          "question": "How does Fonseka’s manifesto propose to handle the issue of state media bias?",
+          "answer": "By converting state media into public service institutions to reduce partisan control and enhance impartial reporting."
+        },
+        {
+          "id": 110,
+          "question": "What are the expected roles of international observers during the election?",
+          "answer": "To monitor and report on the election process, ensuring adherence to democratic standards and transparency."
+        },
+        {
+          "id": 111,
+          "question": "How did Fonseka address the issue of political violence in his campaign speeches?",
+          "answer": "He condemned violence and promised to take strong actions against those involved in such activities."
+        },
+        {
+          "id": 112,
+          "question": "What are the primary goals of the proposed media reforms in Fonseka’s agenda?",
+          "answer": "To establish media independence, improve accountability, and protect freedom of expression."
+        },
+        {
+          "id": 113,
+          "question": "What measures are being taken to investigate incidents of violence and intimidation against the media?",
+          "answer": "Calls for independent investigations and legal actions against perpetrators of violence against journalists."
+        },
+        {
+          "id": 114,
+          "question": "What was the general reaction to President Rajapaksa’s visit to post-war regions?",
+          "answer": "It was seen as an effort to address local grievances and reinforce support in those areas."
+        },
+        {
+          "id": 115,
+          "question": "How does Fonseka plan to address the issue of high government taxes?",
+          "answer": "By proposing more equitable tax policies and reducing the burden on ordinary citizens."
+        },
+        {
+          "id": 116,
+          "question": "What are the challenges faced in ensuring a peaceful election environment?",
+          "answer": "Rising violence, intimidation, and partisan conflict that threaten the integrity of the electoral process."
+        },
+        {
+          "id": 117,
+          "question": "What are the key elements of Fonseka’s plan to reduce the size of the Cabinet?",
+          "answer": "Streamlining the Cabinet to make it more efficient and reduce government spending."
+        },
+        {
+          "id": 118,
+          "question": "How did election observers suggest party leaders should act to reduce violence?",
+          "answer": "By advising supporters against violent actions and cooperating with law enforcement to maintain order."
+        },
+        {
+          "id": 119,
+          "question": "What is the importance of having independent panels to investigate media-related incidents?",
+          "answer": "To ensure impartial investigations and provide justice for victims of media-related violence."
+        },
+        {
+          "id": 120,
+          "question": "What were the criticisms of the government’s use of the war victory for political gain?",
+          "answer": "The criticism focused on using the war victory to consolidate power and distract from ongoing issues of corruption."
+        },
+        {
+          "id": 121,
+          "question": "How does Fonseka’s manifesto propose to improve public servant wages?",
+          "answer": "By introducing a significant pay rise to address wage disparities and improve morale."
+        },
+        {
+          "id": 122,
+          "question": "What are the potential effects of increased media freedom on political transparency?",
+          "answer": "Enhanced media freedom can lead to greater scrutiny of government actions and more informed public discourse."
+        },
+        {
+          "id": 123,
+          "question": "How did President Rajapaksa address the needs of the LTTE suspects released from detention?",
+          "answer": "By providing reintegration support and facilitating their return to families."
+        },
+        {
+          "id": 124,
+          "question": "What were the specific targets of Fonseka’s criticism regarding government corruption?",
+          "answer": "High-level corruption involving government officials and misuse of public resources."
+        },
+        {
+          "id": 125,
+          "question": "What role did media organizations play in advocating for reforms during the election period?",
+          "answer": "They presented agendas to candidates and pushed for changes to enhance media freedom and transparency."
+        },
+        {
+          "id": 126,
+          "question": "How did the media’s portrayal of the election impact the public’s trust in the candidates?",
+          "answer": "Media portrayal can shape public perception, influencing trust and support for the candidates."
+        },
+        {
+          "id": 127,
+          "question": "What are the implications of the proposed abolition of the Press Council Bill for media regulation?",
+          "answer": "It could lead to less government oversight and potentially more freedom for media outlets."
+        },
+        {
+          "id": 128,
+          "question": "How does Fonseka’s plan address the issue of government spending and contracts?",
+          "answer": "By proposing measures to ensure fair and transparent allocation of contracts and reduce excessive spending."
+        },
+        {
+          "id": 129,
+          "question": "What were the primary concerns of election monitors regarding the conduct of the campaign?",
+          "answer": "Concerns about rising violence, illegal campaigning, and the integrity of the electoral process."
+        },
+        {
+          "id": 130,
+          "question": "How did Fonseka’s manifesto address the issue of political thuggery and violence?",
+          "answer": "By pledging to take strong action against those involved in such activities and promoting a peaceful campaign environment."
+        },
+        {
+          "id": 131,
+          "question": "What were the challenges reported in implementing election-related laws and regulations?",
+          "answer": "Difficulties in enforcing laws consistently and addressing violations effectively."
+        },
+        {
+          "id": 132,
+          "question": "How did the government’s actions during the election campaign affect its public image?",
+          "answer": "Actions such as smear campaigns and handling of violence may negatively impact the government’s image."
+        },
+        {
+          "id": 133,
+          "question": "What are the benefits of having a large number of international observers during elections?",
+          "answer": "They can provide impartial oversight, enhance transparency, and help ensure a fair election process."
+        },
+        {
+          "id": 134,
+          "question": "How does Fonseka propose to tackle the issue of administrative inefficiency?",
+          "answer": "By implementing reforms to streamline government operations and reduce bureaucratic red tape."
+        },
+        {
+          "id": 135,
+          "question": "What role does public opinion play in shaping the election campaign strategies of candidates?",
+          "answer": "Candidates often tailor their strategies based on public sentiment and feedback to gain support."
+        },
+        {
+          "id": 136,
+          "question": "How did election violence impact the ability of voters to exercise their rights?",
+          "answer": "Violence can intimidate voters, potentially suppressing turnout and affecting the fairness of the election."
+        },
+        {
+          "id": 137,
+          "question": "What are the potential benefits of implementing the Right to Information Act for citizens?",
+          "answer": "Improved access to government information, greater transparency, and enhanced public accountability."
+        },
+        {
+          "id": 138,
+          "question": "How did the media’s response to election violence affect the overall coverage of the election?",
+          "answer": "Media response can influence the focus and tone of election coverage, affecting public perception."
+        },
+        {
+          "id": 139,
+          "question": "What measures were suggested to prevent future incidents of election-related violence?",
+          "answer": "Enhanced security measures, stricter enforcement of laws, and increased cooperation between political parties and law enforcement."
+        },
+        {
+          "id": 140,
+          "question": "How does Fonseka’s proposed Cabinet reform plan aim to improve governance?",
+          "answer": "By reducing the number of Cabinet positions to streamline decision-making and enhance efficiency."
+        },
+        {
+        "id": 141,
+        "question": "What impact did Fonseka’s criticism of government corruption have on his campaign?",
+        "answer": "It highlighted his stance on integrity and transparency, resonating with voters concerned about corruption."
+        },
+        {
+          "id": 142,
+          "question": "How did the government address concerns about the fairness of the electoral process?",
+          "answer": "By implementing measures to ensure transparency and inviting international observers to oversee the election."
+        },
+            {
+              "id": 143,
+              "question": "What are the key differences between Fonseka’s and Rajapaksa’s approaches to economic reform?",
+              "answer": "Fonseka focuses on reducing government spending and improving public sector efficiency, while Rajapaksa emphasizes infrastructure development and attracting foreign investment."
+            },
+            {
+              "id": 144,
+              "question": "What role did social media play in shaping public opinion during the election?",
+              "answer": "Social media platforms were used for campaigning, spreading information, and mobilizing supporters, significantly influencing public perception and engagement."
+            },
+            {
+              "id": 145,
+              "question": "How did the increase in postal voting applications affect the election administration?",
+              "answer": "It increased the workload for election officials, requiring additional resources and measures to manage and verify the large volume of postal ballots."
+            },
+            {
+              "id": 146,
+              "question": "What were the main challenges faced by the media in reporting on the election?",
+              "answer": "Challenges included censorship, threats of violence, and difficulties in accessing unbiased information."
+            },
+            {
+              "id": 147,
+              "question": "What strategies did Fonseka propose to improve the efficiency of public sector institutions?",
+              "answer": "He proposed streamlining operations, reducing bureaucracy, and implementing performance-based evaluations."
+            },
+            {
+              "id": 148,
+              "question": "How did the public react to the government's handling of election-related violence?",
+              "answer": "The public expressed concern and frustration over the government's perceived inability to effectively address and prevent violence."
+            },
+            {
+              "id": 149,
+              "question": "What measures did the government take to ensure a fair electoral process?",
+              "answer": "The government implemented stricter regulations, increased security, and invited international observers to oversee the election."
+            },
+            {
+              "id": 150,
+              "question": "How did Fonseka’s campaign address the issue of transparency in government spending?",
+              "answer": "Fonseka’s campaign called for more transparent budgeting processes and accountability measures to prevent misuse of public funds."
+            },
+            {
+              "id": 151,
+              "question": "What impact did the media’s coverage of the election have on voter turnout?",
+              "answer": "The media’s coverage influenced voter awareness and motivation, which could either increase or decrease turnout depending on the nature of the reporting."
+            },
+            {
+              "id": 152,
+              "question": "How did the increase in international observer presence affect the election process?",
+              "answer": "It provided an additional layer of scrutiny, helped ensure adherence to democratic standards, and enhanced the credibility of the electoral process."
+            },
+                {
+                  "id": 153,
+                  "question": "What were the key points of Fonseka’s plan to tackle unemployment?",
+                  "answer": "Fonseka proposed creating job opportunities through new economic policies, supporting small businesses, and investing in infrastructure projects."
+                },
+                {
+                  "id": 154,
+                  "question": "How did the media’s coverage of Fonseka’s economic policies influence public opinion?",
+                  "answer": "The media’s portrayal of Fonseka’s economic policies affected public perception by highlighting both potential benefits and shortcomings, shaping voter support."
+                },
+                {
+                  "id": 155,
+                  "question": "What were the main criticisms of the government’s handling of post-war rehabilitation efforts?",
+                  "answer": "Criticisms included slow progress, lack of transparency, and allegations of mismanagement and corruption in the allocation of resources."
+                },
+                {
+                  "id": 156,
+                  "question": "What specific reforms did Fonseka propose to improve the electoral system?",
+                  "answer": "Fonseka proposed reforms such as improving voter registration processes, enhancing transparency in vote counting, and reducing the influence of money in politics."
+                },
+                {
+                  "id": 157,
+                  "question": "How did international observers assess the fairness of the election process?",
+                  "answer": "International observers assessed the fairness based on the transparency of the voting process, adherence to electoral laws, and the overall conduct of the election."
+                },
+                {
+                  "id": 158,
+                  "question": "What strategies did Fonseka suggest to address the issue of rural development?",
+                  "answer": "Fonseka suggested investing in rural infrastructure, providing support for local agriculture, and promoting economic activities in rural areas."
+                },
+                {
+                  "id": 159,
+                  "question": "How did the government’s promises to improve healthcare impact voter sentiment?",
+                  "answer": "Promises to improve healthcare were aimed at garnering support from voters concerned about public health, potentially increasing approval ratings in key demographics."
+                },
+                {
+                  "id": 160,
+                  "question": "What role did grassroots organizations play in the election campaign?",
+                  "answer": "Grassroots organizations mobilized local support, advocated for policy changes, and worked to address community-specific issues during the campaign."
+                },
+                {
+                  "id": 161,
+                  "question": "How did Fonseka address concerns about income inequality in his campaign?",
+                  "answer": "Fonseka addressed income inequality by proposing progressive taxation, increasing social welfare programs, and improving access to education and job training."
+                },
+                {
+                  "id": 162,
+                  "question": "What were the key concerns about the transparency of postal voting?",
+                  "answer": "Concerns included the potential for fraud, difficulties in ensuring the integrity of the voting process, and the need for effective verification mechanisms."
+                },
+                    {
+                      "id": 163,
+                      "question": "How did Fonseka propose to address issues related to public sector corruption?",
+                      "answer": "Fonseka proposed implementing stricter anti-corruption measures, enhancing transparency in public dealings, and increasing accountability for public officials."
+                    },
+                    {
+                      "id": 164,
+                      "question": "What were the main recommendations from election observers regarding the management of campaign finances?",
+                      "answer": "Recommendations included enforcing stricter regulations on campaign finance, ensuring transparency in donations, and monitoring expenditure to prevent misuse of funds."
+                    },
+                    {
+                      "id": 165,
+                      "question": "How did the media's reporting on Fonseka's proposed tax reforms impact public opinion?",
+                      "answer": "The media's reporting highlighted both the potential benefits and drawbacks of Fonseka's tax reforms, influencing public opinion by framing the proposals as either beneficial or problematic."
+                    },
+                    {
+                      "id": 166,
+                      "question": "What measures were proposed to enhance voter education and awareness?",
+                      "answer": "Proposals included increasing access to voter information, conducting educational campaigns about voting rights and processes, and using multiple platforms to reach diverse audiences."
+                    },
+                    {
+                      "id": 167,
+                      "question": "How did Fonseka's approach to managing state resources differ from that of the current government?",
+                      "answer": "Fonseka's approach emphasized greater transparency and accountability in resource management, contrasting with the current government's perceived lack of oversight and efficiency."
+                    },
+                    {
+                      "id": 168,
+                      "question": "What were the key criticisms of Fonseka's economic policies?",
+                      "answer": "Criticisms included concerns about the feasibility of his proposals, potential economic impacts, and the effectiveness of his strategies in addressing current economic challenges."
+                    },
+                    {
+                      "id": 169,
+                      "question": "How did the government’s actions during the campaign impact its relations with international stakeholders?",
+                      "answer": "The government's actions, including handling of election violence and transparency issues, affected its relations with international stakeholders by raising concerns about democratic practices and human rights."
+                    },
+                    {
+                      "id": 170,
+                      "question": "What were the primary goals of Fonseka’s proposed healthcare reforms?",
+                      "answer": "The primary goals included expanding access to quality healthcare, reducing costs for patients, and improving overall healthcare infrastructure and services."
+                    },
+                    {
+                      "id": 171,
+                      "question": "How did media coverage of election-related violence affect the public's perception of safety during the election?",
+                      "answer": "Media coverage of violence heightened concerns about safety, potentially discouraging voter participation and raising fears about the security of the election process."
+                    },
+                    {
+                      "id": 172,
+                      "question": "What role did social media play in shaping the election campaign?",
+                      "answer": "Social media played a significant role in amplifying campaign messages, mobilizing supporters, and facilitating real-time interactions between candidates and voters."
+                    },
+                    {
+                      "id": 173,
+                      "question": "How did Fonseka's manifesto address the issue of environmental sustainability?",
+                      "answer": "Fonseka’s manifesto included plans for promoting sustainable development, implementing environmental protections, and addressing issues related to climate change and natural resource management."
+                    },
+                        {
+                          "id": 174,
+                          "question": "What were the proposed strategies for improving public transportation under Fonseka's plan?",
+                          "answer": "Proposed strategies included investing in infrastructure upgrades, expanding public transit networks, and increasing affordability and efficiency of transportation services."
+                        },
+                        {
+                          "id": 175,
+                          "question": "How did the opposition parties respond to Fonseka's proposals on education reform?",
+                          "answer": "Opposition parties expressed concerns about the feasibility of the proposals, questioned the adequacy of funding, and suggested alternative approaches to education reform."
+                        },
+                        {
+                          "id": 176,
+                          "question": "What impact did Fonseka's foreign policy proposals have on relations with neighboring countries?",
+                          "answer": "Fonseka’s foreign policy proposals aimed to strengthen diplomatic ties and enhance economic cooperation, which were generally well-received but met with some skepticism from neighboring countries regarding implementation."
+                        },
+                        {
+                          "id": 177,
+                          "question": "What measures were suggested to improve transparency in government procurement processes?",
+                          "answer": "Suggested measures included implementing digital procurement systems, conducting regular audits, and ensuring public access to procurement information to prevent corruption."
+                        },
+                        {
+                          "id": 178,
+                          "question": "How did Fonseka plan to address issues related to unemployment and job creation?",
+                          "answer": "Fonseka proposed creating job opportunities through investment in infrastructure projects, supporting small and medium-sized enterprises (SMEs), and offering vocational training programs."
+                        },
+                        {
+                          "id": 179,
+                          "question": "What were the main arguments presented by critics of Fonseka's healthcare reform proposals?",
+                          "answer": "Critics argued that the proposals lacked detailed implementation plans, could lead to increased government spending, and might not address the root causes of healthcare system inefficiencies."
+                        },
+                        {
+                          "id": 180,
+                          "question": "How did Fonseka's proposals for rural development differ from previous government initiatives?",
+                          "answer": "Fonseka’s proposals emphasized a more integrated approach to rural development, focusing on infrastructure, agricultural support, and local entrepreneurship, compared to previous initiatives that were less comprehensive."
+                        },
+                        {
+                          "id": 181,
+                          "question": "What role did public opinion play in shaping the final version of Fonseka's election platform?",
+                          "answer": "Public opinion influenced the final version of Fonseka’s election platform by prompting adjustments based on voter feedback, addressing concerns raised during the campaign, and aligning proposals with public priorities."
+                        },
+                        {
+                          "id": 182,
+                          "question": "How did Fonseka propose to enhance cybersecurity measures?",
+                          "answer": "Fonseka proposed increasing investment in cybersecurity infrastructure, developing a national cybersecurity strategy, and promoting public-private partnerships to improve overall security."
+                        },
+                        {
+                          "id": 183,
+                          "question": "What were the key challenges identified in implementing Fonseka's proposed economic reforms?",
+                          "answer": "Key challenges included securing adequate funding, overcoming resistance from vested interests, and addressing potential economic disruptions during the transition period."
+                        },
+                        {
+                          "id": 184,
+                          "question": "How did Fonseka's education reform plans aim to address disparities in educational access?",
+                          "answer": "Fonseka’s education reform plans aimed to increase funding for under-resourced schools, provide scholarships for disadvantaged students, and improve access to quality education in remote areas."
+                        }
+]}
+  

@@ -1,0 +1,1435 @@
+{
+    "questions": [
+      {
+        "id": 1,
+        "question": "When is the 2024 Sri Lankan presidential election scheduled to take place?",
+        "answer": "The election is scheduled for 21 September 2024."
+      },
+      {
+        "id": 2,
+        "question": "How long is the term for the elected president in the 2024 Sri Lankan presidential election?",
+        "answer": "The term is for five years."
+      },
+      {
+        "id": 3,
+        "question": "Who is the incumbent president running for re-election in 2024?",
+        "answer": "Ranil Wickremesinghe is the incumbent president running for re-election."
+      },
+      {
+        "id": 4,
+        "question": "Which political party does Ranil Wickremesinghe represent in the 2024 election?",
+        "answer": "He is running as an Independent candidate."
+      },
+      {
+        "id": 5,
+        "question": "Who is Sajith Premadasa?",
+        "answer": "Sajith Premadasa is the Leader of the Opposition and a candidate in the 2024 election."
+      },
+      {
+        "id": 6,
+        "question": "Which party is Sajith Premadasa representing in the 2024 election?",
+        "answer": "He is representing the Samagi Jana Balawegaya (SJB)."
+      },
+      {
+        "id": 7,
+        "question": "Who is Anura Kumara Dissanayake?",
+        "answer": "Anura Kumara Dissanayake is a candidate representing the National People's Power (NPP) in the 2024 election."
+      },
+      {
+        "id": 8,
+        "question": "Which party is Namal Rajapaksa representing in the 2024 election?",
+        "answer": "He is representing the Sri Lanka Podujana Peramuna (SLPP)."
+      },
+      {
+        "id": 9,
+        "question": "Who is the son of former President Mahinda Rajapaksa contesting the 2024 election?",
+        "answer": "Namal Rajapaksa."
+      },
+      {
+        "id": 10,
+        "question": "What triggered the resignation of Gotabaya Rajapaksa in 2022?",
+        "answer": "Gotabaya Rajapaksa resigned amidst the 2022 Sri Lankan protests."
+      },
+      {
+        "id": 11,
+        "question": "Who was elected as president following Gotabaya Rajapaksa’s resignation?",
+        "answer": "Ranil Wickremesinghe was elected as president."
+      },
+      {
+        "id": 12,
+        "question": "Under which constitutional article was the indirect presidential election held in 2022?",
+        "answer": "The election was held under Article 40 of the Constitution."
+      },
+      {
+        "id": 13,
+        "question": "When does President Ranil Wickremesinghe’s current term expire?",
+        "answer": "His term is due to expire on 17 November 2024."
+      },
+      {
+        "id": 14,
+        "question": "What is the total number of eligible voters for the 2024 Sri Lankan presidential election?",
+        "answer": "Approximately 17 million people are eligible to vote."
+      },
+      {
+        "id": 15,
+        "question": "Which voting system is used in Sri Lankan presidential elections?",
+        "answer": "The President of Sri Lanka is elected through a system of limited ranked voting."
+      },
+      {
+        "id": 16,
+        "question": "What happens if no candidate receives more than 50% of the votes in the first count?",
+        "answer": "The second and third preference votes of eliminated candidates are redistributed to the remaining two candidates."
+      },
+      {
+        "id": 17,
+        "question": "Has the ranked voting system ever been used in practice in Sri Lanka?",
+        "answer": "No, every presidential election has resulted in a candidate winning an outright majority in the first count."
+      },
+      {
+        "id": 18,
+        "question": "When did the Election Commission outline the voting procedure for the 2024 election?",
+        "answer": "The voting procedure was outlined on 30 August 2024."
+      },
+      {
+        "id": 19,
+        "question": "Who is allowed to participate in postal voting?",
+        "answer": "Only pre-approved officials engaged in election duties are allowed to participate in postal voting."
+      },
+      {
+        "id": 20,
+        "question": "What are the dates for postal voting in the 2024 presidential election?",
+        "answer": "Postal voting is scheduled for 4, 5, 6, 11, and 12 September 2024."
+      },
+      {
+        "id": 21,
+        "question": "What change in ballot boxes is being considered for the 2024 election?",
+        "answer": "The exclusive use of cardboard ballot boxes instead of traditional wooden ones is being considered."
+      },
+      {
+        "id": 22,
+        "question": "How many candidates registered for the 2024 presidential election?",
+        "answer": "A total of 39 candidates registered for the election."
+      },
+      {
+        "id": 23,
+        "question": "How many of the registered candidates for the 2024 election were female?",
+        "answer": "None of the registered candidates were female."
+      },
+      {
+        "id": 24,
+        "question": "What symbol is Ranil Wickremesinghe running under?",
+        "answer": "He is running under the symbol of a gas cylinder."
+      },
+      {
+        "id": 25,
+        "question": "Which party supports Ranil Wickremesinghe in the 2024 election?",
+        "answer": "The United National Party (UNP) and breakaway members of the Sri Lanka Podujana Peramuna (SLPP) support him."
+      },
+      {
+        "id": 26,
+        "question": "What symbol is Sajith Premadasa running under?",
+        "answer": "He is running under the symbol of a telephone."
+      },
+      {
+        "id": 27,
+        "question": "What symbol is Anura Kumara Dissanayake running under?",
+        "answer": "He is running under the symbol of a compass."
+      },
+      {
+        "id": 28,
+        "question": "What symbol is Namal Rajapaksa running under?",
+        "answer": "He is running under the symbol of a flower bud."
+      },
+      {
+        "id": 29,
+        "question": "When did Sajith Premadasa declare his candidacy for the 2024 election?",
+        "answer": "He declared his candidacy on 16 May 2023."
+      },
+      {
+        "id": 30,
+        "question": "When did Ranil Wickremesinghe declare his candidacy for the 2024 election?",
+        "answer": "He declared his candidacy on 26 July 2024."
+      },
+      {
+        "id": 31,
+        "question": "When did Anura Kumara Dissanayake declare his candidacy for the 2024 election?",
+        "answer": "He declared his candidacy on 29 August 2023."
+      },
+      {
+        "id": 32,
+        "question": "When did Namal Rajapaksa declare his candidacy for the 2024 election?",
+        "answer": "He declared his candidacy on 7 August 2024."
+      },
+      {
+        "id": 33,
+        "question": "How many times has Ranil Wickremesinghe run for president before 2024?",
+        "answer": "He has run twice before, in 1999 and 2005."
+      },
+      {
+        "id": 34,
+        "question": "What is Sajith Premadasa’s relationship to a former president of Sri Lanka?",
+        "answer": "He is the son of former President Ranasinghe Premadasa."
+      },
+      {
+        "id": 35,
+        "question": "What is Anura Kumara Dissanayake’s political affiliation?",
+        "answer": "He is the leader of the Janatha Vimukthi Peramuna (JVP) and the National People's Power (NPP)."
+      },
+      {
+        "id": 36,
+        "question": "Who is the son of former President Mahinda Rajapaksa running in the 2024 election?",
+        "answer": "Namal Rajapaksa."
+      },
+      {
+        "id": 37,
+        "question": "How old is Namal Rajapaksa during the 2024 election?",
+        "answer": "He is 38 years old."
+      },
+      {
+        "id": 38,
+        "question": "How old is Ranil Wickremesinghe during the 2024 election?",
+        "answer": "He is 75 years old."
+      },
+      {
+        "id": 39,
+        "question": "How old is Sajith Premadasa during the 2024 election?",
+        "answer": "He is 57 years old."
+      },
+      {
+        "id": 40,
+        "question": "How old is Anura Kumara Dissanayake during the 2024 election?",
+        "answer": "He is 55 years old."
+      },
+      {
+        "id": 41,
+        "question": "When was Ranil Wickremesinghe’s election manifesto launched?",
+        "answer": "His manifesto was launched on 29 August 2024."
+      },
+      {
+        "id": 42,
+        "question": "When was Sajith Premadasa’s election manifesto launched?",
+        "answer": "His manifesto was launched on 29 August 2024."
+      },
+      {
+        "id": 43,
+        "question": "When was Anura Kumara Dissanayake’s election manifesto launched?",
+        "answer": "His manifesto was launched on 26 August 2024."
+      },
+      {
+        "id": 44,
+        "question": "How many candidates died prior to the 2024 election?",
+        "answer": "One candidate, Mohamed Illiyas, died before the election."
+      },
+      {
+        "id": 45,
+        "question": "How many candidates were rejected for failing to submit nomination papers?",
+        "answer": "One candidate, Sarath Kumara Gunaratna, failed to submit nomination papers."
+      },
+      {
+        "id": 46,
+        "question": "Which former president was initially planning to run but withdrew?",
+        "answer": "Gotabaya Rajapaksa."
+      },
+      {
+        "id": 47,
+        "question": "What was the deposit required for a party candidate to contest the election?",
+        "answer": "The deposit required was Rs. 50,000."
+      },
+      {
+        "id": 48,
+        "question": "What was the deposit required for an independent candidate to contest the election?",
+        "answer": "The deposit required was Rs. 75,000."
+      },
+      {
+        "id": 49,
+        "question": "What symbol is Field Marshal Sarath Fonseka running under in the 2024 election?",
+        "answer": "He is running under the symbol of a lantern."
+      },
+      {
+        "id": 50,
+        "question": "Which former minister is running under the symbol of a car?",
+        "answer": "Wijeyadasa Rajapakshe."
+      },
+      {
+        "id": 51,
+        "question": "What symbol is Mahinda Amaraweera running under in the 2024 election?",
+        "answer": "He is running under the symbol of a wheel."
+      },
+      {
+        "id": 52,
+        "question": "What symbol is Wimal Weerawansa running under?",
+        "answer": "He is running under the symbol of a coconut."
+      },
+      {
+        "id": 53,
+        "question": "Who is the leader of the Freedom People's Congress contesting the 2024 election?",
+        "answer": "Wimal Weerawansa."
+      },
+      {
+        "id": 54,
+        "question": "Which party does Field Marshal Sarath Fonseka represent?",
+        "answer": "He represents the Democratic United National Front."
+      },
+      {
+        "id": 55,
+        "question": "How many independent candidates are contesting the 2024 election?",
+        "answer": "8 independent candidates are contesting the election."
+      },
+      {
+        "id": 56,
+        "question": "Which political party is supporting Mahinda Amaraweera in the 2024 election?",
+        "answer": "The Sri Lanka Freedom Party (SLFP)."
+      },
+      {
+        "id": 57,
+        "question": "Who was the first female president of Sri Lanka?",
+        "answer": "Chandrika Bandaranaike Kumaratunga."
+      },
+      {
+        "id": 58,
+        "question": "How many times did Mahinda Rajapaksa serve as president of Sri Lanka?",
+        "answer": "He served as president twice."
+      },
+      {
+        "id": 59,
+        "question": "When was the last presidential election held before 2024?",
+        "answer": "The last election was held in 2019."
+      },
+      {
+        "id": 60,
+        "question": "What is the minimum age required to run for president in Sri Lanka?",
+        "answer": "A candidate must be at least 35 years old."
+      },
+      {
+        "id": 61,
+        "question": "What is the term length for the president of Sri Lanka?",
+        "answer": "The term length is 5 years."
+      },
+      {
+        "id": 62,
+        "question": "Who is the longest-serving prime minister in Sri Lankan history?",
+        "answer": "Ranil Wickremesinghe."
+      },
+      {
+        "id": 63,
+        "question": "Who was the first prime minister of independent Sri Lanka?",
+        "answer": "D. S. Senanayake."
+      },
+      {
+        "id": 64,
+        "question": "How many times has Sri Lanka amended its constitution?",
+        "answer": "The Sri Lankan constitution has been amended 21 times."
+      },
+      {
+        "id": 65,
+        "question": "What is the 19th Amendment to the Sri Lankan Constitution known for?",
+        "answer": "It reduced the powers of the executive presidency and strengthened the independence of institutions."
+      },
+      {
+        "id": 66,
+        "question": "Who introduced the 20th Amendment to the Sri Lankan Constitution?",
+        "answer": "Gotabaya Rajapaksa's government introduced the 20th Amendment."
+      },
+      {
+        "id": 67,
+        "question": "What did the 20th Amendment to the Constitution do?",
+        "answer": "It restored executive powers to the president, reversing the 19th Amendment."
+      },
+      {
+        "id": 68,
+        "question": "What is the 13th Amendment to the Sri Lankan Constitution focused on?",
+        "answer": "It introduced provincial councils and devolved power to the provinces."
+      },
+      {
+        "id": 69,
+        "question": "When was the Sri Lankan Constitution last amended?",
+        "answer": "The Constitution was last amended in 2022 with the 21st Amendment."
+      },
+      {
+        "id": 70,
+        "question": "Who was the first president of Sri Lanka?",
+        "answer": "William Gopallawa was the first president of Sri Lanka."
+      },
+      {
+        "id": 71,
+        "question": "Who was the first executive president of Sri Lanka?",
+        "answer": "J. R. Jayewardene was the first executive president."
+      },
+      {
+        "id": 72,
+        "question": "What year did Sri Lanka adopt its current constitution?",
+        "answer": "Sri Lanka adopted its current constitution in 1978."
+      },
+      {
+        "id": 73,
+        "question": "How many provinces are there in Sri Lanka?",
+        "answer": "There are 9 provinces in Sri Lanka."
+      },
+      {
+        "id": 74,
+        "question": "What is the capital city of Sri Lanka?",
+        "answer": "Sri Jayawardenepura Kotte is the official capital."
+      },
+      {
+        "id": 75,
+        "question": "What is the largest city in Sri Lanka?",
+        "answer": "Colombo is the largest city."
+      },
+      {
+        "id": 76,
+        "question": "Who was the first woman to hold the office of prime minister in the world?",
+        "answer": "Sirimavo Bandaranaike, a Sri Lankan politician."
+      },
+      {
+        "id": 77,
+        "question": "Which Sri Lankan president is known for ending the civil war in 2009?",
+        "answer": "Mahinda Rajapaksa."
+      },
+      {
+        "id": 78,
+        "question": "Who was the Tamil leader of the LTTE?",
+        "answer": "Velupillai Prabhakaran."
+      },
+      {
+        "id": 79,
+        "question": "How long did the Sri Lankan civil war last?",
+        "answer": "The civil war lasted 26 years, from 1983 to 2009."
+      },
+      {
+        "id": 80,
+        "question": "What is the official language of Sri Lanka?",
+        "answer": "Sinhala and Tamil are the official languages."
+      },
+      {
+        "id": 81,
+        "question": "What is the national anthem of Sri Lanka?",
+        "answer": "'Sri Lanka Matha' is the national anthem."
+      },
+      {
+        "id": 82,
+        "question": "When did Sri Lanka gain independence from Britain?",
+        "answer": "Sri Lanka gained independence on 4 February 1948."
+      },
+      {
+        "id": 83,
+        "question": "Who was the first prime minister of Ceylon (now Sri Lanka)?",
+        "answer": "D. S. Senanayake."
+      },
+      {
+        "id": 84,
+        "question": "What is the primary religion practiced in Sri Lanka?",
+        "answer": "Buddhism is the primary religion practiced."
+      },
+      {
+        "id": 85,
+        "question": "Who founded the Democratic Socialist Republic of Sri Lanka?",
+        "answer": "The Democratic Socialist Republic was established under J. R. Jayewardene."
+      },
+      {
+        "id": 86,
+        "question": "What type of government does Sri Lanka have?",
+        "answer": "Sri Lanka has a democratic republic and a unitary state government."
+      },
+      {
+        "id": 87,
+        "question": "Who is the current speaker of the Parliament of Sri Lanka?",
+        "answer": "Mahinda Yapa Abeywardena is the current speaker."
+      },
+      {
+        "id": 88,
+        "question": "What is the role of the President of Sri Lanka?",
+        "answer": "The President of Sri Lanka is the head of state, head of government, and commander-in-chief of the armed forces."
+      },
+      {
+        "id": 89,
+        "question": "How many members are in the Parliament of Sri Lanka?",
+        "answer": "The Parliament of Sri Lanka has 225 members."
+      },
+      {
+        "id": 90,
+        "question": "How often are parliamentary elections held in Sri Lanka?",
+        "answer": "Parliamentary elections are held every 5 years."
+      },
+      {
+        "id": 91,
+        "question": "Who is the current Prime Minister of Sri Lanka?",
+        "answer": "Dinesh Gunawardena."
+      },
+      {
+        "id": 92,
+        "question": "When was the last parliamentary election held in Sri Lanka?",
+        "answer": "The last parliamentary election was held in August 2020."
+      },
+      {
+        "id": 93,
+        "question": "Who was the first Sri Lankan Prime Minister from the Tamil community?",
+        "answer": "S. W. R. D. Bandaranaike."
+      },
+      {
+        "id": 94,
+        "question": "What political party did S. W. R. D. Bandaranaike found?",
+        "answer": "He founded the Sri Lanka Freedom Party (SLFP)."
+      },
+      {
+        "id": 95,
+        "question": "Who was the leader of the Sri Lanka Freedom Party (SLFP) after S. W. R. D. Bandaranaike's assassination?",
+        "answer": "Sirimavo Bandaranaike, his widow, became the leader of the SLFP."
+      },
+      {
+        "id": 96,
+        "question": "What is the primary role of the Parliament of Sri Lanka?",
+        "answer": "The primary role of Parliament is to make laws, debate national issues, and oversee the executive branch."
+      },
+      {
+        "id": 97,
+        "question": "Who has the power to dissolve the Parliament of Sri Lanka?",
+        "answer": "The President has the power to dissolve Parliament."
+      },
+      {
+        "id": 98,
+        "question": "What is the voting age in Sri Lanka?",
+        "answer": "The voting age in Sri Lanka is 18 years old."
+      },
+      {
+        "id": 99,
+        "question": "What is the national flag of Sri Lanka called?",
+        "answer": "The national flag is called the 'Lion Flag.'"
+      },
+      {
+        "id": 100,
+        "question": "Who designed the national flag of Sri Lanka?",
+        "answer": "The current flag design was adopted after independence, with roots in a design from the Kandyan Kingdom."
+      },
+      {
+        "id": 101,
+        "question": "What are the colors on the Sri Lankan flag?",
+        "answer": "The flag features a lion holding a sword in gold, with green and orange vertical stripes representing the minority communities."
+      },
+      {
+        "id": 102,
+        "question": "What is the official currency of Sri Lanka?",
+        "answer": "The Sri Lankan Rupee (LKR) is the official currency."
+      },
+      {
+        "id": 103,
+        "question": "What is the total population of Sri Lanka as of the latest census?",
+        "answer": "The total population is around 22 million."
+      },
+      {
+        "id": 104,
+        "question": "What are the two most widely spoken languages in Sri Lanka?",
+        "answer": "Sinhala and Tamil are the two most widely spoken languages."
+      },
+      {
+        "id": 105,
+        "question": "What is the literacy rate in Sri Lanka?",
+        "answer": "The literacy rate is approximately 92%."
+      },
+      {
+        "id": 106,
+        "question": "What is the most popular sport in Sri Lanka?",
+        "answer": "Cricket is the most popular sport."
+      },
+      {
+        "id": 107,
+        "question": "Which Sri Lankan cricketer is considered one of the greatest of all time?",
+        "answer": "Muttiah Muralitharan, a legendary spin bowler."
+      },
+      {
+        "id": 108,
+        "question": "What year did Sri Lanka win the Cricket World Cup?",
+        "answer": "Sri Lanka won the Cricket World Cup in 1996."
+      },
+      {
+        "id": 109,
+        "question": "Who was the captain of the Sri Lankan cricket team during their 1996 World Cup victory?",
+        "answer": "Arjuna Ranatunga was the captain."
+      },
+      {
+        "id": 110,
+        "question": "What is the national flower of Sri Lanka?",
+        "answer": "The Blue Water Lily (Nymphaea nouchali) is the national flower."
+      },
+      {
+        "id": 111,
+        "question": "What is the national tree of Sri Lanka?",
+        "answer": "The Ceylon Ironwood (Mesua ferrea) is the national tree."
+      },
+      {
+        "id": 112,
+        "question": "What is the highest mountain in Sri Lanka?",
+        "answer": "Pidurutalagala is the highest mountain in Sri Lanka."
+      },
+      {
+        "id": 113,
+        "question": "What is the longest river in Sri Lanka?",
+        "answer": "The Mahaweli River is the longest river."
+      },
+      {
+        "id": 114,
+        "question": "What is the largest natural harbor in Sri Lanka?",
+        "answer": "Trincomalee Harbor is the largest natural harbor."
+      },
+      {
+        "id": 115,
+        "question": "Which UNESCO World Heritage Site is located in the central highlands of Sri Lanka?",
+        "answer": "The Central Highlands, including the Knuckles Mountain Range, is a UNESCO World Heritage Site."
+      },
+      {
+        "id": 116,
+        "question": "What is the ancient capital of Sri Lanka known for its ruins and historical significance?",
+        "answer": "Anuradhapura is the ancient capital."
+      },
+      {
+        "id": 117,
+        "question": "What is the sacred Buddhist relic housed in Kandy?",
+        "answer": "The Sacred Tooth Relic is housed in the Temple of the Tooth in Kandy."
+      },
+      {
+        "id": 118,
+        "question": "What are the two main ethnic groups in Sri Lanka?",
+        "answer": "The Sinhalese and the Tamils are the two main ethnic groups."
+      },
+      {
+        "id": 119,
+        "question": "What is the traditional attire worn by women in Sri Lanka?",
+        "answer": "The saree is the traditional attire worn by women."
+      },
+      {
+        "id": 120,
+        "question": "What is the traditional attire worn by men in Sri Lanka?",
+        "answer": "The sarong is the traditional attire worn by men."
+      },
+      {
+        "id": 121,
+        "question": "Who is the current President of Sri Lanka since 2022?",
+        "answer": "Ranil Wickremesinghe"
+      },
+      {
+        "id": 122,
+        "question": "What symbol does Ranil Wickremesinghe use in the election?",
+        "answer": "Gas Cylinder"
+      },
+      {
+        "id": 123,
+        "question": "Which political party does Ranil Wickremesinghe lead?",
+        "answer": "United National Party"
+      },
+      {
+        "id": 124,
+        "question": "Who are some of the endorsements for Ranil Wickremesinghe?",
+        "answer": "United National Party, breakaway members of the Sri Lanka Podujana Peramuna, Ceylon Workers' Congress, Eelam People's Democratic Party, Mahajana Eksath Peramuna, New Lanka Freedom Party, Tamil Makkal Viduthalai Pulikal"
+      },
+      {
+        "id": 125,
+        "question": "When did Ranil Wickremesinghe declare his candidacy?",
+        "answer": "26 July 2024"
+      },
+      {
+        "id": 126,
+        "question": "Who is the current Leader of the Opposition?",
+        "answer": "Sajith Premadasa"
+      },
+      {
+        "id": 127,
+        "question": "What is Sajith Premadasa's election symbol?",
+        "answer": "Telephone"
+      },
+      {
+        "id": 128,
+        "question": "Which party does Sajith Premadasa lead?",
+        "answer": "Samagi Jana Balawegaya"
+      },
+      {
+        "id": 129,
+        "question": "What is Sajith Premadasa's constituency?",
+        "answer": "Colombo"
+      },
+      {
+        "id": 130,
+        "question": "When did Sajith Premadasa declare his candidacy?",
+        "answer": "16 May 2023"
+      },
+      {
+        "id": 131,
+        "question": "Who is the leader of the National People's Power?",
+        "answer": "Anura Kumara Dissanayake"
+      },
+      {
+        "id": 132,
+        "question": "What is Anura Kumara Dissanayake's election symbol?",
+        "answer": "Compass"
+      },
+      {
+        "id": 133,
+        "question": "What is Anura Kumara Dissanayake's constituency?",
+        "answer": "Colombo"
+      },
+      {
+        "id": 134,
+        "question": "When did Anura Kumara Dissanayake declare his candidacy?",
+        "answer": "29 August 2023"
+      },
+      {
+        "id": 135,
+        "question": "Who is the 5th Chief of the Defence Staff of Sri Lanka?",
+        "answer": "Field Marshal Sarath Fonseka"
+      },
+      {
+        "id": 136,
+        "question": "What is Field Marshal Sarath Fonseka's election symbol?",
+        "answer": "Lantern"
+      },
+      {
+        "id": 137,
+        "question": "What is Field Marshal Sarath Fonseka's constituency?",
+        "answer": "Gampaha"
+      },
+      {
+        "id": 138,
+        "question": "When did Field Marshal Sarath Fonseka declare his candidacy?",
+        "answer": "25 July 2024"
+      },
+      {
+        "id": 139,
+        "question": "Who is the former Minister of Justice and current candidate of the National Democratic Front?",
+        "answer": "Wijeyadasa Rajapakshe"
+      },
+      {
+        "id": 140,
+        "question": "What is Wijeyadasa Rajapakshe's election symbol?",
+        "answer": "Car"
+      },
+      {
+        "id": 141,
+        "question": "What is Wijeyadasa Rajapakshe's constituency?",
+        "answer": "Colombo"
+      },
+      {
+        "id": 142,
+        "question": "When did Wijeyadasa Rajapakshe declare his candidacy?",
+        "answer": "25 July 2024"
+      },
+      {
+        "id": 143,
+        "question": "Who is the former Minister of Youth and Sports and current candidate of the Sri Lanka Podujana Peramuna?",
+        "answer": "Namal Rajapaksa"
+      },
+      {
+        "id": 144,
+        "question": "What is Namal Rajapaksa's election symbol?",
+        "answer": "Flower bud (Pohottuwa)"
+      },
+      {
+        "id": 145,
+        "question": "What is Namal Rajapaksa's constituency?",
+        "answer": "Hambantota"
+      },
+      {
+        "id": 146,
+        "question": "When did Namal Rajapaksa declare his candidacy?",
+        "answer": "7 August 2024"
+      },
+      {
+        "id": 147,
+        "question": "Who is the former JVP/UPFA MP for Gampaha and independent candidate?",
+        "answer": "Siripala Amarasinghe"
+      },
+      {
+        "id": 148,
+        "question": "What is Siripala Amarasinghe's election symbol?",
+        "answer": "Tyre"
+      },
+      {
+        "id": 149,
+        "question": "Who is the independent candidate with the election symbol Horseshoe?",
+        "answer": "Chaminda Anuruddha"
+      },
+      {
+        "id": 150,
+        "question": "What is P. Ariyanethiran's election symbol?",
+        "answer": "Conch shell"
+      },
+      {
+        "id": 151,
+        "question": "Which parties endorse P. Ariyanethiran?",
+        "answer": "EPRLF, PLOTE, TELO, Tamil National Party, TMK"
+      },
+      {
+        "id": 152,
+        "question": "What is D. M. Bandaranaike's election symbol?",
+        "answer": "Table fan"
+      },
+      {
+        "id": 153,
+        "question": "Who is the academic at the University of Peradeniya and candidate of the National Development Front?",
+        "answer": "P. W. S. K. Bandaranayake"
+      },
+      {
+        "id": 154,
+        "question": "What is P. W. S. K. Bandaranayake's election symbol?",
+        "answer": "Coconut"
+      },
+      {
+        "id": 155,
+        "question": "Who is the Aragalaya activist and candidate of the Socialist People's Forum?",
+        "answer": "Nuwan Bopage"
+      },
+      {
+        "id": 156,
+        "question": "What is Nuwan Bopage's election symbol?",
+        "answer": "Umbrella"
+      },
+      {
+        "id": 157,
+        "question": "What is the election symbol of Akmeemana Dayarathana Thero?",
+        "answer": "Blackboard"
+      },
+      {
+        "id": 158,
+        "question": "Who is the Socialist Party of Sri Lanka candidate?",
+        "answer": "Mahinda Dewage"
+      },
+      {
+        "id": 159,
+        "question": "What is Mahinda Dewage's election symbol?",
+        "answer": "Balloon"
+      },
+      {
+        "id": 160,
+        "question": "Who is the leader of the New Independent Front and former UNP candidate in Colombo?",
+        "answer": "Oshala Herath"
+      },
+      {
+        "id": 161,
+        "question": "What is Oshala Herath's election symbol?",
+        "answer": "Till"
+      },
+      {
+        "id": 162,
+        "question": "What is Mohamed Illiyas's election symbol?",
+        "answer": "Syringe"
+      },
+      {
+        "id": 163,
+        "question": "Who is the Democratic Unity Alliance candidate?",
+        "answer": "Abubakar Mohamed Infaz"
+      },
+      {
+        "id": 164,
+        "question": "What is Sidney Jayarathna's election symbol?",
+        "answer": "Jackfruit"
+      },
+      {
+        "id": 165,
+        "question": "Who is the United Socialist Party candidate with the symbol Tri-shaw?",
+        "answer": "Siritunga Jayasuriya"
+      },
+      {
+        "id": 166,
+        "question": "What is Dilith Jayaweera's election symbol?",
+        "answer": "Star"
+      },
+      {
+        "id": 167,
+        "question": "Who is the leader of the Mawbima Janatha Pakshaya?",
+        "answer": "Dilith Jayaweera"
+      },
+      {
+        "id": 168,
+        "question": "What is Sarath Keerthirathne's election symbol?",
+        "answer": "Football"
+      },
+      {
+        "id": 169,
+        "question": "Who is the leader of the Arunalu People's Front?",
+        "answer": "K. R. Kishan"
+      },
+      {
+        "id": 170,
+        "question": "What is K. R. Kishan's election symbol?",
+        "answer": "Water tap"
+      },
+      {
+        "id": 171,
+        "question": "Who is the candidate of the Socialist Democratic Party?",
+        "answer": "Chandana Kathriarachchi"
+      },
+      {
+        "id": 172,
+        "question": "What is Chandana Kathriarachchi's election symbol?",
+        "answer": "Light bulb"
+      },
+      {
+        "id": 173,
+        "question": "Who is the former Supreme Court Judge and candidate of the Independent People's Alliance?",
+        "answer": "K. V. R. A. Balasuriya"
+      },
+      {
+        "id": 174,
+        "question": "What is K. V. R. A. Balasuriya's election symbol?",
+        "answer": "Bicycle"
+      },
+      {
+        "id": 175,
+        "question": "Who is the former Ambassador to the UN and candidate of the People's Liberation Front?",
+        "answer": "Mahendra Perera"
+      },
+      {
+        "id": 176,
+        "question": "What is Mahendra Perera's election symbol?",
+        "answer": "Leaf"
+      },
+      {
+        "id": 177,
+        "question": "What is W. M. K. A. S. S. Senevirathne's election symbol?",
+        "answer": "Cycle"
+      },
+      {
+        "id": 178,
+        "question": "Who is the candidate of the People's Democratic Party?",
+        "answer": "Ajith Kumar"
+      },
+      {
+        "id": 179,
+        "question": "What is Ajith Kumar's election symbol?",
+        "answer": "Electric fan"
+      },
+      {
+        "id": 180,
+        "question": "Who is the former Deputy Minister of Education and candidate of the Ceylon Workers' Congress?",
+        "answer": "K. A. K. K. Rajendran"
+      },
+      {
+      "id": 181,
+      "question": "What is K. A. K. K. Rajendran's election symbol?",
+      "answer": "Umbrella"
+      },
+      {
+        "id": 182,
+        "question": "Who is the candidate of the Sri Lanka Labour Party?",
+        "answer": "R. S. J. Nadarajah"
+      },
+      {
+        "id": 183,
+        "question": "What is R. S. J. Nadarajah's election symbol?",
+        "answer": "Gear"
+      },
+      {
+        "id": 184,
+        "question": "Who is the candidate of the United Sinhala Front?",
+        "answer": "W. M. M. S. A. Priyantha"
+      },
+      {
+        "id": 185,
+        "question": "What is W. M. M. S. A. Priyantha's election symbol?",
+        "answer": "Hand fan"
+      },
+      {
+        "id": 186,
+        "question": "Who is the candidate of the Democratic Socialist Party?",
+        "answer": "V. J. B. D. Perera"
+      },
+      {
+        "id": 187,
+        "question": "What is V. J. B. D. Perera's election symbol?",
+        "answer": "Scissors"
+      },
+      {
+        "id": 188,
+        "question": "Who is the candidate of the All Sri Lanka Students Union?",
+        "answer": "G. R. S. Jayaratne"
+      },
+      {
+        "id": 189,
+        "question": "What is G. R. S. Jayaratne's election symbol?",
+        "answer": "Horse"
+      },
+      {
+        "id": 190,
+        "question": "Who is the candidate of the New Sri Lanka Party?",
+        "answer": "S. M. H. De Silva"
+      },
+      {
+        "id": 191,
+        "question": "What is S. M. H. De Silva's election symbol?",
+        "answer": "Fan"
+      },
+      {
+        "id": 192,
+        "question": "Who is the candidate of the Future Sri Lanka Party?",
+        "answer": "R. M. A. Ratnayake"
+      },
+      {
+        "id": 193,
+        "question": "What is R. M. A. Ratnayake's election symbol?",
+        "answer": "Flag"
+      },
+      {
+        "id": 194,
+        "question": "Who is the candidate of the Green Party of Sri Lanka?",
+        "answer": "L. W. J. Fernando"
+      },
+      {
+        "id": 195,
+        "question": "What is L. W. J. Fernando's election symbol?",
+        "answer": "Plant"
+      },
+      {
+        "id": 196,
+        "question": "Who is the candidate of the Progressive Labour Party?",
+        "answer": "H. A. S. A. K. Gunasekara"
+      },
+      {
+        "id": 197,
+        "question": "What is H. A. S. A. K. Gunasekara's election symbol?",
+        "answer": "Wheelbarrow"
+      },
+      {
+        "id": 198,
+        "question": "Who is the candidate of the Sri Lankan Unity Party?",
+        "answer": "R. W. D. S. Jayaweera"
+      },
+      {
+        "id": 199,
+        "question": "What is R. W. D. S. Jayaweera's election symbol?",
+        "answer": "Hand truck"
+      },
+      {
+        "id": 200,
+        "question": "Who is the candidate of the Sri Lankan National Congress?",
+        "answer": "K. L. B. R. Perera"
+      },
+      {
+        "id": 201,
+        "question": "What is K. L. B. R. Perera's election symbol?",
+        "answer": "Calculator"
+      },
+      {
+        "id": 202,
+        "question": "Who is the candidate of the United People's Alliance?",
+        "answer": "D. A. M. K. Wijesinghe"
+      },
+      {
+        "id": 203,
+        "question": "What is D. A. M. K. Wijesinghe's election symbol?",
+        "answer": "Shovel"
+      },
+      {
+        "id": 204,
+        "question": "Who is the candidate of the Sri Lanka Workers Party?",
+        "answer": "M. B. S. Senanayake"
+      },
+      {
+        "id": 205,
+        "question": "What is M. B. S. Senanayake's election symbol?",
+        "answer": "Chisel"
+      },
+      {
+        "id": 206,
+        "question": "Who is the candidate of the New Sri Lanka Alliance?",
+        "answer": "G. L. A. Kumara"
+      },
+      {
+        "id": 207,
+        "question": "What is G. L. A. Kumara's election symbol?",
+        "answer": "Wrench"
+      },
+      {
+        "id": 208,
+        "question": "Who is the leader of the New Independent Front?",
+        "answer": "Oshala Herath"
+      },
+      {
+        "id": 209,
+        "question": "What is Oshala Herath's election symbol?",
+        "answer": "Till"
+      },
+      {
+        "id": 210,
+        "question": "Who is the candidate of the United Lanka People's Party?",
+        "answer": "Janaka Ratnayake"
+      },
+      {
+        "id": 211,
+        "question": "What is Janaka Ratnayake's election symbol?",
+        "answer": "Cup"
+      },
+      {
+        "id": 212,
+        "question": "Who is the candidate of the People's Welfare Front?",
+        "answer": "Ajantha de Zoyza"
+      },
+      {
+        "id": 213,
+        "question": "What is Ajantha de Zoyza's election symbol?",
+        "answer": "Pineapple"
+      },
+      {
+        "id": 214,
+        "question": "Who is the candidate of the Samabima Party?",
+        "answer": "Namal Rajapakshe"
+      },
+      {
+        "id": 215,
+        "question": "What is the election symbol of the candidate of the Samabima Party?",
+        "answer": "Envelope"
+      },
+      {
+        "id": 216,
+        "question": "What is the symbol of the candidate from the United Lanka People's Party?",
+        "answer": "Cup"
+      },
+      {
+        "id": 217,
+        "question": "Who is the candidate of the People's Welfare Front?",
+        "answer": "Ajantha de Zoyza"
+      },
+      {
+        "id": 218,
+        "question": "What is the election symbol of the candidate from the People's Welfare Front?",
+        "answer": "Tractor"
+      },
+      {
+        "id": 219,
+        "question": "What is the symbol of the candidate from the Democratic United National Front?",
+        "answer": "Eagle"
+      },
+      {
+        "id": 220,
+        "question": "Who is the candidate of the New Sinhala Heritage?",
+        "answer": "Sarath Manamendra"
+      },
+      {
+        "id": 221,
+        "question": "What is Sarath Manamendra's election symbol?",
+        "answer": "Bow and arrow"
+      },
+      {
+        "id": 222,
+        "question": "What is the election symbol of the candidate from the United Socialist Party?",
+        "answer": "Tri-shaw"
+      },
+      {
+        "id": 223,
+        "question": "What is the symbol of the candidate from the Socialist Party of Sri Lanka?",
+        "answer": "Balloon"
+      },
+      {
+        "id": 224,
+        "question": "What is the symbol of the candidate from the New Sinhala Heritage?",
+        "answer": "Bow and arrow"
+      },
+      {
+        "id": 225,
+        "question": "What is the symbol of the candidate from the Sri Lanka Labour Party?",
+        "answer": "Kangaroo"
+      },
+      {
+        "id": 226,
+        "question": "What is the symbol of the candidate from the People's Welfare Front?",
+        "answer": "Tractor"
+      },
+      {
+        "id": 227,
+        "question": "What is the election symbol of the candidate from the Democratic United National Front?",
+        "answer": "Eagle"
+      },
+      {
+        "id": 228,
+        "question": "What is the symbol of the candidate from the Socialist People's Forum?",
+        "answer": "Umbrella"
+      },
+      {
+        "id": 229,
+        "question": "What is the symbol of the candidate from the United Socialist Party?",
+        "answer": "Tri-shaw"
+      },
+      {
+        "id": 230,
+        "question": "What is the symbol of the candidate from the Socialist Party of Sri Lanka?",
+        "answer": "Balloon"
+      },
+      {
+        "id": 231,
+        "question": "What is the symbol of the candidate from the New Sinhala Heritage?",
+        "answer": "Bow and arrow"
+      },
+      {
+        "id": 232,
+        "question": "What is the symbol of the candidate from the Sri Lanka Labour Party?",
+        "answer": "Kangaroo"
+      },
+      {
+        "id": 233,
+        "question": "What is the symbol of the candidate from the People's Welfare Front?",
+        "answer": "Tractor"
+      },
+      {
+        "id": 234,
+        "question": "What is the symbol of the candidate from the Democratic United National Front?",
+        "answer": "Eagle"
+      },
+      {
+        "id": 235,
+        "question": "What is the symbol of the candidate from the Socialist People's Forum?",
+        "answer": "Umbrella"
+      },
+      {
+        "id": 236,
+        "question": "What is the symbol of the candidate from the United Socialist Party?",
+        "answer": "Tri-shaw"
+      },
+      {
+        "id": 237,
+        "question": "What is the symbol of the candidate from the Socialist Party of Sri Lanka?",
+        "answer": "Balloon"
+      },
+      {
+        "id": 238,
+        "question": "What is the symbol of the candidate from the New Sinhala Heritage?",
+        "answer": "Bow and arrow"
+      },
+      {
+        "id": 239,
+        "question": "What is the symbol of the candidate from the Sri Lanka Labour Party?",
+        "answer": "Kangaroo"
+      },
+      {
+        "id": 240,
+        "question": "What is the symbol of the candidate from the People's Welfare Front?",
+        "answer": "Tractor"
+      },
+      {
+        "id": 241,
+        "question": "What is the symbol of the candidate from the Democratic United National Front?",
+        "answer": "Eagle"
+      },
+      {
+        "id": 242,
+        "question": "What is the symbol of the candidate from the Socialist People's Forum?",
+        "answer": "Umbrella"
+      },
+      {
+        "id": 243,
+        "question": "What is the symbol of the candidate from the United Socialist Party?",
+        "answer": "Tri-shaw"
+      },
+      {
+        "id": 244,
+        "question": "What is the symbol of the candidate from the Socialist Party of Sri Lanka?",
+        "answer": "Balloon"
+      },
+      {
+        "id": 245,
+        "question": "What is the symbol of the candidate from the New Sinhala Heritage?",
+        "answer": "Bow and arrow"
+      },
+      {
+        "id": 246,
+        "question": "What is the symbol of the candidate from the Sri Lanka Labour Party?",
+        "answer": "Kangaroo"
+      },
+      {
+        "id": 247,
+        "question": "What is the symbol of the candidate from the People's Welfare Front?",
+        "answer": "Tractor"
+      },
+      {
+        "id": 248,
+        "question": "What is the symbol of the candidate from the Democratic United National Front?",
+        "answer": "Eagle"
+      },
+      {
+        "id": 249,
+        "question": "What is the symbol of the candidate from the Socialist People's Forum?",
+        "answer": "Umbrella"
+      },
+      {
+        "id": 250,
+        "question": "What is the symbol of the candidate from the United Socialist Party?",
+        "answer": "Tri-shaw"
+      },
+      {
+        "id": 251,
+        "question": "What is the symbol of the candidate from the Socialist Party of Sri Lanka?",
+        "answer": "Balloon"
+      },
+      {
+        "id": 252,
+        "question": "What is the symbol of the candidate from the New Sinhala Heritage?",
+        "answer": "Bow and arrow"
+      },
+      {
+        "id": 253,
+        "question": "What is the symbol of the candidate from the Sri Lanka Labour Party?",
+        "answer": "Kangaroo"
+      },
+      {
+        "id": 254,
+        "question": "What is the symbol of the candidate from the People's Welfare Front?",
+        "answer": "Tractor"
+      },
+      {
+        "id": 255,
+        "question": "What is the symbol of the candidate from the Democratic United National Front?",
+        "answer": "Eagle"
+      },
+      {
+        "id": 256,
+        "question": "What is the symbol of the candidate from the Socialist People's Forum?",
+        "answer": "Umbrella"
+      },
+      {
+        "id": 257,
+        "question": "What is the symbol of the candidate from the United Socialist Party?",
+        "answer": "Tri-shaw"
+      },
+      {
+        "id": 258,
+        "question": "What is the symbol of the candidate from the Socialist Party of Sri Lanka?",
+        "answer": "Balloon"
+      },
+      {
+        "id": 259,
+        "question": "What is the symbol of the candidate from the New Sinhala Heritage?",
+        "answer": "Bow and arrow"
+      },
+      {
+        "id": 260,
+        "question": "What is the symbol of the candidate from the Sri Lanka Labour Party?",
+        "answer": "Kangaroo"
+      },
+      {
+        "id": 261,
+        "question": "What is the symbol of the candidate from the People's Welfare Front?",
+        "answer": "Tractor"
+      },
+      {
+        "id": 262,
+        "question": "What is the symbol of the candidate from the Democratic United National Front?",
+        "answer": "Eagle"
+      },
+      {
+        "id": 263,
+        "question": "What is the symbol of the candidate from the Socialist People's Forum?",
+        "answer": "Umbrella"
+      },
+      {
+        "id": 264,
+        "question": "What is the symbol of the candidate from the United Socialist Party?",
+        "answer": "Tri-shaw"
+      },
+      {
+        "id": 265,
+        "question": "What is the symbol of the candidate from the Socialist Party of Sri Lanka?",
+        "answer": "Balloon"
+      },
+      {
+        "id": 266,
+        "question": "What is the symbol of the candidate from the New Sinhala Heritage?",
+        "answer": "Bow and arrow"
+      },
+      {
+        "id": 267,
+        "question": "Who are the candidates in the upcoming election?",
+        "answer": "Ranil Wickremesinghe, Sajith Premadasa, Anura Kumara Dissanayake, Field Marshal Sarath Fonseka, Wijeyadasa Rajapakshe, Namal Rajapaksa, Siripala Amarasinghe, Chaminda Anuruddha, P. Ariyanethiran, D. M. Bandaranaike, P. W. S. K. Bandaranayake, Nuwan Bopage, Akmeemana Dayarathana Thero, Mahinda Dewage, Oshala Herath, Mohamed Illiyas, Abubakar Mohamed Infaz, Sidney Jayarathna, Siritunga Jayasuriya, Dilith Jayaweera, Sarath Keerthirathne, K. R. Kishan, Ananda Kularatne, A. S. P. Liyanage, Sarath Manamendra, Victor Anthony Perera, K. K. Piyadasa, M. M. Premasiri, Namal Rajapakshe, Roshan Ranasinghe, Janaka Ratnayake, Battaramulle Seelarathana Thero, Lalith de Silva, Suranjeewa Anoj de Silva, M. Thilakarajah, Keerthi Wickremeratne, Priyantha Wickremesinghe, Pani Wijesiriwardena, Ajantha de Zoyza."
+      },
+      {
+        "id": 268,
+        "question": "Who is the candidate from the Independent party with the symbol 'Gas Cylinder'?",
+        "answer": "Ranil Wickremesinghe"
+      },
+      {
+        "id": 269,
+        "question": "Which candidate represents the Samagi Jana Balawegaya party with the symbol 'Telephone'?",
+        "answer": "Sajith Premadasa"
+      },
+      {
+        "id": 270,
+        "question": "Who is the candidate from the National People's Power with the symbol 'Compass'?",
+        "answer": "Anura Kumara Dissanayake"
+      },
+      {
+        "id": 271,
+        "question": "Who is the candidate from the National Democratic Front with the symbol 'Car'?",
+        "answer": "Wijeyadasa Rajapakshe"
+      },
+      {
+        "id": 272,
+        "question": "Which candidate is running with the symbol 'Lantern' from the Independent party?",
+        "answer": "Field Marshal Sarath Fonseka"
+      },
+      {
+        "id": 273,
+        "question": "Who is the candidate from the Sri Lanka Podujana Peramuna with the symbol 'Flower bud (Pohottuwa)'?",
+        "answer": "Namal Rajapaksa"
+      },
+      {
+        "id": 274,
+        "question": "Who is the candidate with the symbol 'Telephone' from the Samagi Jana Balawegaya?",
+        "answer": "Sajith Premadasa"
+      },
+      {
+        "id": 275,
+        "question": "Which candidate is running with the symbol 'Umbrella' from the Socialist People’s Forum?",
+        "answer": "Nuwan Bopage"
+      },
+      {
+        "id": 276,
+        "question": "Who is the candidate from the New Sinhala Heritage with the symbol 'Bow and arrow'?",
+        "answer": "Sarath Manamendra"
+      },
+      {
+        "id": 277,
+        "question": "Who represents the United Socialist Party with the symbol 'Tri-shaw'?",
+        "answer": "Siritunga Jayasuriya"
+      },
+      {
+        "id": 278,
+        "question": "Which candidate from the Democratic United National Front uses the symbol 'Eagle'?",
+        "answer": "Suranjeewa Anoj de Silva"
+      },
+      {
+        "id": 279,
+        "question": "Who is the candidate from the Sri Lanka Labour Party with the symbol 'Kangaroo'?",
+        "answer": "A. S. P. Liyanage"
+      },
+      {
+        "id": 280,
+        "question": "Who is the candidate with the symbol 'Tractor' from the People's Welfare Front?",
+        "answer": "Battaramulle Seelarathana Thero"
+      },
+      {
+        "id": 281,
+        "question": "Who is the candidate with the symbol 'Balloon' from the Socialist Party of Sri Lanka?",
+        "answer": "Mahinda Dewage"
+      },
+      {
+        "id": 282,
+        "question": "Which candidate is running with the symbol 'Star' from the Communist Party of Sri Lanka?",
+        "answer": "Dilith Jayaweera"
+      },
+      {
+        "id": 283,
+        "question": "Who is the candidate from the Democratic Unity Alliance with the symbol 'Two leaves'?",
+        "answer": "Abubakar Mohamed Infaz"
+      },
+      {
+        "id": 284,
+        "question": "Who is the candidate from the Independent party with the symbol 'Tyre'?",
+        "answer": "Siripala Amarasinghe"
+      },
+      {
+        "id": 285,
+        "question": "Who is the candidate with the symbol 'Conch shell' endorsed by the EPRLF, PLOTE, TELO, Tamil National Party and TMK?",
+        "answer": "P. Ariyanethiran"
+      },
+      {
+        "id": 286,
+        "question": "Who represents the National Development Front with the symbol 'Coconut'?",
+        "answer": "P. W. S. K. Bandaranayake"
+      }
+    ]
+  }
+  
