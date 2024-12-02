@@ -129,9 +129,12 @@ def prediction_page():
     def get_prediction(input_text):
         try:
             prompt = (
-                f"{input_text}\n"
-                "Act like an election prediction agent, analyze the given data, and based on the election manifesto, past incidents, public opinion, and media sentiment, provide the approximate percentage for each candidate."
-                "Return the results in a JSON format as {'candidates': ['Candidate1', 'Candidate2'], 'percentages': [50, 50]}."
+                 f"{input_text}\n"
+                "You are an election prediction agent. Analyze the given data, which includes the election manifesto, past incidents, public opinion, and media sentiment. "
+                "Based on this analysis, calculate the approximate percentage of votes each candidate is likely to receive. "
+                "Provide the result in the following JSON format: "
+                "{'candidates': ['Candidate1', 'Candidate2'], 'percentages': [50, 50]}."
+                "Ensure the percentages add up to 100 and reflect a valid analysis of the data provided."
             )
             
             response = model.generate_content(
