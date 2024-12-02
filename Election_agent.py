@@ -132,7 +132,7 @@ def prediction_page():
                  f"{input_text}\n"
                 "Analyze the election data including manifesto, public opinion, and past incidents. "
                 "Provide the predicted percentage of votes for each candidate in JSON format as {'candidates': ['A', 'B'], 'percentages': [60, 40]}."
-                )
+            )
             
             response = model.generate_content(
                 [prompt],
@@ -141,9 +141,14 @@ def prediction_page():
                     HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
                 }
             )
-            st.write("Raw API Response:", response)
-            response_data = json.loads(response.text)
-            return response_data
+            prediction_text = response.candidates[0].content.parts[0].text.strip()
+            try:
+                prediction_data = json.loads(prediction_text)
+                return prediction_data
+            except json.JSONDecodeError:
+                st.warning("API did not return valid JSON. Showing raw response text.")
+                st.write(prediction_text)
+                return None
         except Exception as e:
             st.error(f"Error generating predictions: {e}")
             return None
