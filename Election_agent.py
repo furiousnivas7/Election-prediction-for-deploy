@@ -176,18 +176,6 @@ def prediction_page():
 
     data_folder = 'data1'
     data = load_data_from_folder(data_folder)
-    if not data:
-        st.error("No data loaded. Ensure the data folder contains valid JSON files.")
-
-    input_text = prepare_input_text(data)
-
-    if not input_text.strip():
-        st.error("No input data available for prediction. Check the loaded data.")
-    else:
-        prediction_data = get_prediction(input_text)
-        
-    if prediction_data:
-        st.write("Prediction Data:", prediction_data)
 
     if data:
         input_text = prepare_input_text(data)
