@@ -221,6 +221,8 @@ def prediction_page():
             reply = get_user_message_reply(user_message, data)            
             if reply:
                 st.subheader("Here is my prediction")
+                if not data:
+                    st.error("No data loaded. Ensure the data folder contains valid JSON files.")
                 st.write(reply)
                 st.write("Source:- www.ihp.lk, www.wikipedia.org, www.mawranews.lk, Party websites")
             else:
