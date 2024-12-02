@@ -130,12 +130,9 @@ def prediction_page():
         try:
             prompt = (
                  f"{input_text}\n"
-                "You are an election prediction agent. Analyze the given data, which includes the election manifesto, past incidents, public opinion, and media sentiment. "
-                "Based on this analysis, calculate the approximate percentage of votes each candidate is likely to receive. "
-                "Provide the result in the following JSON format: "
-                "{'candidates': ['Candidate1', 'Candidate2'], 'percentages': [50, 50]}."
-                "Ensure the percentages add up to 100 and reflect a valid analysis of the data provided."
-            )
+                "Analyze the election data including manifesto, public opinion, and past incidents. "
+                "Provide the predicted percentage of votes for each candidate in JSON format as {'candidates': ['A', 'B'], 'percentages': [60, 40]}."
+                )
             
             response = model.generate_content(
                 [prompt],
@@ -144,7 +141,7 @@ def prediction_page():
                     HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
                 }
             )
-            
+            st.write("Raw API Response:", response)
             response_data = json.loads(response.text)
             return response_data
         except Exception as e:
@@ -174,6 +171,18 @@ def prediction_page():
 
     data_folder = 'data1'
     data = load_data_from_folder(data_folder)
+    if not data:
+        st.error("No data loaded. Ensure the data folder contains valid JSON files.")
+
+    input_text = prepare_input_text(data)
+
+    if not input_text.strip():
+        st.error("No input data available for prediction. Check the loaded data.")
+    else:
+        prediction_data = get_prediction(input_text)
+        
+    if prediction_data:
+        st.write("Prediction Data:", prediction_data)
 
     if data:
         input_text = prepare_input_text(data)
